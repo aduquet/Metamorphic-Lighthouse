@@ -1,0 +1,3 @@
+isEmpty_True,has_zeros_True,has_duplicates_True,is_sorted_True,more_positive_or_negative_e,more_positive_or_negative_n,more_positive_or_negative_p,weigth_of_list_we,weigth_of_list_wn,weigth_of_list_wp,vs_str_error
+True,False,False,False,False,False,False,True,False,False,True
+False,True,False,True,True,False,False,True,False,False,True

@@ -1,0 +1,34 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'weigth_of_list_wp'}),frozenset({'vs_str_error'}),0.42857142857142855,1.0,0.42857142857142855,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_wn'}),frozenset({'vs_str_error'}),0.38095238095238093,1.0,0.38095238095238093,1.0,1.0,0.0,inf,0.0
+frozenset({'has_zeros'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.38095238095238093,0.42857142857142855,0.19047619047619047,0.5,1.1666666666666667,0.0272108843537415,1.1428571428571428,0.23076923076923078
+frozenset({'has_zeros'}),frozenset({'vs_str_error'}),0.38095238095238093,1.0,0.38095238095238093,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.38095238095238093,0.42857142857142855,0.19047619047619047,0.5,1.1666666666666667,0.0272108843537415,1.1428571428571428,0.23076923076923078
+frozenset({'has_duplicates'}),frozenset({'vs_str_error'}),0.38095238095238093,1.0,0.38095238095238093,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_n'}),frozenset({'vs_str_error'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_n'}),"frozenset({'vs_str_error', 'weigth_of_list_wn'})",0.3333333333333333,0.38095238095238093,0.16666666666666666,0.5,1.3125,0.03968253968253968,1.2380952380952381,0.3571428571428571
+frozenset({'more_positive_or_negative_e'}),frozenset({'vs_str_error'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'vs_str_error'})",frozenset({'weigth_of_list_wn'}),0.3333333333333333,0.38095238095238093,0.16666666666666666,0.5,1.3125,0.03968253968253968,1.2380952380952381,0.3571428571428571
+frozenset({'is_sorted'}),frozenset({'vs_str_error'}),0.30952380952380953,1.0,0.30952380952380953,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.30952380952380953,0.42857142857142855,0.16666666666666666,0.5384615384615384,1.2564102564102564,0.03401360544217685,1.238095238095238,0.29556650246305405
+frozenset({'more_positive_or_negative_p'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.30952380952380953,0.42857142857142855,0.16666666666666666,0.5384615384615384,1.2564102564102564,0.03401360544217685,1.238095238095238,0.29556650246305405
+frozenset({'more_positive_or_negative_p'}),frozenset({'vs_str_error'}),0.30952380952380953,1.0,0.30952380952380953,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.19047619047619047,1.0,0.19047619047619047,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_we'}),frozenset({'vs_str_error'}),0.19047619047619047,1.0,0.19047619047619047,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.16666666666666666,1.0,0.16666666666666666,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.16666666666666666,1.0,0.16666666666666666,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.16666666666666666,1.0,0.16666666666666666,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'has_duplicates'})",frozenset({'vs_str_error'}),0.16666666666666666,1.0,0.16666666666666666,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'has_duplicates'})",frozenset({'vs_str_error'}),0.16666666666666666,1.0,0.16666666666666666,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'has_duplicates'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'is_sorted'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_duplicates'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_p', 'has_duplicates'})",frozenset({'vs_str_error'}),0.14285714285714285,1.0,0.14285714285714285,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'is_sorted'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0
+"frozenset({'is_sorted', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'more_positive_or_negative_n'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.11904761904761904,1.0,0.11904761904761904,1.0,1.0,0.0,inf,0.0

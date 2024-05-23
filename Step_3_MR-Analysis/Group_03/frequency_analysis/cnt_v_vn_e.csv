@@ -1,0 +1,10 @@
+,method_name,MR_per_v_cnt,MR_per_nv_cnt,MR_per_e_cnt,MR_add_v_cnt,MR_add_nv_cnt,MR_add_e_cnt,MR_mul_v_cnt,MR_mul_nv_cnt,MR_mul_e_cnt,MR_inv_v_cnt,MR_inv_nv_cnt,MR_inv_e_cnt,MR_inc_v_cnt,MR_inc_nv_cnt,MR_inc_e_cnt,MR_exc_v_cnt,MR_exc_nv_cnt,MR_exc_e_cnt
+8,array_copy.json,0,1738,0,0,1738,0,1523,215,0,1287,211,240,0,1738,0,122,1616,0
+6,array_copy_logs.json,0,1738,0,0,1738,0,1523,215,0,1287,211,240,0,1738,0,122,1616,0
+5,bubble_logs.json,0,1738,0,0,1738,0,1523,215,0,1283,215,240,0,1738,0,122,1616,0
+3,insertion_sort_logs.json,0,1738,0,0,1738,0,1523,215,0,1283,215,240,0,1738,0,122,1616,0
+7,reverse_logs.json,0,1738,0,0,1738,0,1523,215,0,1287,211,240,0,1738,0,122,1616,0
+1,selection_sort_logs.json,0,1738,0,0,1738,0,1523,215,0,1283,215,240,0,1738,0,122,1616,0
+0,shell_sort_logs.json,0,1738,0,0,1738,0,1523,215,0,1283,215,240,0,1738,0,122,1616,0
+4,square_logs.json,0,1738,0,1515,223,0,240,1498,0,369,1129,240,0,1738,0,122,1616,0
+2,standardize_logs.json,262,1254,222,1507,9,222,1516,0,222,1276,1,461,97,1516,125,102,1414,222

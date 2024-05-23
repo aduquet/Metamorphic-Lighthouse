@@ -1,0 +1,129 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'has_zeros_True'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",1.0,0.5,0.5,0.5,1.0,0.0,1.0,0.0
+frozenset({'vs_str_error'}),"frozenset({'has_zeros_True', 'weigth_of_list_wp'})",1.0,0.5,0.5,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),1.0,0.5,0.5,0.5,1.0,0.0,1.0,0.0
+frozenset({'vs_str_error'}),frozenset({'has_zeros_True'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'has_zeros_True'}),frozenset({'vs_str_error'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'vs_str_error'}),frozenset({'weigth_of_list_wp'}),1.0,0.5,0.5,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.5,1.0,0.5,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_wp'}),frozenset({'vs_str_error'}),0.5,1.0,0.5,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.5,1.0,0.5,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_wp'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.5,1.0,0.5,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_wn'}),frozenset({'vs_str_error'}),0.4375,1.0,0.4375,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.4375,1.0,0.4375,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.4375,1.0,0.4375,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_wn'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.4375,1.0,0.4375,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'has_duplicates_True', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_duplicates_True', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wn'})",0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+"frozenset({'has_zeros_True', 'has_duplicates_True'})","frozenset({'weigth_of_list_wn', 'vs_str_error'})",0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+"frozenset({'has_zeros_True', 'has_duplicates_True', 'vs_str_error'})",frozenset({'weigth_of_list_wn'}),0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+frozenset({'more_positive_or_negative_e'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'more_positive_or_negative_e', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+frozenset({'has_duplicates_True'}),"frozenset({'has_zeros_True', 'weigth_of_list_wn', 'vs_str_error'})",0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+"frozenset({'has_duplicates_True', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_e'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+frozenset({'has_duplicates_True'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_duplicates_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+frozenset({'has_duplicates_True'}),"frozenset({'weigth_of_list_wn', 'vs_str_error'})",0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+"frozenset({'has_duplicates_True', 'vs_str_error'})",frozenset({'weigth_of_list_wn'}),0.375,0.4375,0.1875,0.5,1.1428571428571428,0.0234375,1.125,0.2
+frozenset({'has_duplicates_True'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+frozenset({'has_duplicates_True'}),"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+frozenset({'has_duplicates_True'}),frozenset({'vs_str_error'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_e'}),frozenset({'vs_str_error'}),0.375,1.0,0.375,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wp'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e'})","frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+frozenset({'more_positive_or_negative_e'}),"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_duplicates_True', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wp'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'has_duplicates_True'})","frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.375,0.5,0.1875,0.5,1.0,0.0,1.0,0.0
+"frozenset({'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+frozenset({'more_positive_or_negative_p'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+"frozenset({'more_positive_or_negative_n', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wn'})",0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+"frozenset({'more_positive_or_negative_n', 'vs_str_error'})",frozenset({'weigth_of_list_wn'}),0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+"frozenset({'has_zeros_True', 'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True'})","frozenset({'weigth_of_list_wn', 'vs_str_error'})",0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True', 'vs_str_error'})",frozenset({'weigth_of_list_wn'}),0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+frozenset({'more_positive_or_negative_p'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_p'})","frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+"frozenset({'more_positive_or_negative_p', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wp'})",0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+frozenset({'more_positive_or_negative_n'}),"frozenset({'weigth_of_list_wn', 'vs_str_error'})",0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+frozenset({'more_positive_or_negative_n'}),"frozenset({'has_zeros_True', 'weigth_of_list_wn', 'vs_str_error'})",0.3125,0.4375,0.1875,0.6,1.3714285714285714,0.05078125,1.40625,0.3939393939393939
+frozenset({'more_positive_or_negative_p'}),"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'vs_str_error'})",0.3125,0.5,0.1875,0.6,1.2,0.03125,1.25,0.24242424242424243
+"frozenset({'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_p'}),frozenset({'vs_str_error'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_n'}),frozenset({'vs_str_error'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True'})",frozenset({'vs_str_error'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+frozenset({'more_positive_or_negative_n'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.3125,1.0,0.3125,1.0,1.0,0.0,inf,0.0
+frozenset({'is_sorted_True'}),frozenset({'vs_str_error'}),0.25,1.0,0.25,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'is_sorted_True'})","frozenset({'more_positive_or_negative_e', 'vs_str_error'})",0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+"frozenset({'has_zeros_True', 'is_sorted_True', 'vs_str_error'})",frozenset({'more_positive_or_negative_e'}),0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+"frozenset({'is_sorted_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.25,1.0,0.25,1.0,1.0,0.0,inf,0.0
+"frozenset({'is_sorted_True', 'vs_str_error'})","frozenset({'has_zeros_True', 'more_positive_or_negative_e'})",0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+frozenset({'is_sorted_True'}),"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'vs_str_error'})",0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+"frozenset({'has_zeros_True', 'is_sorted_True', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'is_sorted_True'})","frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+"frozenset({'is_sorted_True', 'vs_str_error'})","frozenset({'has_zeros_True', 'weigth_of_list_wp'})",0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+"frozenset({'has_zeros_True', 'is_sorted_True'})",frozenset({'vs_str_error'}),0.25,1.0,0.25,1.0,1.0,0.0,inf,0.0
+frozenset({'is_sorted_True'}),"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'vs_str_error'})",0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+"frozenset({'is_sorted_True', 'vs_str_error'})",frozenset({'weigth_of_list_wp'}),0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+frozenset({'is_sorted_True'}),"frozenset({'weigth_of_list_wp', 'vs_str_error'})",0.25,0.5,0.125,0.5,1.0,0.0,1.0,0.0
+"frozenset({'is_sorted_True', 'vs_str_error'})",frozenset({'more_positive_or_negative_e'}),0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+frozenset({'is_sorted_True'}),"frozenset({'more_positive_or_negative_e', 'vs_str_error'})",0.25,0.375,0.125,0.5,1.3333333333333333,0.03125,1.25,0.3333333333333333
+frozenset({'is_sorted_True'}),"frozenset({'has_zeros_True', 'vs_str_error'})",0.25,1.0,0.25,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_p'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'weigth_of_list_wp', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'weigth_of_list_wp'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'has_duplicates_True'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'has_duplicates_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'weigth_of_list_wp', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'weigth_of_list_wn'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'weigth_of_list_wn', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'has_duplicates_True', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wn', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'more_positive_or_negative_e'})",frozenset({'vs_str_error'}),0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wn'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.1875,1.0,0.1875,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'weigth_of_list_wn'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'weigth_of_list_wn', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wp'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'more_positive_or_negative_p'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'weigth_of_list_wn', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wp', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'has_duplicates_True'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'is_sorted_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'weigth_of_list_wn'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wn', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'has_duplicates_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_zeros_True', 'has_duplicates_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'is_sorted_True'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_duplicates_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_n', 'has_duplicates_True'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'has_duplicates_True', 'more_positive_or_negative_p'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'more_positive_or_negative_p', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_duplicates_True', 'more_positive_or_negative_p'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'more_positive_or_negative_e', 'is_sorted_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'is_sorted_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'is_sorted_True'})","frozenset({'has_zeros_True', 'vs_str_error'})",0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'has_zeros_True', 'is_sorted_True', 'weigth_of_list_wp'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_wp', 'is_sorted_True', 'vs_str_error'})",frozenset({'has_zeros_True'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0
+"frozenset({'more_positive_or_negative_e', 'is_sorted_True'})",frozenset({'vs_str_error'}),0.125,1.0,0.125,1.0,1.0,0.0,inf,0.0

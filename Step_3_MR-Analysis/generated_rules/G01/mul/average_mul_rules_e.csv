@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'vs_str_error'}),frozenset({'isEmpty_True'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'isEmpty_True'}),frozenset({'vs_str_error'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'vs_str_error'}),frozenset({'weigth_of_list_we'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_we'}),frozenset({'vs_str_error'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+"frozenset({'vs_str_error', 'weigth_of_list_we'})",frozenset({'isEmpty_True'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+"frozenset({'vs_str_error', 'isEmpty_True'})",frozenset({'weigth_of_list_we'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+"frozenset({'weigth_of_list_we', 'isEmpty_True'})",frozenset({'vs_str_error'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'vs_str_error'}),"frozenset({'weigth_of_list_we', 'isEmpty_True'})",1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'weigth_of_list_we'}),"frozenset({'vs_str_error', 'isEmpty_True'})",1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0
+frozenset({'isEmpty_True'}),"frozenset({'vs_str_error', 'weigth_of_list_we'})",1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0

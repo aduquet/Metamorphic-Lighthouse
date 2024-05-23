@@ -1,0 +1,14 @@
+,method_name,MR_per_v,MR_per_nv,MR_per_e,MR_add_v,MR_add_nv,MR_add_e,MR_mul_v,MR_mul_nv,MR_mul_e,MR_inv_v,MR_inv_nv,MR_inv_e,MR_inc_v,MR_inc_nv,MR_inc_e,MR_exc_v,MR_exc_nv,MR_exc_e
+11,add_logs.json,84,16,0,0,100,0,86,14,0,43,13,44,0,100,0,6,94,0
+10,calculateDifferences_logs.json,84,16,0,94,6,0,88,12,0,45,11,44,0,100,0,6,94,0
+1,dec_logs.json,84,16,0,94,6,0,88,12,0,45,11,44,0,100,0,6,94,0
+7,ebeAdd_logs.json,84,16,0,0,100,0,86,14,0,43,13,44,0,100,0,6,94,0
+9,ebeDivide_logs.json,58,15,27,44,12,44,67,6,27,45,11,44,0,73,27,8,68,23
+6,ebeMultiply_logs.json,84,16,0,79,21,0,88,12,0,44,12,44,0,100,0,6,94,0
+5,ebeSubtract_logs.json,84,16,0,94,6,0,88,12,0,45,11,44,0,100,0,6,94,0
+8,elementwise_equal_logs.json,28,72,0,94,6,0,94,6,0,94,6,0,0,100,0,6,94,0
+0,elementwise_max_logs.json,77,23,0,0,100,0,75,25,0,37,19,44,0,100,0,6,94,0
+12,elementwise_min_logs.json,77,23,0,0,100,0,91,9,0,47,8,44,0,100,0,6,94,0
+2,elementwise_not_equal_logs.json,28,72,0,94,6,0,94,6,0,94,6,0,0,100,0,6,94,0
+4,find_diff_logs.json,84,16,0,94,6,0,88,12,0,45,11,44,0,100,0,6,94,0
+3,pooledMean_logs.json,0,94,6,0,94,6,53,41,6,27,23,50,11,83,6,44,44,12

@@ -1,0 +1,10 @@
+,method_name,MR_per_v,MR_per_nv,MR_per_e,MR_add_v,MR_add_nv,MR_add_e,MR_mul_v,MR_mul_nv,MR_mul_e,MR_inv_v,MR_inv_nv,MR_inv_e,MR_inc_v,MR_inc_nv,MR_inc_e,MR_exc_v,MR_exc_nv,MR_exc_e
+8,array_copy.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+6,array_copy_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+5,bubble_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+3,insertion_sort_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+7,reverse_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+1,selection_sort_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+0,shell_sort_logs.json,0,100,0,0,100,0,88,12,0,74,12,14,0,100,0,7,93,0
+4,square_logs.json,0,100,0,87,13,0,14,86,0,21,65,14,0,100,0,7,93,0
+2,standardize_logs.json,15,72,13,87,1,13,87,0,13,73,0,27,6,87,7,6,81,13

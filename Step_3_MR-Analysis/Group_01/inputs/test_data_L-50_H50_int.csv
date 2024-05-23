@@ -1,0 +1,1739 @@
+,id,test_data,test_data_type,values_type,size
+0,e7tAVrBnCw4QjQxJiPeCez,"[3, -11, 4, -28, 11, -31, -8, -21, -20, 0, -8, -8, 4, -20]",<class 'list'>,<class 'int'>,14
+1,7Vqwjpw4DndS8BXVSFJq6U,"[15, -20, -11, 9]",<class 'list'>,<class 'int'>,4
+2,VMeiaLyGwkqn542mscMjCh,"[-12, 14, -22, -23, -6, -12, 0, -15, -12, -1, 7]",<class 'list'>,<class 'int'>,11
+3,CgL95JFKXCyV9kpWFs6zPv,"[7, -25]",<class 'list'>,<class 'int'>,2
+4,5ptC59rmDfwUopP6pTvFYT,"[-22, 6, 2, -6]",<class 'list'>,<class 'int'>,4
+5,fBQJbaSjJs8qHgXGSA9mnH,[-18],<class 'list'>,<class 'int'>,1
+6,P6fu7e5m3W4W8ggMnZKNWb,"[4, 7, -10, 22, -19]",<class 'list'>,<class 'int'>,5
+7,XPxZGeHBJbY6NDgkNDHR4R,"[4, -2, 13, -15, -3, -10, 19, 14, -25]",<class 'list'>,<class 'int'>,9
+8,9nSq3LiNdTXxqdBHvMZgjq,"[10, -19, 10, -7, -30, 5, -19, -20]",<class 'list'>,<class 'int'>,8
+9,g6h6N5uJo4TRBiiBzmp6TE,"[4, -16, -7, -14]",<class 'list'>,<class 'int'>,4
+10,HBp9qPhTHXckZsjZ6zEVvg,"[-27, -3]",<class 'list'>,<class 'int'>,2
+11,ifaaDdqczxs5NeiUseA6UP,"[0, 10, -2, 0]",<class 'list'>,<class 'int'>,4
+12,CTcx5CMfZvuXkuZSj9UrvZ,"[-17, 23, 7, -15, 11, -23, -24, -2, -25]",<class 'list'>,<class 'int'>,9
+13,ZNPv4euySZyB57FXMynRjQ,"[-5, -20, -6, -3, -5, -11, -25]",<class 'list'>,<class 'int'>,7
+14,Uw3dngQDmBx5Z5fSfk8PZW,"[-24, -11, 8, -18, 12, -18, -19, 10, 3, 8, 6, -3, -6]",<class 'list'>,<class 'int'>,13
+15,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+16,BdCkghSJNdxHBYzG7U8xS9,"[-27, -2, -18, -1, -7, 17, 5, -25]",<class 'list'>,<class 'int'>,8
+17,RN5Huzu93JvbPx3okZvZTF,"[-13, 21, 18, -20, -29, -2, 2, -11, -16]",<class 'list'>,<class 'int'>,9
+18,GQWFviiUU5JbzpNqfYYrz8,"[15, -28, 21, -27, -3, -6, -27]",<class 'list'>,<class 'int'>,7
+19,3MWKmrrC2kYhdgjLbVebHY,"[-4, -25, 24, 14, 23, -16, -21, -24, -16, -25, -9, 14]",<class 'list'>,<class 'int'>,12
+20,BBn5gR9kADMbpHDEAGJNvy,"[-9, -3, 0, 17, -10, 9]",<class 'list'>,<class 'int'>,6
+21,bTG4DkkyVBaRBhMGn2CGcp,"[-17, -9, 5, -14, 2, -19, -4, 0, -17, -24, -25, 18, -16]",<class 'list'>,<class 'int'>,13
+22,JwXa7rvVon2DKT3q8WKVjv,"[11, -23, 0, 8, -25, -6, 1, 5, -4, -15, 3, 6, -22]",<class 'list'>,<class 'int'>,13
+23,Jc2J8GF2JxNSGvoFptHGu5,"[-22, 27, -23, -22, 16, 10, 18, 23, 5, 19, 1, 16, -5]",<class 'list'>,<class 'int'>,13
+24,frJye824jydiLf2GoR7sDd,"[2, -2, 29, 18, 29, 6, 22, 4, 19, 1, 31]",<class 'list'>,<class 'int'>,11
+25,eViJPQZcp2aqRWomt6eQFy,"[-17, -11, 23, 16, 9, 16, 12]",<class 'list'>,<class 'int'>,7
+26,RRwCTrUFQT5YZVYuwbmu7q,"[14, 4, 13, -15, 12, 0, -8]",<class 'list'>,<class 'int'>,7
+27,co4N9ySWBr7rWvUqYHv5DH,"[-17, 10, -28, -7, -9, 11, -23, -1, -4, -15, 21]",<class 'list'>,<class 'int'>,11
+28,A7G2wyAXD3SnbUQcCSpFqK,"[-9, -25]",<class 'list'>,<class 'int'>,2
+29,QAYGzY5gm4AHyaHc3xVLk7,"[-15, 0, 10, 0, -14, 13]",<class 'list'>,<class 'int'>,6
+30,YpcaYSxPm9dcfX4uKiWGJv,"[25, 26, 7, 14, 23]",<class 'list'>,<class 'int'>,5
+31,LtqashL4zCGioyiANd6gUM,"[4, -22, 2, -12, 3, -12, -13, -19, 15, -17]",<class 'list'>,<class 'int'>,10
+32,VqacyQMJo2MJSiHt9Pceag,"[12, -17, -3, -20]",<class 'list'>,<class 'int'>,4
+33,QMBBUjGXWfJ3FdwRGH58Gc,"[14, 24, -5, -21, 26, 22, -3, -15]",<class 'list'>,<class 'int'>,8
+34,C5okb8QavtdwvxrbPW4dsB,"[11, 19, 22, -2, -3, -13, 3, 24, -3, -1, 7]",<class 'list'>,<class 'int'>,11
+35,6V54PomtU3nttLHGoqG3Hv,"[6, -13]",<class 'list'>,<class 'int'>,2
+36,XK7eTGBixwPGqtMY3YZKrd,"[-30, 11, -8, 0, -30, 11]",<class 'list'>,<class 'int'>,6
+37,6snqNcDg8YZLbdcgau4Xjc,"[15, 9, 9, -17, 6, 19, 4, -9, 21, 12, 11, 19, 20, 12]",<class 'list'>,<class 'int'>,14
+38,hbNpcVAp2UHtoi4b66HVNB,"[-32, -23, 19, 22, 15, -5, -19]",<class 'list'>,<class 'int'>,7
+39,KZNakStyi66CsnxoMpSCj2,"[-14, -16, 13, -18, -10]",<class 'list'>,<class 'int'>,5
+40,UBj97h7G2AtduoYFeULbPX,"[9, -4, -3, 20, -15, -15, 27]",<class 'list'>,<class 'int'>,7
+41,Wwpu4rYuEQME62rgCbH9ug,"[-16, 24, -1, -8, 16, -1]",<class 'list'>,<class 'int'>,6
+42,mhReTZBo2qpwN7euDLSTAe,"[-1, 13, 22, -9, 27, 0]",<class 'list'>,<class 'int'>,6
+43,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+44,D9Lctzm3pUa57DrAd7TX2W,"[1, 26, 22, -10, 20, 4]",<class 'list'>,<class 'int'>,6
+45,Nm86Ldy6ypLnLox2NhCWmf,[5],<class 'list'>,<class 'int'>,1
+46,dWZRWxPX395X4ZHw5HAPwL,"[-12, 23, 0, -16, 2, -6, -5]",<class 'list'>,<class 'int'>,7
+47,7pt56xUP3C5RJRpvAdo62S,"[11, 8, 10, 7, -17, 25, 5, 21, 25, 6, 19, -1]",<class 'list'>,<class 'int'>,12
+48,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+49,PeeyWpBwBTkKb3qsP28MeQ,"[7, 3, -7, -10, -10, 20, 14, -5, -10, 0, 16, 1, 22]",<class 'list'>,<class 'int'>,13
+50,ZXk7Ny25z8phkzuV8XAhPn,"[20, -17, 6]",<class 'list'>,<class 'int'>,3
+51,FmMJcxMRkdPYGYpo5uu6qL,"[-19, -17, -16, 24, 14, -21, 13, -26, -26, 21, -17]",<class 'list'>,<class 'int'>,11
+52,3QXufsZRVMCsz6uivnuvcb,"[-20, -14, 6, -14, 0, -20, 6, 11, 10]",<class 'list'>,<class 'int'>,9
+53,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+54,M7AsLTvDmcnSKpUNke4yrX,"[-30, -19, 2, 25, 8, -8, -1, 30, -8, 20, 25, -18]",<class 'list'>,<class 'int'>,12
+55,e3VdvQmGMDZubZfPqd45zu,"[23, -24, -9, 6, 8, 21, 12]",<class 'list'>,<class 'int'>,7
+56,BCkBsvEGhqxjACQ5xYUKTh,"[0, 17, 7, -25, 5, -18, -9, -19, -18, 1]",<class 'list'>,<class 'int'>,10
+57,W34jQYRd8Z22Ypw3ntf8oj,"[20, 6]",<class 'list'>,<class 'int'>,2
+58,DtAsrhEbnSHMYmr2e4peiU,"[-26, -29, -24, 12, -26, 16, -30, 8, -18, 22, -8, -20, -25]",<class 'list'>,<class 'int'>,13
+59,dsgbgyTnXCXgtQq2Rtdrme,"[4, -4, -3, 9, 13, -13, -15, -20, 8, 8, -18]",<class 'list'>,<class 'int'>,11
+60,o7EUpqZoP7DhnF28unqU7S,"[-1, -10, 11, 2, -17, 20, 12, -27, 17, 22, 0]",<class 'list'>,<class 'int'>,11
+61,erVaMmJuvVU6Mp3XvasgGS,"[-25, -13, -24, 12, 5, 24, -3, 15, 1, -5, 16, 26, -4, -14]",<class 'list'>,<class 'int'>,14
+62,EUXQfkqcgFJLVrwTkaWtfZ,"[19, -21, 14, -3, -22, -23, -9, -12, -3, -11, -30, -27]",<class 'list'>,<class 'int'>,12
+63,nWTTtvd6PhhJgkGMi6rZ4F,"[-17, -12, 27, 3, 23, 2, 14, -6, 26, 4, 23, 30, -10, 10]",<class 'list'>,<class 'int'>,14
+64,5jrytLBhStyxwvEEnyd7w9,"[4, 19, 12, 16, 20, 1, 5, -2, -11, 9, -6]",<class 'list'>,<class 'int'>,11
+65,82quLMcXyNWSppUcnZ7qei,"[20, -18, 14, -1, -14, -3, -5, -4, -2]",<class 'list'>,<class 'int'>,9
+66,PxA48778farWb63ZENQKd2,"[-13, -6, 8, 9, 16, -7, 13]",<class 'list'>,<class 'int'>,7
+67,PvH3heVex8oK8KcP8B5NTe,"[14, -9, 20, -5, 17, 13, -9, 4, 8, -12, 4, -2, 4]",<class 'list'>,<class 'int'>,13
+68,Ay5c4cbos4BUnmx9uS4SRV,"[1, -13, 12, 14, 21, 21, 22, 11, 16, -8, -7, 20, -15]",<class 'list'>,<class 'int'>,13
+69,bVirJtQDDmfVbYDZTWhJnS,"[-8, 6, -12, -16, 18, 0, 7, 6, -7]",<class 'list'>,<class 'int'>,9
+70,bqwKMUqeD8RrogPGcjHWQ6,"[-2, 2, -13]",<class 'list'>,<class 'int'>,3
+71,csUC9Gpf7kvWEM9aPgbp8H,"[-22, -9, -1, -9, -22, 27]",<class 'list'>,<class 'int'>,6
+72,HoohGD7ov7feZLSiSVVoDW,"[1, -8, -7, -7, -9, 9, -12, -13, 19, 12, -5, 11]",<class 'list'>,<class 'int'>,12
+73,U9ExvBXGTmmFmJRc8hUYSF,"[3, 5, 7, -19, 3, -17, 0, -8, 21, -9, 15, -19, 24]",<class 'list'>,<class 'int'>,13
+74,LoyZ2HFm8E5gtbiq97R6qs,"[7, -17, 8, -10, -10, -7, -12, -8, 7, -11, -7]",<class 'list'>,<class 'int'>,11
+75,AtHjBE5W43pHR7S8KJ26hX,"[-14, 12, -4, 7, 7, 11, -4, -1, -9, -1, 0, -5]",<class 'list'>,<class 'int'>,12
+76,8B39WdQ84KMRZCDf5344fy,"[-21, -9, -18, -21]",<class 'list'>,<class 'int'>,4
+77,jyVquoVELRYssaHozp3wiu,[19],<class 'list'>,<class 'int'>,1
+78,WoPCZySYy8GFUUae4EYfVB,"[16, -15, -15, -15, 19, 8, 5, 15, 21, -16, -7, 10, -3]",<class 'list'>,<class 'int'>,13
+79,dgRoLM78CAFJk43XFqAo4G,"[4, 17, -15]",<class 'list'>,<class 'int'>,3
+80,V4TLzFn3QNrHCtTbUASceL,"[13, -5, -23, -28, 29]",<class 'list'>,<class 'int'>,5
+81,W98cirbQn4ovWmJaNQacpp,"[-13, 22, -17, 12, -6, 7, -14, 11, -24]",<class 'list'>,<class 'int'>,9
+82,D7BDhPEtbRHQFLpM5tu93q,"[-6, -3, -15, -8]",<class 'list'>,<class 'int'>,4
+83,EcwwLGK3nreJLUXUvA8qFc,"[-15, -7, 2, -8, 5, -23, 9, -17, 17, -6, -17, -12]",<class 'list'>,<class 'int'>,12
+84,QLZLXoFLGgrrRgQjqjdpf7,"[1, 9, 0, 7, -4, -7, 8, 17]",<class 'list'>,<class 'int'>,8
+85,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+86,oTheoHJfWQ8YJ5zcnCz4J4,"[-21, 4, 6, 11, -9, 1, 4, -26, -20, -2]",<class 'list'>,<class 'int'>,10
+87,eqBx48Jix3aX78WiWzTNti,[-10],<class 'list'>,<class 'int'>,1
+88,eGzVFfbocCHRQbbswYgJjZ,"[-8, -5, 1, -20, -19, -17, 13, 1, -26, -9, -10]",<class 'list'>,<class 'int'>,11
+89,GYu6DSVhTt3aAGDSBxrumi,"[11, 7, -4, 14, -1, -12, -16, -12, 0, -4, 3, -11]",<class 'list'>,<class 'int'>,12
+90,XnnNJcoCLGBgFYs2yfVjeQ,"[-17, -10, -3, 26, -15, -22, -1, 24, 19, 22, 4, -5, 4, 11]",<class 'list'>,<class 'int'>,14
+91,cRbUyxTigmg8sH2efYH386,"[11, 13, 16, 3, -13, 5, 15, -14, 3, -7, 8, 19, -18, 17]",<class 'list'>,<class 'int'>,14
+92,cHrreK7mhEHnQM92JCDHve,"[-23, 1, -17, 9, -24, 14]",<class 'list'>,<class 'int'>,6
+93,QYyYojypZo4XzXG4NiKfZq,"[-8, 2, -11, -7, 6, 10, -6]",<class 'list'>,<class 'int'>,7
+94,7aECDgwHNboULjHus6rUY2,"[13, 2, 20, 5, 6, 0, 12, -12, 15, 12]",<class 'list'>,<class 'int'>,10
+95,EStMRL9ywNYjebMepK8Dvt,[8],<class 'list'>,<class 'int'>,1
+96,Ls493gThk2Yk9rx2QVPH9L,"[-6, 12, 0, 20, 28, 10, 28, -13, 9]",<class 'list'>,<class 'int'>,9
+97,NFUrmmZrgtXJd7X4oLCj3m,"[-8, -7, 19, 12, 16, 6, 12, 11, -8, -7, 19]",<class 'list'>,<class 'int'>,11
+98,ngWuvshSMHgCv38oYFkma2,"[-8, 0, 25, 25, 18, -1, 7, -6]",<class 'list'>,<class 'int'>,8
+99,bCwDcBraGTiSmiHY3XzZCQ,"[26, 15, 23, 10, -2, -17, -6, -15]",<class 'list'>,<class 'int'>,8
+100,2cAreZYaP6ioZQCnhWdC67,"[-2, -1, -10, -10, -11, 13, 14, -15, 9, -22, -9, 10, -22, -2]",<class 'list'>,<class 'int'>,14
+101,etEoahfxziuEmSVpdFZuwc,"[-5, -14, 6, 4, 18, 20, 17, 5, -7, -22, 10]",<class 'list'>,<class 'int'>,11
+102,dqqD4QwWu7vgzwoXzsyTEU,"[-6, 3, -15, -16, -8, -13, 10, -18, -16, -17, -13, 14, -14]",<class 'list'>,<class 'int'>,13
+103,BrxuBY2j5wYiftPPw8oe9J,"[-4, 14, -8, -15, 17, -17, -13, -11, -18, -2, 21]",<class 'list'>,<class 'int'>,11
+104,cw6Bzxn4HbT3dJqwV5o4R8,"[-25, 15, -8, 3, -9, -14, 8, 1, 3]",<class 'list'>,<class 'int'>,9
+105,gZ4uwBjim7dBmSGRuYPWmE,"[12, -1, -21, 25, -13, 21, 25]",<class 'list'>,<class 'int'>,7
+106,f6uM6oZbKPUDqcj2kSzCZ2,"[-10, 9, 2, -20, -4, -11, -1, 13, -12, -9, -21, -1]",<class 'list'>,<class 'int'>,12
+107,QLngeatAkuMeeRnfeiF2mT,"[20, 9, 10, 19, 14, 26, 24, -3, -11, -13]",<class 'list'>,<class 'int'>,10
+108,8nY8tjJkE5juikrWRSbZsv,"[26, 0, 16, 31, 20, 8, 2]",<class 'list'>,<class 'int'>,7
+109,Fc4BNQZCkFLHKkPCYnomxg,"[9, 7, -12, -3, -5, 15, -5, 6, -15, -2, 2, -10, -3, -3]",<class 'list'>,<class 'int'>,14
+110,RULxah7hF8PHNePgAQeDqa,"[-2, -12]",<class 'list'>,<class 'int'>,2
+111,oSo8qEpVGpubySGpddUX7a,"[-12, -2, 3, -7, -13, 25, -5, -7, 10, 27, -22]",<class 'list'>,<class 'int'>,11
+112,Eg9D9PRoAKkkfYoT45WSk5,"[-7, 5, -24, -9, 14, -24, -16]",<class 'list'>,<class 'int'>,7
+113,UhUgpouLGg7uaqwAMc424E,"[-26, -25, -10, -16, -31, -34]",<class 'list'>,<class 'int'>,6
+114,Mf6chvTQzfbWxCQNriq9zF,"[-23, 26, -9, -9]",<class 'list'>,<class 'int'>,4
+115,GtzgE57v4fqLvSsVwfrCQN,"[-4, 8, 5, 15, -9, -6, -11, 13, 17]",<class 'list'>,<class 'int'>,9
+116,NHh5QhFYeRpKwC3bkyxfhr,"[10, -20, 1, 6, 11, 18]",<class 'list'>,<class 'int'>,6
+117,FpZsJxwkRYw3X8NP99DBgZ,"[2, -24, -6, -8, -23, 7, 13, 0, -3]",<class 'list'>,<class 'int'>,9
+118,JCRvHzW5Yhj2EXuN9ADSjk,"[8, 7]",<class 'list'>,<class 'int'>,2
+119,JnvuTTNDEqYWQzgBMt9EK6,[21],<class 'list'>,<class 'int'>,1
+120,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+121,a6o4UyxqBThp7wPgkx2yb4,"[-25, -13, -7, -13, -5]",<class 'list'>,<class 'int'>,5
+122,JXivRsbgcjENn3NEsmG9P6,"[14, -22, -12, 1, -12, -17, 4, -25, 3, -23]",<class 'list'>,<class 'int'>,10
+123,a4ftJnzYhVXexUKY8P72Pq,"[-8, 15, 2, -28, 18, -19, -20, -16, -8, -18, 8, 13]",<class 'list'>,<class 'int'>,12
+124,TcC72a9jZaFm39LBZJXJjw,"[-5, 4, 16, 13, -3, 24, 22, 19, -7, -5, -15, 8, 24, 8]",<class 'list'>,<class 'int'>,14
+125,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+126,HCD3CzgyMmoUvBc8uYsnCT,"[8, -12, 11, -8, 5, -17, 5, -10, 11, 4, 5, 4, 8, -18]",<class 'list'>,<class 'int'>,14
+127,jwMi7aYr43uHKV3WNTbgsv,"[32, 15, -7, 2]",<class 'list'>,<class 'int'>,4
+128,GVZLaUzLSXpke5BLJCXEj9,"[13, -20, 3, -8, 1, -20, -10, -9, 12, -21, -11, 2]",<class 'list'>,<class 'int'>,12
+129,MRbDQuCQh5FSiR7ECdxXia,"[-27, 9, -20, 1, -18, -22, 28, -16, 16, 9, -9, 4, 25]",<class 'list'>,<class 'int'>,13
+130,Zxxt8gWjgKsccJC2X3FoeF,"[3, -6, -1, 19, -12, 2, -24, -7]",<class 'list'>,<class 'int'>,8
+131,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+132,i2fzauKdGtccmd3XPBkdou,"[-19, -23, 4, 2, 6, -27, -18, 3]",<class 'list'>,<class 'int'>,8
+133,gRrbUUbJhiuPpm2vQWvEXE,"[14, -30, 13, 7, -27, -25, -6, -26]",<class 'list'>,<class 'int'>,8
+134,bZnMR3MJmKKs9A4vtSC86F,"[2, -22, -20, -23, 2]",<class 'list'>,<class 'int'>,5
+135,Wpfs9pMrjHrwSQEsw3oK7g,"[24, 22, -16, 23, -24, 21]",<class 'list'>,<class 'int'>,6
+136,b9tCUCb5bDqMtnZ8JufeQG,"[0, 14, 15, -13, -9, -25, 11, 13, 13, -25, -9, -12]",<class 'list'>,<class 'int'>,12
+137,PLxrvWQvYi823LuVMfbsCY,"[-9, -7, 6, 0, 7, -14]",<class 'list'>,<class 'int'>,6
+138,jCzeVR4XZgkAr5XCGDE3oX,"[-1, 15, -9, 13]",<class 'list'>,<class 'int'>,4
+139,YCk5SxXcUS6J3EodSerPkV,"[-23, -23, 25, -20, -24, 7, 14, -10, 10, -30, -10, 0, -31, -3]",<class 'list'>,<class 'int'>,14
+140,oUqpyC9EPzddWXh5uWotwU,"[9, -17, -17, -26, 21, -18, -26, -2, 14, -15, -28, 8, -20, 27]",<class 'list'>,<class 'int'>,14
+141,NLJ7Htz2csqiXbpXArvwzj,"[1, -15, -8, 18, -2, 8, -5, 21, 15, 15, -9]",<class 'list'>,<class 'int'>,11
+142,L6bfkSC276xF7G7jkCXMfH,"[16, 2, -21, -7, 9]",<class 'list'>,<class 'int'>,5
+143,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+144,QVN6BLbYNsWhscw9uvCEBU,"[-10, 9, -1, 3, 5, 5, -17, -17, -16, 6, -16, 13]",<class 'list'>,<class 'int'>,12
+145,WgctKGn9vqtN6E2fmCzCuk,"[-21, -6]",<class 'list'>,<class 'int'>,2
+146,Qqdg33AGhQugKJ9bJCxRb8,"[5, -17, 16, 14, -11, 10, -15, -12, -15]",<class 'list'>,<class 'int'>,9
+147,LFkrumiE95JctzXRjAHPok,"[0, -20, 21, 16, -12, -12]",<class 'list'>,<class 'int'>,6
+148,BpRJb7mZHe6TZghnWH6Rvx,"[23, 15, -21, 19, 4, -9, 9, 1, 13, -20, 9, -22]",<class 'list'>,<class 'int'>,12
+149,E2HSx3HM3xkD5Dn6Aobkkr,[16],<class 'list'>,<class 'int'>,1
+150,eNaMCnGhYGUZBH7hFBSEcC,"[-17, -23, -3, -25, -1, -17, 9, -10, 10, 3, -1]",<class 'list'>,<class 'int'>,11
+151,V4oeqC7Yvyt5JSaUoT5fhx,"[-4, 5, 11]",<class 'list'>,<class 'int'>,3
+152,LAf3qd4X89kBr6BGpBdfqS,"[20, 29, 30, 13, -7, 12, 13, 2, 24, 12, 28]",<class 'list'>,<class 'int'>,11
+153,3yFZgfuYTbtURQejh5QpMC,"[21, 10, -9, -5, -16, -2, 15, 2, 0]",<class 'list'>,<class 'int'>,9
+154,ex8dmyR9nyzpuwhwojwNVJ,"[-4, 13, -10, 4, -5, -6, -14, -5, -13, 12, 16, 16, 3]",<class 'list'>,<class 'int'>,13
+155,KbBYT4D4eviLXm4JLwr6Uq,"[4, -7, 21, -7, -6, -21, 14, 8, -18, -2, 21, 13, -30, -5]",<class 'list'>,<class 'int'>,14
+156,Ckhf3YXydp5gwDquKWEwGe,"[9, -15, -8, 17, -22, 1, -17, -8, -7]",<class 'list'>,<class 'int'>,9
+157,RbruczisHC4W6neo625icZ,"[27, 25, -3, 19, 16, -27, 22, -20, -11]",<class 'list'>,<class 'int'>,9
+158,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+159,Wj5AsdQctBx8A4v4SAw8Dt,"[-21, -20, -8, 11, -4, 19, 5, 7, -4]",<class 'list'>,<class 'int'>,9
+160,FcCCzGkacqebQb7uhQQvno,"[-1, 10, -30, -12, -1, 14]",<class 'list'>,<class 'int'>,6
+161,ThNf8au82WJnYXGfESyDdm,"[-21, -4, 25]",<class 'list'>,<class 'int'>,3
+162,gkpd4v3iVz5ZUuFjTqjh4V,"[10, 19, -1, -3, 20, 10, 24, 31]",<class 'list'>,<class 'int'>,8
+163,eYySTnknGQrKaA4TnDJdkn,"[-16, -23, 17]",<class 'list'>,<class 'int'>,3
+164,bdS667Jkv83dFGRFAXMbuB,"[-19, 16, 0, 2, 9, -3, 0, -4, 10]",<class 'list'>,<class 'int'>,9
+165,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+166,fhiLe9zJ7cvUcwd2KmAoNx,"[-31, -34, 30, 25, -10, 0, 7, 22, -8]",<class 'list'>,<class 'int'>,9
+167,kkDt3RNoP6qFjFRZy43ayP,"[-3, 10, 18, 6, 13, -3]",<class 'list'>,<class 'int'>,6
+168,3KTJT4VGUNdL5AABjyWFqq,"[-11, 14, -20, -28, -3, -21]",<class 'list'>,<class 'int'>,6
+169,mGZwvSu5b2ZNE8qDxxNetD,"[7, 0, -11, -3, -11, -16, -9, -4, 15, -2, 3]",<class 'list'>,<class 'int'>,11
+170,mtrmCUbeFMBkMWzwEUZEmt,[24],<class 'list'>,<class 'int'>,1
+171,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+172,P4dXKGbhXdDyhEZbxMjM56,"[-11, -17, -2, -15, -4, 6, 9, -21, -1, 3, 8, -2]",<class 'list'>,<class 'int'>,12
+173,2fi6s4kQoXiyRQFhvpkVdL,"[13, -3, 5, -16, 21, 17]",<class 'list'>,<class 'int'>,6
+174,W22DLzUUDB5AzKfHb6ADLm,[13],<class 'list'>,<class 'int'>,1
+175,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+176,HP2cEFomywriGutXopBjsj,"[6, -1, 16, 4, 3]",<class 'list'>,<class 'int'>,5
+177,USXcCTfGBL2tJjN4Avt294,"[17, 29, 15, -21]",<class 'list'>,<class 'int'>,4
+178,UMHSJMmFWWquQ9Jyym22Pk,"[-5, -32, -2, 1, 27, 28, -11, 13, -30, 2, 12, 27, 10]",<class 'list'>,<class 'int'>,13
+179,Xo9gMiwhpzznRFLGTiaiTZ,"[18, -3]",<class 'list'>,<class 'int'>,2
+180,ewBF3DSt5cRq47T5C9waq8,"[15, -16, 1, -3, -3, 14, -11, 18, 9]",<class 'list'>,<class 'int'>,9
+181,AhKryvDLsGJY35USiiXkHQ,"[3, -18]",<class 'list'>,<class 'int'>,2
+182,mdZmpfDyVRTw54vyf26J76,"[1, 2, -12, 2, -3, -15, 0, 7, 9]",<class 'list'>,<class 'int'>,9
+183,KNrH3zSjsaGUqLuhQoYyn3,"[-14, 15]",<class 'list'>,<class 'int'>,2
+184,ArKHhtyiUEfaFfFz22pter,"[-4, -4, 12, 5, -2, -7, 14, 6, 4, 9, 7, 16, 15]",<class 'list'>,<class 'int'>,13
+185,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+186,RcLFjjj9SgkbTS7GjhMkFs,"[27, 7, 2, 21]",<class 'list'>,<class 'int'>,4
+187,b4PLGaxRKhnwXL2xkRaTBn,"[13, -7, -10, -14, 6, -14, -11, 7, 15]",<class 'list'>,<class 'int'>,9
+188,9rWcpiJYtLS8aaELwutaLz,[7],<class 'list'>,<class 'int'>,1
+189,2hGRgqDa93ZzD7oVctCDTK,"[-6, 13, -9, 8, -2, 15, -3, 9, 15, 13, 9]",<class 'list'>,<class 'int'>,11
+190,dnGohzUKN59XEmR9wBMMpd,"[-16, -5, 16, 8, 16, -9, -13, 3, 10, 4, 4, -7, -3]",<class 'list'>,<class 'int'>,13
+191,bvZdrkZ8sCUau6FnL9mV8p,"[0, -11, 22, -16, -20, 20, 11]",<class 'list'>,<class 'int'>,7
+192,YYSsWYfZ65n7YMFeihxsvm,"[-2, 19, 6, 15, -15, 22, 1, 14]",<class 'list'>,<class 'int'>,8
+193,BcpgJ3XxepZamfqsvd3DAa,"[-5, 28, -32, -16, -32, -23, 9, 18, 19, -12, -8, -34, 22, -9]",<class 'list'>,<class 'int'>,14
+194,VFoWUU9XEvc8LcHF2cukZ4,"[25, -22, 23, -19, -24, 25, -6, 27, -2, -16, 3, 10, -2]",<class 'list'>,<class 'int'>,13
+195,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+196,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+197,HxUXfvXNKNJqGFyyYz6bdF,"[-31, -3, -10, 16, 4, 15, -16, 6, 9, 6, 2]",<class 'list'>,<class 'int'>,11
+198,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+199,7yddwV5vtSdu9F4eruQ6o7,"[-1, 19, 20, 8, -13]",<class 'list'>,<class 'int'>,5
+200,MjbX7FdgghFLB4NZkUeWeo,"[-21, 4, -15]",<class 'list'>,<class 'int'>,3
+201,5yBS4jemCMabAbLck29tfu,"[4, -24, -2]",<class 'list'>,<class 'int'>,3
+202,VufNLnFVvX2Bo29QaqYwXd,"[-12, -22]",<class 'list'>,<class 'int'>,2
+203,JHhmw9Ai5DW3VtWMMvarfU,[22],<class 'list'>,<class 'int'>,1
+204,GD9LJvwV9QMyt5VbUufwxN,"[-13, 14, 9, 6]",<class 'list'>,<class 'int'>,4
+205,5eWEr6GarcefvupUFyVjjU,"[21, -15, -10, 21, 11, -7, -11, -16, 28, 12, 21, -11, 16, -7]",<class 'list'>,<class 'int'>,14
+206,27ETPMq6PfwDUQYGmCL3tv,"[5, 3, 18, -2, 3, 11, 14]",<class 'list'>,<class 'int'>,7
+207,c63SmdtoBsja9NUdG5V7xj,"[-30, -23, -13, 12, 5, 19, 20, 10, 15, 11, -21]",<class 'list'>,<class 'int'>,11
+208,CWus49bLeWQzX8vRx5F5gh,"[-22, 21, -7, -25, 18, -29, -21, -10, 10, -10, -32]",<class 'list'>,<class 'int'>,11
+209,QUXMqYwiW2o5mB7xciUBVm,"[-2, 14, 8, 6, -17]",<class 'list'>,<class 'int'>,5
+210,KHuyBJZNZ24a9KpZExVU4M,"[-2, -8, 7, -17, 12, 1, -4, -19, -18, 5, -16]",<class 'list'>,<class 'int'>,11
+211,GBadJQ3pXno7UoMNUZ3eKo,"[8, 18, 0, -12, -4, -4, 24, 15, -16, 25, -15, 13, -15, 14]",<class 'list'>,<class 'int'>,14
+212,FwLWtMEZtaxdZqDp33JGX9,"[2, -20, 8, 28, 1, 8, 16, -6, -11]",<class 'list'>,<class 'int'>,9
+213,QDVJosUYcUAtKtjsnyi85z,"[-16, 13]",<class 'list'>,<class 'int'>,2
+214,cBBnXfxzm9ueZQM6wwXhhG,"[10, 8, 10, -10, -5, -3]",<class 'list'>,<class 'int'>,6
+215,4xiime9Ecmbm7K4bX3tzzH,"[9, -7, -18, -20, -19, 19, -16, 5, -6, -19, 16, -3, 18, -6]",<class 'list'>,<class 'int'>,14
+216,FEB9mK5sPXsy9NGa8V7BdA,[-2],<class 'list'>,<class 'int'>,1
+217,ihhS8kDUuSBen8m9JyC8cV,"[-6, 0, -1, -10]",<class 'list'>,<class 'int'>,4
+218,2Pr7paBbfnmgDdHuN7o3uZ,"[21, -9, -20, -29, 20]",<class 'list'>,<class 'int'>,5
+219,doTkHeJuUKsoqStGSiCTma,"[9, 12, 10, -6]",<class 'list'>,<class 'int'>,4
+220,SNLRsyY8RqVgrbE84sBrMN,"[-27, 23, 15]",<class 'list'>,<class 'int'>,3
+221,iSLrsQ5qozF5BdKn42F7ih,"[-14, 4, 0, -18, -13, -2, 20, -20, 20, 14, 4, 11]",<class 'list'>,<class 'int'>,12
+222,ad6R5wrpsVkAyexchC6jL5,"[8, -24, -9, -9]",<class 'list'>,<class 'int'>,4
+223,YufkqPnM3PfRUWBfZpBrwC,"[-3, 3]",<class 'list'>,<class 'int'>,2
+224,JBKWih8nBhjCmUYTGX24Wh,[23],<class 'list'>,<class 'int'>,1
+225,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+226,Z3Nin2uUBjKKS5M4BHvckF,"[1, 20, -15, 14, 25, -11, 17, 22, 8, 4, 1, 14, -8, 26]",<class 'list'>,<class 'int'>,14
+227,APsS8MqVLr46YGopwu4JFG,"[-30, -22, -20, -20, -14]",<class 'list'>,<class 'int'>,5
+228,YTsKtakQ9YpfzEyKj6x9a5,"[10, -19, 12, -14, -29, -22, -11, -30, -29]",<class 'list'>,<class 'int'>,9
+229,nx6nSAHwUDs4MFSo5R7Bg8,"[-11, 13, 23, -15, 13, 0, 10, 22, 19, -3, -31]",<class 'list'>,<class 'int'>,11
+230,PodihJRCuen5bn3MvoFzWS,"[-12, 2, -18, -22, -21, 1, 4, 3, -13, -15, -7, -3, 21]",<class 'list'>,<class 'int'>,13
+231,Xp3AH2VBxrU8LN7nr89SPk,"[-24, 4, 15, -15, -19, -24, -20, 1, 5, -15, -21]",<class 'list'>,<class 'int'>,11
+232,8dZasEo2L9Mvo8erjsLkjr,"[-16, -16, 6, 9, 8, -7, -11, 4, 12, -8, -16, -1, 11]",<class 'list'>,<class 'int'>,13
+233,nvJeuswBmhfVUTnaNCAC3t,"[7, -15, -10, 1, -7, -11, -12, -1, 6, 28, -7]",<class 'list'>,<class 'int'>,11
+234,P3DxFwTC5QDHXpxsSjYnWe,"[8, 15, 0, -15, 6]",<class 'list'>,<class 'int'>,5
+235,QECGjC8ZFbKkCbD4hrPvUG,"[17, 4, 14]",<class 'list'>,<class 'int'>,3
+236,dfeu8WjPrPuLHxktwD6BRp,"[10, 11, -9]",<class 'list'>,<class 'int'>,3
+237,APYeStgxvS4tQQzd8kKCrn,"[-9, 5, -6]",<class 'list'>,<class 'int'>,3
+238,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+239,7LvVStXzKrBdpqxFh3qJws,"[-9, 3, 3, -13, 24, -9, 7, 32]",<class 'list'>,<class 'int'>,8
+240,WHjx2qA4X8qoWLodQ9LEkv,"[-17, -10, 3, -21, 9]",<class 'list'>,<class 'int'>,5
+241,b8JJrn2NXW5PE2nYqYmhuY,"[14, 6, -16, 14, -22, -1]",<class 'list'>,<class 'int'>,6
+242,5JJthuiM8ZdJVRcwYQLmSR,"[-16, 18, -5]",<class 'list'>,<class 'int'>,3
+243,NgxoSGJPWsqa3AWg99P4e8,"[10, 13, 8, -18, 8, -5, -1]",<class 'list'>,<class 'int'>,7
+244,2cAxAZLy7VJXMxDqGraGmR,"[11, -10, -1, -4, 5, -14, 3, 23, -8, 16, 8, -15, -14]",<class 'list'>,<class 'int'>,13
+245,nvsT2nbACmphrPthWaVDr5,[-19],<class 'list'>,<class 'int'>,1
+246,eCbM7AB6SRgpaZBhnDRPRH,"[4, 9, 28, 26, 32, -5, 11, 29, 30]",<class 'list'>,<class 'int'>,9
+247,XeTKJAHxBNCGP6PueXFnzZ,"[11, 15, -12, 15, -10]",<class 'list'>,<class 'int'>,5
+248,XAK77gh6jAaVSKsnfmEmxk,"[19, 13, 11, 1, 13, 11, 14, -4, -1, 0, 3]",<class 'list'>,<class 'int'>,11
+249,7ydJV2y9ZGTPciQovqR4Uo,"[-11, -30, 6, 4, 20, 12, 19, 17]",<class 'list'>,<class 'int'>,8
+250,2BebXyzJCHNh6B3x83Cze6,"[-15, -17, -3, -23, -26]",<class 'list'>,<class 'int'>,5
+251,MfVkNUSJ9GPqEZNsUPchrA,"[-5, 0, 12, -13, 6, 24]",<class 'list'>,<class 'int'>,6
+252,Lb7QJFx3gJ4CNzZiK7HDY5,"[5, -29, 14, 5, -15]",<class 'list'>,<class 'int'>,5
+253,7no3kyiLtnFm4nM6aS4q7P,"[5, 1, 6, 19, 12, 6, 20, -6, 9, -10, 5]",<class 'list'>,<class 'int'>,11
+254,j9GuEy77YTpNtNtF2uCvHa,"[0, -3, -2, 12]",<class 'list'>,<class 'int'>,4
+255,V9MjNzcXpTZrzys4so9Nih,"[16, -20, 24, -6, 2, 23, -5, 15, 2, -11, -19]",<class 'list'>,<class 'int'>,11
+256,XJvjnSQwDuGoCfCYhWFgco,"[0, 23, 13, 20, 5]",<class 'list'>,<class 'int'>,5
+257,EnMpQeoLj2d56fe6t2wHmk,"[7, 2, -3, 15, 3, -4, 0, 6, 1, 13, 0, -1]",<class 'list'>,<class 'int'>,12
+258,UpXrVRnWjdqoFFEKBnaUfq,"[0, -3, 4, 13, -17, 0]",<class 'list'>,<class 'int'>,6
+259,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+260,btxnpjw4ZDVgHkRwS7wSft,"[-25, -32, -2, 10, -21, 12, -10, 17, -23, 12, -6]",<class 'list'>,<class 'int'>,11
+261,PoTAVwSrSeMgFhFSqSWTTs,"[24, 13, -18, 20, -5, -14]",<class 'list'>,<class 'int'>,6
+262,9w97vTG3AaqZrDkYRUzcNk,[-4],<class 'list'>,<class 'int'>,1
+263,Uvqn2BFueupTcVpS6HiUTk,"[-32, -24, 2, -11, 9, 20, 17, -26, 20, 3, -10, -29]",<class 'list'>,<class 'int'>,12
+264,ZMh4DKFe9dPenARSwYPcy6,"[9, -2, -14, -5, -4, -22, 8, -4]",<class 'list'>,<class 'int'>,8
+265,KS484MmTD3oiKJtgiP2bdn,"[-20, -16]",<class 'list'>,<class 'int'>,2
+266,hGBHwAo3efxpt2L8Zwitur,"[-12, -8, -13, -23, -2, 5, -4, 6, -22]",<class 'list'>,<class 'int'>,9
+267,C6duEkVN63xXz9DXCyiY7f,"[9, -22, -10, 6, 2, -16, -5, -12, -23, -10, -23, 10]",<class 'list'>,<class 'int'>,12
+268,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+269,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+270,WFbs4hGLUF4iJCF53X4Fbz,"[8, 19, 23, -20, -12]",<class 'list'>,<class 'int'>,5
+271,hHwfpD86jbA4VzW4T7SuEn,"[22, 25]",<class 'list'>,<class 'int'>,2
+272,NVNxAvEay42nstghTuhC9Q,"[9, -6, -16, -4, 1, -9, -7, -9, 20, -5, 22]",<class 'list'>,<class 'int'>,11
+273,egQ2ZWaqGw25yW3Et5yLfX,"[4, -2, 27, -8, 7, -6, -10, -15, 5, -9, 22, 30, 10, 1]",<class 'list'>,<class 'int'>,14
+274,8u8K4jvsr7hcFBsi7XZVkK,"[10, 18, 13, -10, -16, 6, -4, 18]",<class 'list'>,<class 'int'>,8
+275,L5YNyUXXxdRNBNJAvGaXcg,"[5, 0, 10, 6]",<class 'list'>,<class 'int'>,4
+276,nvsT2nbACmphrPthWaVDr5,[-19],<class 'list'>,<class 'int'>,1
+277,eX2N47AjMErNBn4bnUhbwY,[-23],<class 'list'>,<class 'int'>,1
+278,X8aUxcJNqEeVuacsP4BRbd,"[-19, -17, 4, 11, 5, -3, 18, -13]",<class 'list'>,<class 'int'>,8
+279,864zpwo9DywZyen42wLuu2,"[1, -3, 17, 4, 3, -18, 10, 3, -21, 10]",<class 'list'>,<class 'int'>,10
+280,fBQJbaSjJs8qHgXGSA9mnH,[-18],<class 'list'>,<class 'int'>,1
+281,HJxyQQ2wDz5vcVZbbZAixq,"[-21, -2, 17, -10, -10, 9, 16, 12, -11, 8, -19]",<class 'list'>,<class 'int'>,11
+282,RhtsPPmptFJudfDLsSdgVr,"[-27, 16, -15, -14, -4, 9, -24, -20, -13, 4]",<class 'list'>,<class 'int'>,10
+283,2NVjpogTDzPdBV4fpFAckH,"[-2, 0, 20]",<class 'list'>,<class 'int'>,3
+284,K5ihNqXoKYcc6oCVg2vLc5,"[15, -3, 2, 15, -3, 17, 8, 1, -11, 7, -8, -14, 12]",<class 'list'>,<class 'int'>,13
+285,fg3p2xUQoxTzNpWfkoJ9mJ,[-21],<class 'list'>,<class 'int'>,1
+286,72rMKRTvip67L5anm3gdhc,"[17, -21, -1, -15, -20, -21, -12, -18, -13, -30, 0]",<class 'list'>,<class 'int'>,11
+287,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+288,BNGpEaZK9ghj9m9mfjPjkr,"[-26, -13, -8, 5, 0]",<class 'list'>,<class 'int'>,5
+289,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+290,mKkae8zWkPg3QtRNonGzch,"[-4, -13, -15, -12, 7, -7, -12, 20]",<class 'list'>,<class 'int'>,8
+291,LfE7LQe8tghE5JT8B7kfiP,"[-11, -6, -24]",<class 'list'>,<class 'int'>,3
+292,77yM69EkzXKv7QrGvpgEC6,"[-15, -7, 8, -23, 0, -1, -33, -27]",<class 'list'>,<class 'int'>,8
+293,U3cD5uXX9pb3sRZhjS3kW8,"[14, -10, -7, -3, 15, 5]",<class 'list'>,<class 'int'>,6
+294,7AVCBwmmQPseRQ3utMvLn5,"[15, 18, -7]",<class 'list'>,<class 'int'>,3
+295,PqRqmYdcJwpjhywGAr45us,"[17, -5, -7, 2, -2]",<class 'list'>,<class 'int'>,5
+296,hkCSbAr9w9tXqfAv37uXEZ,"[-17, 7, 1, -2, -14, 26, 7, 25, 20, 10, -12, 30]",<class 'list'>,<class 'int'>,12
+297,maq7EAgj6QbMcenR64BqCA,"[13, -27, 2, -11, 0, 16, 13, 24, 11]",<class 'list'>,<class 'int'>,9
+298,ntpaKw3iZ5J9WavkRpgdCN,"[2, 9, 10, 2, -14, -7, -20, -2]",<class 'list'>,<class 'int'>,8
+299,Jq2oFKWjNEWFcL5NbhFrQ5,"[18, -24, 6, 10, 2, -11]",<class 'list'>,<class 'int'>,6
+300,3SmnhoHBRVwipNnw435pHd,"[0, 7, 9, -4, -5, -10, 6, 14, 16, 17, -7]",<class 'list'>,<class 'int'>,11
+301,CWX4ReoJNHWtuCAo3rAkhW,"[8, -18, -7, -9, -4, 3, -22, 13, -12, -16]",<class 'list'>,<class 'int'>,10
+302,oP3KpWv6VaJww8GMPtZ9rJ,"[4, -4, -16, -18, 8, -25, 9, 4, -10, 15]",<class 'list'>,<class 'int'>,10
+303,EsFffy2Goqz98AeUS7866c,"[6, -20]",<class 'list'>,<class 'int'>,2
+304,LJLGo6qopAHF8zpmfQgKfF,"[13, 2]",<class 'list'>,<class 'int'>,2
+305,HURzfLsTNuntSZMxhjgdMN,"[-29, 11, 4]",<class 'list'>,<class 'int'>,3
+306,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+307,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+308,QgMtX9LmvkfECrnrwDpRyp,"[-8, -18, 15, -12]",<class 'list'>,<class 'int'>,4
+309,TkdjDgJSSY2Q662wv5rg8b,"[3, -23, -13, -6]",<class 'list'>,<class 'int'>,4
+310,kQNtKbkSRjpxvYAmzFcCS8,"[-22, -16, 18, -1, 14, 20, -18, 23, -12, 3, -24, 19, -8, -25]",<class 'list'>,<class 'int'>,14
+311,3onkjQ46as6frAqELUFw6Q,"[8, -15, -19, -7, 14, 19]",<class 'list'>,<class 'int'>,6
+312,RDhbvqKvzgJaKTFDLMJa89,"[-6, 10, 13, 23, -4, -9, -9, 19]",<class 'list'>,<class 'int'>,8
+313,E2HSx3HM3xkD5Dn6Aobkkr,[16],<class 'list'>,<class 'int'>,1
+314,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+315,VLMZuL8xNZq8S6XSXz9mRL,"[-15, 4, -9, 5, 21, -17, -13, -21, 8]",<class 'list'>,<class 'int'>,9
+316,aMyQ3pVvoRZdpovqtwFKUr,"[-9, 20, 16, 11]",<class 'list'>,<class 'int'>,4
+317,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+318,bKPocg8aZhpHPKGMcMKKDm,"[5, 29, -5, -19, 6, -18, 18, -9, 7, 2, 28]",<class 'list'>,<class 'int'>,11
+319,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+320,AKogo42aPoxjqXtA6RrEhc,"[15, 21, 12, -16, 10, -21]",<class 'list'>,<class 'int'>,6
+321,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+322,gybmgCi6FLrKxADBi23hES,"[-15, -15, -16, -6, -1, -2, 2, -7, -27, -16]",<class 'list'>,<class 'int'>,10
+323,o4Erc8meovZQLnKNyWTvHw,"[7, -15, 9, 2, -14, 8, 1, -5, 17, -4, 6]",<class 'list'>,<class 'int'>,11
+324,Vo5qaNxSbbBWHDhWa6FfGz,"[14, -1, 17, -9, -17, -10, 9, -4, 13, 8, -3, 11, 14, -15]",<class 'list'>,<class 'int'>,14
+325,QfJWNzMbqzZRqbKpwouvXu,"[-12, -4, 15, -5, 12, -3, -17, 16, 21]",<class 'list'>,<class 'int'>,9
+326,hRwm25PPWPpmCaZstoDVsj,"[-8, 0, -19, 12, 4, -7, -20, -24, 9, -25, 5]",<class 'list'>,<class 'int'>,11
+327,N6pHJULTJm7XDbDZz5WzZw,"[3, -22, -1, -22, 18]",<class 'list'>,<class 'int'>,5
+328,S96hWhuPYXGYxPV73EPbnF,"[-13, 9, 15, -25, 16, -7, 20, 5]",<class 'list'>,<class 'int'>,8
+329,f289T2XXL34gpi2wVKVgjb,"[23, -8, 17, 1, -2, 12, -13, 14, 26, 6]",<class 'list'>,<class 'int'>,10
+330,htxosXcaTw4BwpQ28x6non,"[18, -2, -3, -10, 13, -11, -5, -9, -9, 2, 16]",<class 'list'>,<class 'int'>,11
+331,HQ3p5GfZrkDFx78WpCiTkh,"[-21, 6, 21, -14, 5, 5, -17, 15, -1, -2, 11, 0]",<class 'list'>,<class 'int'>,12
+332,JcwHj76CogmSvBa4inhuSK,"[13, -10, 17, 9, -1, 13]",<class 'list'>,<class 'int'>,6
+333,VQdWw5UR6ZuDnLqmeTfdPv,"[14, 16, 11, 7, -11, -8, -5, 23, -23, 8, -2, 17]",<class 'list'>,<class 'int'>,12
+334,gUqQxESPhHXqUAXDJzwJRx,"[14, -22, -18, 11, -9]",<class 'list'>,<class 'int'>,5
+335,GvGyDwXRtdzNvx7ZsfzaPH,"[-18, 18, 4, -5, 24, -13, -5]",<class 'list'>,<class 'int'>,7
+336,aMnykNntzLeKfREvZLDdZp,"[24, 13, -6, 18, 1, -7, -9, -3]",<class 'list'>,<class 'int'>,8
+337,m8kzHun86xjfQesETbxMeP,"[27, -6, 23]",<class 'list'>,<class 'int'>,3
+338,MwEfkRtS3C2wprsYenk7Rr,"[6, 18, -5, -20, 0, 21]",<class 'list'>,<class 'int'>,6
+339,fDRhG2h8uETdEJV2cNKSSS,"[12, -2, 10]",<class 'list'>,<class 'int'>,3
+340,Us3mBWHw9ZNRG7hEfaao28,"[20, 3, -11, -20, 13, 7, 1, -11, -29, -4, 6]",<class 'list'>,<class 'int'>,11
+341,jo2ZiLW4yLap2GWstACioh,"[-12, -16, 9, -18, -4, 11, 17, -23, -7]",<class 'list'>,<class 'int'>,9
+342,Efqv7mkvssc5CnKxhL7AvM,"[-26, 3, 9, 9, 10, -26, -26, -11, 7, 13, -27, -12]",<class 'list'>,<class 'int'>,12
+343,NA6TfQBFGYFfBeBFbS3WnJ,"[17, 28, -6, 6, 25, -5, 17, 18, 17, 10, 16]",<class 'list'>,<class 'int'>,11
+344,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+345,FiopAF7maTbyTLJjfdH5y5,[-32],<class 'list'>,<class 'int'>,1
+346,kAiGSRRFaodWY7hJc8cKJG,[6],<class 'list'>,<class 'int'>,1
+347,g7qEragD5ycTbTKQ6Ps8CV,"[2, 2, 14, 9, 2, 15, 7, 8, 11, 13, -17]",<class 'list'>,<class 'int'>,11
+348,aGkbENGESsmxvEcpxtGTCV,"[1, 15]",<class 'list'>,<class 'int'>,2
+349,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+350,LnGiGXGh4HZzdoGdTLCkHV,"[-22, -14, -20, -2, 7, -3, -20, 17, -20, 11, -6]",<class 'list'>,<class 'int'>,11
+351,NkuPNjKAMY4UwuPRXJcKxK,"[6, 27, 12, -25, -9, 16, -20, 7, 26]",<class 'list'>,<class 'int'>,9
+352,7c7AmqdrwBz236e2WSbuY8,"[-19, 4, -16, 23, 6, 16, -11]",<class 'list'>,<class 'int'>,7
+353,UwKpgayFsAp4fFHZdBa3eB,"[11, -2, 13, 0, 28, 27, 23, 27, -4, 23, 9, 16, -20]",<class 'list'>,<class 'int'>,13
+354,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+355,o7TBc4C7iQdFTgF6m6RSnL,"[-11, 2, 21, -8]",<class 'list'>,<class 'int'>,4
+356,auAZ3hPab44jUfr3jLLeyx,"[-8, 4, 11]",<class 'list'>,<class 'int'>,3
+357,VkpFUTFNW3CPzhYwj5LquJ,"[-34, -7, -31]",<class 'list'>,<class 'int'>,3
+358,Akvmg94r2tU2dALKa7a7Tu,"[-7, 1]",<class 'list'>,<class 'int'>,2
+359,8HNdsRTpSNSy4CNtSGV7gm,"[-3, -5, 6, -4, -13, 4, 15, 12, -11, 14, -15, -4, 4, 3]",<class 'list'>,<class 'int'>,14
+360,Zaio6dSWfcSWjhrQawUTNM,"[-13, 16, 4, -19, -5, -15, -24, 19, -14, 7, 7]",<class 'list'>,<class 'int'>,11
+361,Rc4pD8DoBbxhPYThMyUVMg,"[22, 13, -14, -13, 16, 2, 25, 2, -11, -8, 10, 19, 25, 8]",<class 'list'>,<class 'int'>,14
+362,3kDddTRKsXQrzyf2erfzna,"[25, 19, -1, -27, 28, 9, 21, 21, 6, 15, -12, 19, 4]",<class 'list'>,<class 'int'>,13
+363,cod2DF7dKSrUabKqXiVUGs,"[-9, 19]",<class 'list'>,<class 'int'>,2
+364,Y3JomGd3URLejJV4wFA548,"[-26, -3, -6, -27, 16, -33, 16]",<class 'list'>,<class 'int'>,7
+365,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+366,atghkH92wQQa8SUmKVfbU7,"[3, -13, -2, 15, 14, -11, -16, -17]",<class 'list'>,<class 'int'>,8
+367,HheP2BNBbyTa3QxQRSuN6D,"[-12, 24, 4, 23, -10, 6, 9, 22, -22, -7, 18]",<class 'list'>,<class 'int'>,11
+368,XVTiWyiVpgEbi74Cq9x5y2,"[-21, -16, -8, -5, -1, -25]",<class 'list'>,<class 'int'>,6
+369,To7fTSeQujTiqxnBgBrvDG,"[-10, -6, -2, 3, 9]",<class 'list'>,<class 'int'>,5
+370,YZpr8wgqnCVVQKMEzGfRbG,"[15, 16, 6, -2, 5, 4, 18]",<class 'list'>,<class 'int'>,7
+371,ejhNa2qjzwf3eFVixyvxCs,"[13, -6, 13, -12, 1, -4, -14]",<class 'list'>,<class 'int'>,7
+372,mXEyTq4GNYQurutQZhHjEa,"[-7, 12, -16, 6, -22, -7, 4]",<class 'list'>,<class 'int'>,7
+373,DAfVWRLbGJSEiedi6h6xQ4,"[-15, -25, -27, 12, 16, -10, 28, -12, 8, -6, 31, 18, 7]",<class 'list'>,<class 'int'>,13
+374,5NjZvMjfSPbcnWduxY4ATj,"[18, -10, -24]",<class 'list'>,<class 'int'>,3
+375,3pFJqZG3wTuQixA6wSKgAq,"[32, -24, 27, 6, 5, -8]",<class 'list'>,<class 'int'>,6
+376,KrdWdBbWqdjiXayZkxcQ7d,"[-11, -22, 14, 19, -25, -13]",<class 'list'>,<class 'int'>,6
+377,AYnzafP2Egaz9n2stYAjag,"[10, -20, -13, -21, -30, 9]",<class 'list'>,<class 'int'>,6
+378,ainbwuSKSi3tukDnVdkW4L,"[13, 29, -15, -2, 25, 24, 12]",<class 'list'>,<class 'int'>,7
+379,eZzv5CC32pg7i59sS9mwMN,"[0, 8, -14, -12, 3, -5, 12, -1, -5, 6]",<class 'list'>,<class 'int'>,10
+380,fG7A56gQ3zvue5DJgxacfb,"[23, -4, 25, 4, 17, -6, 6, -1, 20, 1, 13]",<class 'list'>,<class 'int'>,11
+381,6KYPghZJckC2o37h4D4EVb,"[-19, -9, -25, -7, 2, -8, 24, 4, -3, 4, 22, -25]",<class 'list'>,<class 'int'>,12
+382,Erw6jMYU6MHUecNdGg3dQY,"[-15, -14]",<class 'list'>,<class 'int'>,2
+383,69Ujyg8Ydmfgt3KqLy8Qf6,"[9, -24, -20, 4]",<class 'list'>,<class 'int'>,4
+384,jiaqNo9CEXUmfkDELLkwhd,"[18, 13, -1, 21, 1, 2, -11, 1, 9, -4, 3]",<class 'list'>,<class 'int'>,11
+385,n529Rw6HJrc6C6uxivH6ef,"[17, -3, -16, -11, -15, -1, -17, -20, 24, 14, -16, 16, 4, 6]",<class 'list'>,<class 'int'>,14
+386,Wu8ttu69uGTvQAeiRqBMSC,"[11, 7, 10, -23, 1, -13, 0, -8, 14, -18, -1]",<class 'list'>,<class 'int'>,11
+387,n6eAeGAwJHXx35hSck6xqC,"[15, -5, 5, 1, 4, -10, -20, 12]",<class 'list'>,<class 'int'>,8
+388,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+389,m2mcpkZyMBAYdMosFb88BB,"[-22, 4, 10, -1, 10, 13, 16, -2, -13]",<class 'list'>,<class 'int'>,9
+390,7NAbVXjwLgfKwVGKp2hwdQ,"[-15, -2, 0, 20, -11, 3, -2, 6, -1]",<class 'list'>,<class 'int'>,9
+391,mrqCTS5iLkCR7s9ddfuCME,"[7, 18, -11]",<class 'list'>,<class 'int'>,3
+392,SkU5aVJNqJF4KeeU3MrBQ2,"[-27, 22, -13, -27, -12, -4, 8, 19, -19, 19, -32, 18, 12]",<class 'list'>,<class 'int'>,13
+393,bw5PLbhHTsevz9VB2vu42s,"[-24, -11, 9, -23, -24, -27]",<class 'list'>,<class 'int'>,6
+394,Y3zagGfjQUUxk3k5dWb7kr,"[3, 1, -17, -16, 2, -26, -23, -8, -22, -25, -12, 7, 7, -5]",<class 'list'>,<class 'int'>,14
+395,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+396,7MeuSgnYmikTmxJ7VPEsBQ,"[14, -12, -9, -2, 9, -9, -21, 21, -23, -15, 19, -10, -17]",<class 'list'>,<class 'int'>,13
+397,ayEjQETJLdZ8N5kzKTABKi,"[-7, -6, 0]",<class 'list'>,<class 'int'>,3
+398,ecMN9NBwtM4VtkeQERBt2P,"[-11, 17, 9, -2, -13, -19, -5, -14]",<class 'list'>,<class 'int'>,8
+399,fffQDJBDbBStiruLmw7g5X,"[7, -13, 5, -9, -8, 6, -3, 15, -10, 3, 1, -9, 15, 9]",<class 'list'>,<class 'int'>,14
+400,X5nD7jAbfD7PLCRibN33m4,"[-2, 24]",<class 'list'>,<class 'int'>,2
+401,PYPJuCfPxUwCf6wkrRRA59,"[-19, 21, 14, 9]",<class 'list'>,<class 'int'>,4
+402,2nDSyF4xPaYzBvRtJhvLDL,"[-15, 11, -6, 3, -20, 13, -11, -6, -16, -29, -1]",<class 'list'>,<class 'int'>,11
+403,8j48Y68vhPPD6awX57Pszg,"[4, -2, -18, 13, 16]",<class 'list'>,<class 'int'>,5
+404,3ydch9aN4wniTtjwS23WKc,"[-26, -24, -10, 17, -24, 21, -23, 3, -19, 2, -13, -7, 11, 24]",<class 'list'>,<class 'int'>,14
+405,JFWDrzEfteBcTC96FWyvC5,"[5, -24, 24, -25, -27, -17]",<class 'list'>,<class 'int'>,6
+406,ZyCdYcwTDsF3LzBsLXskya,"[-18, 1, 19, -9, -7]",<class 'list'>,<class 'int'>,5
+407,UHG5KL64nmAvrhhfb45g5R,"[-15, 7, 10, 25, -11, -2, -6, -4, 12, 12]",<class 'list'>,<class 'int'>,10
+408,Yt4Azt9YgvgRTBkcGeVFYs,"[-16, -10, 10, -9, 6, 24]",<class 'list'>,<class 'int'>,6
+409,SYD4rQnjG3svqNWuCdTrPg,"[-1, -15, 1, -8, -12]",<class 'list'>,<class 'int'>,5
+410,bpBWKbkGMKy2JmoVKbVVw6,"[20, 14, -26, 10, 2, 18, -27, 16, -12, 4, -28, 9]",<class 'list'>,<class 'int'>,12
+411,GTQiP4rH4mhNJrnyWz5PFN,"[16, -11, 13, 2, -1, -3]",<class 'list'>,<class 'int'>,6
+412,BgTv44mNHuACvvzjL5PJkx,"[18, -11, 24, -26, -22, 23, -3, -25, -9, 29, 22]",<class 'list'>,<class 'int'>,11
+413,WNuCqnkWERTBqSRhZrGBUF,[-11],<class 'list'>,<class 'int'>,1
+414,jXHh4g4mNsmWJuNSYZf4qs,"[-7, -3, 19, -4, 6, -12, 6, 7, -9]",<class 'list'>,<class 'int'>,9
+415,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+416,XvoHZipXJezFGeaTSSbm73,"[-5, -16, 5, -16, -6, 15, -8, 19, -13, -18, 4, 17]",<class 'list'>,<class 'int'>,12
+417,jdsXDdX2WrgFj7D4DN29EP,"[-28, -2, -13, 17, 26, -6, 11, -28, 23, -5, 25, -20, 17, -7]",<class 'list'>,<class 'int'>,14
+418,6W4GNr6EU2mzR6raBPbEW3,"[-15, 13, 7, 17, -12, 2, -14, -18, 14, -10, 17, 18, -13, -11]",<class 'list'>,<class 'int'>,14
+419,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+420,Wr3NrqPrz3bZ7RFBSBiRHG,[-12],<class 'list'>,<class 'int'>,1
+421,9SLAieyP7ZpruUyS9xAcgZ,"[15, -8, 4, 22, 23, 7, -26]",<class 'list'>,<class 'int'>,7
+422,AC5TaNX8pufYurkti7vVz7,"[-1, -19, 8, 9, 9, -2, 27]",<class 'list'>,<class 'int'>,7
+423,NCNLs4i4q5FRotwXKewD7g,"[-24, -7, 15, -19, -22, 21, -18, 3, -19, -27, 23, -16, 13]",<class 'list'>,<class 'int'>,13
+424,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+425,3w8q98iMzs3zEs9rpuH3uv,"[24, 31, 20, 31, 28, 0, -7, 4, -23, 2]",<class 'list'>,<class 'int'>,10
+426,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+427,L2ChjbbTsV3c6b46KT3geD,"[3, 11, 20, 18, 4]",<class 'list'>,<class 'int'>,5
+428,eaE7C3J2cR2wLzPxLe8KpG,"[8, 11, -18, 4, -6, 19, -11, -17]",<class 'list'>,<class 'int'>,8
+429,bMuQ2BzX8huG3aV4WWapYu,"[-12, 13, -25, -24, -12, -1, -16, -19, 4]",<class 'list'>,<class 'int'>,9
+430,nKMbiTCWcG97QnBRaxuTAy,"[-11, 2, 2, 11, -13, -5, -18, 18, 18, 16, -6]",<class 'list'>,<class 'int'>,11
+431,Hyv8UuMjYMtieU9owwvLqY,"[27, -11, 3, -27, -22, -25, 0, 28, 19]",<class 'list'>,<class 'int'>,9
+432,4p7RjsQZErHgLYmCsqEuq5,"[-17, 8, -3]",<class 'list'>,<class 'int'>,3
+433,4RSdE5d4pyknhbxP7jsecZ,"[21, -2, 13, 20, 5, 27, -20, 7, 5, 6, -21, 20]",<class 'list'>,<class 'int'>,12
+434,BtGebYTPSUkSLoSKARJuEP,"[-11, 9]",<class 'list'>,<class 'int'>,2
+435,A4rzE7RdNWphrZJRDGCCb3,"[-24, 6, -6, -21, -11]",<class 'list'>,<class 'int'>,5
+436,co6czcWg4NH3yBTxx6ZV6w,"[-12, -17, 6]",<class 'list'>,<class 'int'>,3
+437,GEH5ALuhFcqxd8kJxt5AWW,"[-25, 13, 23, 12, 11, 9, 8, 8, 5]",<class 'list'>,<class 'int'>,9
+438,i8BKtm7sD3sGtvntEvFmAC,"[28, 18, -24, -13, 2, -13]",<class 'list'>,<class 'int'>,6
+439,ji235qMSPQA7a7bvXz9SHs,"[-16, 8, -14, -21]",<class 'list'>,<class 'int'>,4
+440,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+441,b2unDK5R4Vxtb4SsHK2UKp,"[30, 15, -8, -10, -4]",<class 'list'>,<class 'int'>,5
+442,V5jsid8L6CtRRgGeLhK7j4,"[-6, 17, 28, -7, 7, 18, 19, 21]",<class 'list'>,<class 'int'>,8
+443,L2TkAdkyjzhQSAzkrUJW4f,"[-9, 2, 2, -19, 6, -18, 14, 12, 14, 0, 12, 8, 2, 9]",<class 'list'>,<class 'int'>,14
+444,YqjHH7tBdYqzmZjN7qfcJE,[25],<class 'list'>,<class 'int'>,1
+445,HfYRmXTJHvwDJAiUuLu9yT,"[-19, -12, -8, -10, -7, -17]",<class 'list'>,<class 'int'>,6
+446,AKsRr7wHP934T86jzRaqo9,"[0, 7, 4, -5, 2, 12, -9, -14, -14, -19, -21]",<class 'list'>,<class 'int'>,11
+447,9mDjHGKxK3LEyVM2cHLjWh,"[-2, 10, 4, 10, -7, 8, -12, -7, -1, -8, -11, -6]",<class 'list'>,<class 'int'>,12
+448,kFYdoWcLjXdKCjJVsaVzo6,"[4, 15, 23, -24, 31, 14, -16, -2]",<class 'list'>,<class 'int'>,8
+449,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+450,GeVnZ7UApBQ4C8TqSMTnvr,"[-20, 28, 7, 29]",<class 'list'>,<class 'int'>,4
+451,UCGL32G767JiKaVXosuboR,"[-5, -3, 14, -14, -7, 26, -3, -4, -13, 1, -25, -17, 11, -23]",<class 'list'>,<class 'int'>,14
+452,QXtFSoSh6agpgxgCAiVDN6,"[0, 12, 17, 18, 3, -15, 11, 18, 8]",<class 'list'>,<class 'int'>,9
+453,8g6tTN7rjfhhatKL5ViiXy,"[-18, 10, -7, 9, -6, -22, -12]",<class 'list'>,<class 'int'>,7
+454,masDWEebyZo7SpCZTNy88H,"[-11, 1, -32, 5, -25, -16, 3, -7]",<class 'list'>,<class 'int'>,8
+455,NH4GTdJMX3XHhJMLMcrfew,"[4, 6, -10, -1, 13, 12, -7, 13, 15]",<class 'list'>,<class 'int'>,9
+456,Xh3NL9BaSyrWh9yBgK7W4B,[31],<class 'list'>,<class 'int'>,1
+457,ATRTStHy3a93KdB7cDNyiQ,"[-13, -24, 5, -20]",<class 'list'>,<class 'int'>,4
+458,RpkVdEiMQcf3YJf5YwGQ3s,"[-23, -20, 12, 11, 21, 14]",<class 'list'>,<class 'int'>,6
+459,PZeXwjRKgfjyQYqdMHhWyy,"[-10, 13, -2, -21, 6, -19]",<class 'list'>,<class 'int'>,6
+460,SL8tc4EhnJCkjPzBdKsCWJ,"[-5, -3, 8, -2, -15, -2, 9, -20, 7, -10, 1]",<class 'list'>,<class 'int'>,11
+461,eg5uogktde5BisDFs3AM7d,"[3, 15, -2, 15, 21, 20, 17, -15, -3, -4, 2]",<class 'list'>,<class 'int'>,11
+462,AJouLuwSfhd4dkj8kSNYWu,"[6, 14, 3, -5, 11]",<class 'list'>,<class 'int'>,5
+463,bxz4Lbph6AHYTsH6BNYHvW,"[7, 4, 3, -19, 11, -11, -31, -20, -14, 9, 5, -10, -11]",<class 'list'>,<class 'int'>,13
+464,mYRTMhWatEKnqYp2ffHzuU,"[3, -24, 15, -11]",<class 'list'>,<class 'int'>,4
+465,dM84nF5BCE67PmSyQ2paLb,"[-13, -4, -10, -11, 30, -26, 10, 21, 28, 4, 15]",<class 'list'>,<class 'int'>,11
+466,nJKNX8LH4oiTQHR4CjWkmv,"[12, 0, -24, -22, 9, -7]",<class 'list'>,<class 'int'>,6
+467,8JVJBGafMwP8QD3LEesPue,"[-19, -19, -4, 12, 20, -18, 8, -4, -15, -6, -20, -12, -14, -9]",<class 'list'>,<class 'int'>,14
+468,3agrocCqUqwkgzVUAJ4UJx,"[22, 11, -4, 5]",<class 'list'>,<class 'int'>,4
+469,NdfBHKoF9NLniBhTXxsfGx,"[20, -26, -19, 6, -30]",<class 'list'>,<class 'int'>,5
+470,Wpe7eu9nqx5EGMDksExvRi,"[20, 22, -2, -6, 0, 8, 4, 10]",<class 'list'>,<class 'int'>,8
+471,FVCwPPZtFkDUM4fV3BdPZm,"[3, -13, -15, -14, 11, -16, 6, 14, 5, -8, -8, 14]",<class 'list'>,<class 'int'>,12
+472,i3KiP93xKgNxtNxLu7gNLQ,"[-7, -17, -6, 19, -19, 11, -7, -10, -8]",<class 'list'>,<class 'int'>,9
+473,Ugj7XxwWmaqmCJF3sFtPT4,"[5, 10, -4, 14, 20, 19, -15, 26, 9, -14, -5, 5, -7, -18]",<class 'list'>,<class 'int'>,14
+474,L9bZZDy8gzW7ioHR6yYf55,"[-9, 10, 11, 9, 1, 18, -14]",<class 'list'>,<class 'int'>,7
+475,XYNg3WXjuUFXQ3B2A2rVj9,"[-11, 19, -3, 12, -4, 17, 0, 14, 11, -15, 12, 2, 1]",<class 'list'>,<class 'int'>,13
+476,CuVKDeoSCmynGpdbsLYjwq,"[3, -24, -11, -13, -3, 18, 20]",<class 'list'>,<class 'int'>,7
+477,AjJR8hUdaUGSthLsNK4BAp,"[24, 21, -3, 18, 20, 20, -9, 28]",<class 'list'>,<class 'int'>,8
+478,fz4CPXNAHj4sJ6zXvuQWcW,"[-24, 22, 13, 33, 3, -12, 15]",<class 'list'>,<class 'int'>,7
+479,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+480,MPJEVaZfLLSdjHFZVXowat,"[-15, 13, -9, 3, 23, -11]",<class 'list'>,<class 'int'>,6
+481,PHAgivnWYb5JKek7rSTBfo,"[14, 9, 5, -4, -10, -6, 21]",<class 'list'>,<class 'int'>,7
+482,4RoMD9rjBP32mYeTE6UuC2,"[-15, 5, -21, -12, 4, 20, 26, 20, -8]",<class 'list'>,<class 'int'>,9
+483,22id9A7Umd53tNBn6NdgTk,"[3, 32, 17]",<class 'list'>,<class 'int'>,3
+484,bBpcDFYecMVAhS9nebTaJz,"[-2, -8, -21]",<class 'list'>,<class 'int'>,3
+485,B3vk43vai8jYSJExxZyubt,"[8, 9, -7, 10]",<class 'list'>,<class 'int'>,4
+486,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+487,PThAszGUAePst2GmThfDxB,"[2, 3, -4, 15, -25, 21, 26, 7]",<class 'list'>,<class 'int'>,8
+488,AGcdHhvfhHEqPEYdfjB2jF,"[-12, -26, -26, 2, -19, -12]",<class 'list'>,<class 'int'>,6
+489,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+490,fdE59fw7gQCHTWAt8nPP84,"[-7, -13, 1, 10, -7]",<class 'list'>,<class 'int'>,5
+491,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+492,T689UUb8F9BFczSbx3Pkpv,"[11, 9, 10, 14]",<class 'list'>,<class 'int'>,4
+493,HpmQktprStPdZ7hjAmJwKV,"[22, -1, -14, -6, 11, 4, 23, -1, 7, 16, 26, 15, -13, 22]",<class 'list'>,<class 'int'>,14
+494,6b5fxkx3TTiNbF5WN5YDbM,"[14, -27, -20]",<class 'list'>,<class 'int'>,3
+495,iJuNd6BuRjCG4pzsgMXXyZ,"[-1, 12, -8, -25, -24, 10, -10, 7, 12, -12]",<class 'list'>,<class 'int'>,10
+496,jKDao8QTfp289ayNhVDSKs,"[-4, -27, 13, -3, 5, 13, -22, 5, -15, -20, 3, -1, -29]",<class 'list'>,<class 'int'>,13
+497,CWt2UwY6PiDgpsGRVkCARD,"[-5, -18, 18, -13, -19, 5, 13, 16, -18, -18, -5, 6, -18]",<class 'list'>,<class 'int'>,13
+498,EdGmys6B37R62gKcTs7x4q,"[-1, 6, -9, 2, -6, -1, 12, -17, 5, -2, -19, -16, 10]",<class 'list'>,<class 'int'>,13
+499,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+500,VdmGLdPuu6C2brEjZ5n3Ha,"[-15, 26, 3, -1, -7, 0, 14]",<class 'list'>,<class 'int'>,7
+501,7sMQMS52sMZ9XQup5yk8pJ,"[22, 22, -5, 3, -4, 15, -5, -9, -15, 16, 9, 2, 20, -17]",<class 'list'>,<class 'int'>,14
+502,4HZxhFfpUvcuJdyU8kXkQf,"[13, 3, 15, -7, 10, 17, 8, 18, -18, -17, 7]",<class 'list'>,<class 'int'>,11
+503,bu3UWgAht4NeX6TvjNQjah,"[10, 14, 9]",<class 'list'>,<class 'int'>,3
+504,azxEwoP3hHjSsKmYsEc3Z9,"[-7, -13, 18, 21, -27, 26, 8, 17, 15, 9]",<class 'list'>,<class 'int'>,10
+505,NVkymmMjaQKjAjWcGKocXV,"[15, 20, 21, 8, 16, -2, 13]",<class 'list'>,<class 'int'>,7
+506,QbePLeM46PCDjNDHwdpmyx,"[-6, -14, -2, -2, 13, -14, -8, 7, 15, -13, -13, -10, 2, -8]",<class 'list'>,<class 'int'>,14
+507,9w97vTG3AaqZrDkYRUzcNk,[-4],<class 'list'>,<class 'int'>,1
+508,P56XGPpJzu7zzkQvjiDBYj,"[19, 21, 24, 0, -16, 23, 10, 24, -8, 17]",<class 'list'>,<class 'int'>,10
+509,MtWJeK6tM9JeLQzcu3bbnP,"[-21, -2, -11, 4, -19, 1, 14, -11, -12, 13]",<class 'list'>,<class 'int'>,10
+510,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+511,84twNkkshV3bJAwqki6EwX,"[-22, -24, 26, 1, -8, 27, 21, -22, 11, -10, -15, 19]",<class 'list'>,<class 'int'>,12
+512,5FNRRj8TxQL4T557qn23w7,"[-13, -20, -3, 13, -19, -17, -19, -1]",<class 'list'>,<class 'int'>,8
+513,GRhdoC7v8fjNZ67HeA2dot,"[14, -9, -3, 7, -28, -25]",<class 'list'>,<class 'int'>,6
+514,bvD4Em2UVEGvdtWEkMhTxb,"[-20, -31, -9, -11, -20, 17, -21, 7, 21, 19]",<class 'list'>,<class 'int'>,10
+515,fpj6aPS5TByCm4yMcRTJuK,"[-17, 15, -21, 30, -21, -16, -4, -9]",<class 'list'>,<class 'int'>,8
+516,bP5FhGrvBhKhTDAunhbhWh,"[14, -19]",<class 'list'>,<class 'int'>,2
+517,JdM6ppHTnSTdMUbekBCbSZ,"[16, 18, 20, -12, -16, 17]",<class 'list'>,<class 'int'>,6
+518,Zyhyiw9K7FWPqcQppx3LV3,"[-21, 10, 16, 21]",<class 'list'>,<class 'int'>,4
+519,VguWN4Amq7gRA2YJQKzbZJ,"[10, 13, -11]",<class 'list'>,<class 'int'>,3
+520,PGamwe3TcbTEomQbRceByR,"[-10, 16, -2, 5]",<class 'list'>,<class 'int'>,4
+521,YbmajETY2Qra5M2dwfvWUx,"[14, -17, 12, 1, -4, -11, 13, -6, -17, 5, 5, 15, 2, 11]",<class 'list'>,<class 'int'>,14
+522,GxFabb5KX3akqR3tv9skmH,"[17, 28, 20, 1, 2, 8]",<class 'list'>,<class 'int'>,6
+523,Qcbw8EXPL4BcDZUphg3U8Z,"[15, 9, 22, -8, 14, -6, 2, -6, 10, 13, -5, -6, -13, -19]",<class 'list'>,<class 'int'>,14
+524,RbuQ8Kbq5LDsnx2ZkUvjB5,"[6, 10, 1, -15, -26]",<class 'list'>,<class 'int'>,5
+525,6JGBdNtT9NotfMKM9ecx5v,"[16, 13, 3, 5, 21, -8, -9, 25, 4, 18, 6]",<class 'list'>,<class 'int'>,11
+526,hzTRZLfRGvBeyTF6JMzNnF,"[-7, -29, 4, 0]",<class 'list'>,<class 'int'>,4
+527,9EWkKKPAXQAZbjc3Zne8g9,"[4, -1, 3, 16, -25, 19, 5, -1, -21]",<class 'list'>,<class 'int'>,9
+528,i76Sg6pwEnZHjoJSGPXLU6,"[-14, 8, -21, 25, 15, -16, -22, -15, -11, 23, 9]",<class 'list'>,<class 'int'>,11
+529,kQ2JKiX9uQrB393yFXqyh9,"[14, 8, -22, -25, 26, 9, -19, -22, -21, -10, -5, -1, 7, 16]",<class 'list'>,<class 'int'>,14
+530,NzFKQLctSmJFJoQYA7Vb2X,"[-18, -6, -18, -7, 19, -18]",<class 'list'>,<class 'int'>,6
+531,7XqgdCy5FsqWNgpgE8hkSe,"[3, -6, 12, 6, 7, -15, 1, -9, 13]",<class 'list'>,<class 'int'>,9
+532,iKiq6heCRvdpb9Cqn8b9zm,"[15, -2, -8, 13]",<class 'list'>,<class 'int'>,4
+533,CHr2j4Mmo4rP7r7rvFHpwR,"[-16, -2, 5, -18, -10, 13, 8, 12, 4, 19, 22, -16, -13]",<class 'list'>,<class 'int'>,13
+534,7wJtWJK8qw4w6dtugs3aPD,"[10, -20, 3, -9, -24, -27, -4, -27, -23, -17, 8, 3, -8, 14]",<class 'list'>,<class 'int'>,14
+535,VpJfwGkGoFVEbAdbZXnePz,"[7, -2]",<class 'list'>,<class 'int'>,2
+536,ReguT9VFXq8G2BcAv5HLar,"[26, 23, 3, 0, -4, -7, 19]",<class 'list'>,<class 'int'>,7
+537,h999owWFRMcRfcaH2dmKg6,"[-1, 4, 18, 8]",<class 'list'>,<class 'int'>,4
+538,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+539,GHzvqLsz5xFVUibb7qCtgh,"[10, 8, -7, -6, 1, -3, 5, -3, 4]",<class 'list'>,<class 'int'>,9
+540,XCx6ojFs4tzAAbXRRMpEB9,"[11, -23]",<class 'list'>,<class 'int'>,2
+541,DbSgX92uB9u6xvayrBtxAZ,"[16, -13, -14, -2, 13, 3, 7, -2, 9]",<class 'list'>,<class 'int'>,9
+542,79Ej4FXpfTEPVEThcHRGZL,"[2, 8, 20, 8, 6, -5, 8, 0, 11, 27]",<class 'list'>,<class 'int'>,10
+543,KVtYGhVoQARUYvEAem8wrA,"[-26, -12, 5]",<class 'list'>,<class 'int'>,3
+544,gXhqiUK2WEY8ioxpSZNDy5,"[-2, 15, -9, -14]",<class 'list'>,<class 'int'>,4
+545,aVxXortKVJQ6VaPuCifVTZ,"[7, 1, 26, 10, 15, 2, -23]",<class 'list'>,<class 'int'>,7
+546,KBEnJexcbSbtDKCED7nzh2,"[-17, 13, 2, -27]",<class 'list'>,<class 'int'>,4
+547,NRdTbk4hQUKb6nt7NsCZ85,"[-12, -9, 4, -8, 3, 11, -2, -12, 7, -4, 18, -12, 18]",<class 'list'>,<class 'int'>,13
+548,aipzxYHXgEhupHokxbjvdV,"[2, -4, 16, 11, -4, -4, -14, -7, -4, -5, -17, 17, -8]",<class 'list'>,<class 'int'>,13
+549,fv3KFAdQ9jJY7R4BkiQkLh,"[-3, 9, -33, -1, -9, 0, -28, -4, 14, -12]",<class 'list'>,<class 'int'>,10
+550,BHFYNittpUUUL3KYyG8BiJ,"[-11, 9, 14, -6, 13, -14, -15, -3, 13, -14, -4]",<class 'list'>,<class 'int'>,11
+551,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+552,YyVBikSjT3P45iNJKRHoZ7,"[22, 12, 20, 5, -21]",<class 'list'>,<class 'int'>,5
+553,bFsWjU7pv4vLhepa8MERtt,"[-9, 24, 6, 17, -17, 16, -23, -21, 8, 29]",<class 'list'>,<class 'int'>,10
+554,k67gXMwNk2snWWUkmFasCo,"[3, -2, 1, -16, -1, 9, -12, -16, -13, 13, 8, -13, -8, 16]",<class 'list'>,<class 'int'>,14
+555,HQJzbTMcVe9h8UgonTecqo,"[-2, -14, 6]",<class 'list'>,<class 'int'>,3
+556,HNPCYdjUJbhjG8a9oAVBof,"[15, -7, -9, 10, 2, 15, 0, -15, 7, 9, -2, 17]",<class 'list'>,<class 'int'>,12
+557,VofbkZxLyeCJ9hAnHY3tr9,"[-15, 18, 7, 23, -14, -4, 24, 15, -22, 1, -27]",<class 'list'>,<class 'int'>,11
+558,dGGbW5jNUJzDiaRRGJbFJz,[10],<class 'list'>,<class 'int'>,1
+559,eoNeeehPMEPBBKkKcRkjiF,"[16, -2, 17, -28, -30, -10, 22, 21, -7]",<class 'list'>,<class 'int'>,9
+560,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+561,HirHzLMDnA2jM5fjwtLuWX,"[-6, -2, -25, -6, -9, -24, 1, -6, -10]",<class 'list'>,<class 'int'>,9
+562,cL2nvJPQVmQnC5T6Yv2ZfF,"[-12, -8]",<class 'list'>,<class 'int'>,2
+563,XGkSNSPNTmDbrqaQy8w5nW,"[0, -14, -14, -8, 8, 8, -19, 22, -16]",<class 'list'>,<class 'int'>,9
+564,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+565,jXnZUY9VSt5YPQM5XA99h2,"[-14, 0, -7, -8, 24, 10, 17, 12, -4, -17, 7, -15]",<class 'list'>,<class 'int'>,12
+566,SxFvKNWnW9dfh5THHCui3C,"[-25, -22]",<class 'list'>,<class 'int'>,2
+567,TawASZv7QoALNE75qxV9sp,"[2, 29, 26, 21, -9, 31, -18]",<class 'list'>,<class 'int'>,7
+568,RqyFAAKtKrsveEvtLL3GVE,"[-15, 18, -16, -12, -1, -19, 15, -7, 21, 23, 15, -5, -10]",<class 'list'>,<class 'int'>,13
+569,kAiGSRRFaodWY7hJc8cKJG,[6],<class 'list'>,<class 'int'>,1
+570,WxsJFobNVtwYDXwtS6Bw7y,"[20, -21, 13, 22, 9, -12]",<class 'list'>,<class 'int'>,6
+571,2jBju2PYaYfcQvNxStkZLp,"[5, -1, 1, 0, -1, -6, -12, 8, -9, 20]",<class 'list'>,<class 'int'>,10
+572,YidH78fLkxqW9BvKYaHx6q,"[16, -17]",<class 'list'>,<class 'int'>,2
+573,6quBo4aGMqDp69F2hFNJUf,"[6, -2]",<class 'list'>,<class 'int'>,2
+574,RXKciansCjSTT2QM4HsrtM,"[-13, -8, -10, -1, 22, -12, 1, 14, 21, -7, 17]",<class 'list'>,<class 'int'>,11
+575,Hg6AxWadGtSbHVDBL9ssRm,"[-4, -16, -20]",<class 'list'>,<class 'int'>,3
+576,BSPRPYrzFNDMEoxCGNYA8A,[-22],<class 'list'>,<class 'int'>,1
+577,ccSpiF37QuZzcDZNSuFbrQ,[26],<class 'list'>,<class 'int'>,1
+578,fHnRPovG4xUsXzoDnDseA9,"[-13, 21]",<class 'list'>,<class 'int'>,2
+579,4bDxxjWT4yweyWXKLRfohC,"[-15, -9, -3, 3, -2, -2, 11, 4, -14, -16]",<class 'list'>,<class 'int'>,10
+580,2JEPcas3MZFBS2VMNXWQsi,"[10, 5, 20, 9, 21, 16]",<class 'list'>,<class 'int'>,6
+581,Rwr5YyLKv5N8MfpSQjLMeK,"[21, -19, 2, -20, 7, -18, 16, -12, 22, 23, -10]",<class 'list'>,<class 'int'>,11
+582,LHqRqHqSyhreiaf84hAkqn,"[2, 19, 0, -18, -20]",<class 'list'>,<class 'int'>,5
+583,hHFAoYh2LVEV4TAQRKETRP,"[15, 12, 19, -4, 9]",<class 'list'>,<class 'int'>,5
+584,jAbp9QrVhuog6EDeKTuZpg,"[-10, 18, -10, 6, -11, -16, 4]",<class 'list'>,<class 'int'>,7
+585,iS7S4NmtuqB2qb3NcfPVuv,"[19, 11, -24]",<class 'list'>,<class 'int'>,3
+586,DvoZjryGTsQ3skpDYni3MT,"[-12, -16, 7, -17, 29, 15]",<class 'list'>,<class 'int'>,6
+587,4a5GbvSajNKf3GFGs9aCTC,"[6, -7]",<class 'list'>,<class 'int'>,2
+588,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+589,expEMXcdXFnBw8f9gH5tTH,"[14, 10, 5, -1]",<class 'list'>,<class 'int'>,4
+590,kAiGSRRFaodWY7hJc8cKJG,[6],<class 'list'>,<class 'int'>,1
+591,LsVdLGMQvKWh8bVYVb46ic,"[17, -2]",<class 'list'>,<class 'int'>,2
+592,AXA8BoPGsEwgmtNCfaWR5F,"[5, -1, 11, 6, -7, 15, -12, -21]",<class 'list'>,<class 'int'>,8
+593,D9vSdeJEpq37CYc43fd9od,[0],<class 'list'>,<class 'int'>,1
+594,Ju8MVvdDtxtoF8f95cER9P,"[14, -19, -4, 14, -12, -13, 12]",<class 'list'>,<class 'int'>,7
+595,VXesobT9SeSpgA9SSRdN9m,"[9, -17, -7, -1, 12]",<class 'list'>,<class 'int'>,5
+596,a4ftSfvYctZzLwmLjCSao5,"[-9, -12, -17, 9]",<class 'list'>,<class 'int'>,4
+597,GLur7fp2VBbstdhwtzq8ia,"[25, -1, -11, -6, 16, -19, -11, 1, -6, 1, -18]",<class 'list'>,<class 'int'>,11
+598,PvFz9Q8RHDieHGDY4vN8bo,"[-21, -2, 26, -9, 2, -17, -19, 2, -11]",<class 'list'>,<class 'int'>,9
+599,GusumiyD2fmHJtEiu8fRtK,"[-24, -16, -1, -11, 15, -5, -13]",<class 'list'>,<class 'int'>,7
+600,HHvKghEmB35A4FCVaP3UVD,"[-20, -11, -17]",<class 'list'>,<class 'int'>,3
+601,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+602,iwJdNcJCba7JuF83pd8ims,"[-9, 13, -9]",<class 'list'>,<class 'int'>,3
+603,noJH8aJisPmPukTcAkMEaV,"[-16, 15, -11, -11, -7, -22, -18, -4, -13, -30, 13, -25, -16]",<class 'list'>,<class 'int'>,13
+604,3gQu4C8VStzwRHpvBQxWsH,"[-19, 30, 13, 8, 24, 8, -2, -5, 12, 11, 10, 0, 11]",<class 'list'>,<class 'int'>,13
+605,FiWHX5CfASBLTS6ExE2KwS,"[12, -10, 7, 12, 14, -7, -4, -4, 7, -2, 0]",<class 'list'>,<class 'int'>,11
+606,CJtfEWqMjSxdpdNoajrWHA,"[-14, -15, -14, -4]",<class 'list'>,<class 'int'>,4
+607,gRd4z2W3ThRHZDQ5fo2kuq,"[17, -26, 4, 17, 3, -27]",<class 'list'>,<class 'int'>,6
+608,4HkdobwpFXVSQrrWZgZtJ9,"[18, 12, -3, 5, -22, 0, -20, -24, -5, -15, 11, -11]",<class 'list'>,<class 'int'>,12
+609,Zp8jW6wj7mophBvKDYUCjP,"[-8, 15, 10, -26, 13, -19, 4, -8, -2, 8, 2, 13, 9]",<class 'list'>,<class 'int'>,13
+610,22TzD4z7xNvsAuxKweThUc,"[11, 3, 19, -9, 3, 0]",<class 'list'>,<class 'int'>,6
+611,3gvUnb5bg2e6FPm8Pjsc2H,"[19, -23, -19, 18, 1, -25, 4, 7, 0]",<class 'list'>,<class 'int'>,9
+612,Q3qKbHaeHZ7j9FC76vGwJ7,"[4, 6, -5, 9, -11]",<class 'list'>,<class 'int'>,5
+613,SAtU9mZUdgRToQJvR7BNdL,"[9, -11, -25, 3, -18, -22, -30, -25, 20, 12, -18, -31, 0, -10]",<class 'list'>,<class 'int'>,14
+614,XFwScgUDLBciwu7RMrwdrx,"[-13, 0, -5, -15]",<class 'list'>,<class 'int'>,4
+615,PEAAChxkkqxvVkdrUWKPVD,"[23, 17, 19, -12, -21, 2, -14, -25, 17, -23]",<class 'list'>,<class 'int'>,10
+616,hYsroWduPhTBJe932nqnrc,[-20],<class 'list'>,<class 'int'>,1
+617,ajq6gkGa82Nm4c2rBJ8yYz,"[5, -15, 27, 19, -6, 12, 24, 9, 26]",<class 'list'>,<class 'int'>,9
+618,VWifgJszGvM3yvnfooqBi8,"[14, 32, 2, 15, 19, -5, -17, 17, 22, 18, -15]",<class 'list'>,<class 'int'>,11
+619,9sTMjX4DyCnmePu6MwKDQP,"[9, 22, 26, -12, -19, -24, -22, -1]",<class 'list'>,<class 'int'>,8
+620,jmFgKa3jeD4ehXP5ZJ5NCg,"[-1, 15, -12, 14, -17, 5, -7, -2, 5, -9, 3, -4, 14]",<class 'list'>,<class 'int'>,13
+621,2nZ5F3MEEuZowsYR7YAD7T,"[15, 3, 17, -5, -8, 2, -16, 7, 20]",<class 'list'>,<class 'int'>,9
+622,aZVkjZK22ZLvkHc7zrV6uL,"[-13, -20, 20, 6, 14, 8, 13]",<class 'list'>,<class 'int'>,7
+623,QyF9tNjQcCHHv3kM7qRo5n,"[-8, -14, -29, -13, 0, 12, -21, 5, -22, -11]",<class 'list'>,<class 'int'>,10
+624,79X2cwMhtJ22UPNrCH3cnJ,"[0, 12, -33, -8, 10, -5, 13, -7, 4, 9, 7, -5, 10]",<class 'list'>,<class 'int'>,13
+625,QaPJJVBnweMJRA6e9g85Pu,"[-6, 8, -19, -15, 16, -3]",<class 'list'>,<class 'int'>,6
+626,kh4JNivPRYytgu8o6h5hkC,"[10, -7, 16, 12, -11, -8]",<class 'list'>,<class 'int'>,6
+627,jfktmYGxjoBTt9FCRLrHgY,"[-4, 26]",<class 'list'>,<class 'int'>,2
+628,M2JjUTx4C9E2fWzqRWSSyX,"[-2, 16, 15, -10, -10, -8, 8, 12, -15, 7, 21, -6, 10]",<class 'list'>,<class 'int'>,13
+629,YEZfc2x9XFaTZ46LGH4rKx,"[-7, 21, 5, 30, -13, 0]",<class 'list'>,<class 'int'>,6
+630,Ngp99mhxWnvzmX9cmHvrtJ,"[-12, -21]",<class 'list'>,<class 'int'>,2
+631,9F34DEMjWaTJbqirsiMG43,"[-10, -10, 11, 7, 2, -3, -12]",<class 'list'>,<class 'int'>,7
+632,M2EYDv8QCngMLbmLyoDwzF,"[-2, -19, 28, 2, 13, -26, 7, 29, -24, -5, -11, -12, 18, 0]",<class 'list'>,<class 'int'>,14
+633,js2vNvdXurSBzoNHhbAByE,"[-23, 10, 25, -32, 14, -10, -16, -23, -27, 5, -30, -12, 1]",<class 'list'>,<class 'int'>,13
+634,9CGgEQng8dWErvxaeyTiKP,[-6],<class 'list'>,<class 'int'>,1
+635,hrtsd3sC697qoyriMihek4,"[14, 20, 13, -11, 4, -10, -5]",<class 'list'>,<class 'int'>,7
+636,WdyuWwywESkJtZPbQy4vjw,"[-18, -12, 2, 8, 10, -11, 1, -14, 6, -14]",<class 'list'>,<class 'int'>,10
+637,QXGDXKBUCDifeoVfhkXoWs,"[9, -17, -28, -10, 23, -25, 24, 9, -28, -22, 21, 4, -7, -4]",<class 'list'>,<class 'int'>,14
+638,VWGWwaueSNKp7QccLyAVKX,"[-18, 11, -9, 11, 9, 2, 1, -16, 12, 10, 7, 12, 6, -17]",<class 'list'>,<class 'int'>,14
+639,cejWY4yRegSrmnnbDnpa2b,"[-18, 5, -1, -21, -20, -25, -5, -24, -5]",<class 'list'>,<class 'int'>,9
+640,W4ty9L4A57Sm3kgPTUuUQE,"[-14, 17, 8, 17, -20, -2, -9, 7, 5, -2, 16, 6]",<class 'list'>,<class 'int'>,12
+641,24wXBDNybpB9ghWr2SaX8K,[2],<class 'list'>,<class 'int'>,1
+642,PhM9xfk8gtp9c7SBF4iqPJ,"[-10, -8, 24, -7, -9, 14, 19, 12, -11, 13]",<class 'list'>,<class 'int'>,10
+643,DKqGBrQ3Z78cJeRy9zVSSU,"[-17, -1, -6, -11, -14, -3]",<class 'list'>,<class 'int'>,6
+644,YMzvaaZcZBKLqrzXpkVAQj,"[8, -17, -14, -22, 14, 8, 10, -27, -26]",<class 'list'>,<class 'int'>,9
+645,EWL5cEECmiCqtxqLbtgVxb,"[2, -4, 14, 12, -9, -25]",<class 'list'>,<class 'int'>,6
+646,btwrTWXj2Koyfbnk2qEyRV,"[16, -19, 13, 13, -10, 9, 5, -8, -26, 5]",<class 'list'>,<class 'int'>,10
+647,3QjD3wZzxw5WnpnM6AFsSb,"[9, 21, 8, 3, 22, 6, 0, 28, 7, -2, 17, -3, -10, -2]",<class 'list'>,<class 'int'>,14
+648,excQbzBmVU2Vf7c8q8u4th,"[-19, 3, -26, -12, -26, -13, 7]",<class 'list'>,<class 'int'>,7
+649,WgvKPZw6XVcshqJqfkLiLW,"[-5, 10, 20, -12, -5, -7, 6]",<class 'list'>,<class 'int'>,7
+650,WuhiZ89sVFNzJSFVETsjea,"[-26, 20, -23, -23, 15, 13, -5, 7, -8, -1, -1, 8]",<class 'list'>,<class 'int'>,12
+651,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+652,MoVbAXwhkMdWnrqYp46bYF,"[4, -21, 10, -10, -5, -24, 13, -8, -20]",<class 'list'>,<class 'int'>,9
+653,6Snbwy2jDhxHtX6C4Vks33,"[-2, -5, -11]",<class 'list'>,<class 'int'>,3
+654,g8DuEKvHL4ozdmPwnCfTTS,[-1],<class 'list'>,<class 'int'>,1
+655,bXDiWA99iaBhwyAnshJADj,"[-23, -19, -24, -17, 13, 11, 2, -20, -5, -3]",<class 'list'>,<class 'int'>,10
+656,XBuQLX5Ew99Gyqb8pCaqky,"[-32, -32]",<class 'list'>,<class 'int'>,2
+657,ihb5oLLXYYgfAFixapFLcq,"[9, 22, 27, -10, -11, -18]",<class 'list'>,<class 'int'>,6
+658,CTQdJ2ir2qEvPPzGRLyeE6,"[-15, -10, 13, 1, 11, -17, 5, -20, 3, 20, 28, -18, 27]",<class 'list'>,<class 'int'>,13
+659,noc4zvLkPG7kbWNKvV6sEt,"[-3, 19, -9, -10]",<class 'list'>,<class 'int'>,4
+660,LSmsFrKgCrvv7TCmbsbHXV,"[13, -12, -23, 20, -12, 25, 10, -9]",<class 'list'>,<class 'int'>,8
+661,jcewecfHVFV7TxaC3XRaHt,"[24, -25, 22]",<class 'list'>,<class 'int'>,3
+662,KTdEvD3jucabHPrf6oyHF4,"[13, 0, 13, -9, -25, -26]",<class 'list'>,<class 'int'>,6
+663,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+664,bDZRMxVkhePE6UB8KJDstP,"[-21, 22, 1, -15, -8, 10, -2, 15, 17, 1, 9]",<class 'list'>,<class 'int'>,11
+665,T2QggCELwwKP3buhNR7QWt,"[15, 3, -29, 15, -25, -7, 30]",<class 'list'>,<class 'int'>,7
+666,NRUXy6cHdzH6NzurnuRgtN,"[-9, 29]",<class 'list'>,<class 'int'>,2
+667,NpX3hwQUCvQ2YaKurqiaDT,"[-1, 23, -9, 13, -7, -22, -17, 5, -22, -17, 15, 20, 13, -22]",<class 'list'>,<class 'int'>,14
+668,V9wcrozGKYL5xJXpHqgWFk,"[9, -7, 15, 12, 2, 12, 2, 15, -17, 16, 9, -23, 12]",<class 'list'>,<class 'int'>,13
+669,GmANV8LbymZS32myKz46Gw,"[-9, -15, -17, -6, -22, 12, -8, -15, 1, -24, 5, 5, -19, 18]",<class 'list'>,<class 'int'>,14
+670,3tdkjFXuXzNdu5kx8TJ9zR,"[9, 13, 14]",<class 'list'>,<class 'int'>,3
+671,83ttuKXggo4TMeUas7QTLV,"[15, -33, -17, 15, -19, 18, -2, 15, -14, -27, -19, -12, -26, 1]",<class 'list'>,<class 'int'>,14
+672,QUSsKzVMwEoypgZBKaDzSj,"[-15, -18, 8, 3, -3, 18]",<class 'list'>,<class 'int'>,6
+673,fHrQmBsK3piUHEhdCkhZry,"[9, -7, -8, 16, 0, 8, 1, -14, 1, 4]",<class 'list'>,<class 'int'>,10
+674,VJPANqjdxbhzC9bZxQnj5B,"[10, -7, -19, 21, 17, 10]",<class 'list'>,<class 'int'>,6
+675,4DA8BC4HmLP8Y2mWbU67Q7,"[-12, -29, -12, -10, 18, 19, 13, -9, 3]",<class 'list'>,<class 'int'>,9
+676,V5hUx6UdsGFjWXLn5D2VqD,"[-5, 2, 11]",<class 'list'>,<class 'int'>,3
+677,dHaX7Sr7JrLXGFVdFB6PSf,"[28, -3, 3, -5, 10, 9]",<class 'list'>,<class 'int'>,6
+678,eGxsCnHZpfyjDMbzcTY6Vh,"[-6, 20, -4, 14, 29, 10, -13, 32]",<class 'list'>,<class 'int'>,8
+679,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+680,LStLybykyokPB6M9nnUm9h,"[-32, 2, -6, -29, -27, -32, -30, -17, 3, 16, 5, 4, -5, 0]",<class 'list'>,<class 'int'>,14
+681,W65xHrtyBNvTDhrjqe8a4K,"[14, -18]",<class 'list'>,<class 'int'>,2
+682,nDwFQAx4Nh89dgC5Kr8Joz,"[2, 8, 20, 12, 21, -10, 11]",<class 'list'>,<class 'int'>,7
+683,NXrGijSRZ4PTk9yVK9RRut,"[33, 29, 15, 8, 31, 19, 8, 0]",<class 'list'>,<class 'int'>,8
+684,jz3TQjCMgkVwm5vw8piAv9,"[7, 4, 3]",<class 'list'>,<class 'int'>,3
+685,fnnBjUAegrApzqoiwTxZ6o,"[-31, -15, -27, -4, -9, -13, 7, 14, -5]",<class 'list'>,<class 'int'>,9
+686,7p4eMjQkkoFQUiEfZ6F2hS,"[7, 11, -2]",<class 'list'>,<class 'int'>,3
+687,HUrfRHerWE7MvuMTytDzYT,"[-2, 14, 8, 1, -14, 1, -12, -5, 16, 1, 10, 16, -2, -15]",<class 'list'>,<class 'int'>,14
+688,BSPRPYrzFNDMEoxCGNYA8A,[-22],<class 'list'>,<class 'int'>,1
+689,nckaQb67U3eQfv57PqH7hY,"[10, -7]",<class 'list'>,<class 'int'>,2
+690,mjT4ry8Dn5WAj7K5y8tUMT,"[-13, 8, -9, 5]",<class 'list'>,<class 'int'>,4
+691,Ccb4nv2QNMxKQQXjtJW24o,"[22, 21, -13, -3, -21, -22, 4, 21, -25, -4, 21, -5]",<class 'list'>,<class 'int'>,12
+692,Lpk3KCyHVoshheMn7Ue4Lt,"[-3, 13, -14, -3, 13, -19]",<class 'list'>,<class 'int'>,6
+693,5CUtB8hU24BvxqmALtxiig,"[16, -9]",<class 'list'>,<class 'int'>,2
+694,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+695,Zo5jdy5kQ67LiAUq82Xq7d,"[1, 10, 10, 18, 7, 16, -12, 6, -14, -11, 1, -11]",<class 'list'>,<class 'int'>,12
+696,fnf7aSFXsjAMPmgnYdCcHe,"[-15, 14, -10, -6, 5, -16, 14, -1, -15, -6, 14, -5, -5, 5]",<class 'list'>,<class 'int'>,14
+697,XguW8juKqyJeosLunnsbxa,"[19, 29, 25, -7]",<class 'list'>,<class 'int'>,4
+698,ctNuaYXiTRX5A2Y52HGJeT,"[-27, 15, 9, -29, 12, -20, -23, -19, -7, -11, -25, 12, -13]",<class 'list'>,<class 'int'>,13
+699,da5hQ5s28ZXusccUY4njcG,"[5, 8, -2, 12, -10, -13, 18]",<class 'list'>,<class 'int'>,7
+700,dx9wFefSwaggMZqUgFchZA,[15],<class 'list'>,<class 'int'>,1
+701,4PUyfSsnrMcK8NjmELhYiE,"[-28, -34, -6, -19, 0, -26, 6, -12, -8, 13, -9]",<class 'list'>,<class 'int'>,11
+702,MzYXszwgRunmZyA4je2J4e,"[0, -2, -29, 5, 9, -3, -13, 14]",<class 'list'>,<class 'int'>,8
+703,RXcKZkGnuGPyTVH5WyqVob,"[18, 3, -4, -1, -17, -1, 9, 3]",<class 'list'>,<class 'int'>,8
+704,9E6qyAQJTzbc6dRMJKQV4K,"[5, -13, 13, 18, -29, 12, -12, 22, -4]",<class 'list'>,<class 'int'>,9
+705,nvsT2nbACmphrPthWaVDr5,[-19],<class 'list'>,<class 'int'>,1
+706,i9ve7Lft6NwJoV8qyxSgUQ,"[-3, 17, -28, 3, 19, -19, -16, -8, -22]",<class 'list'>,<class 'int'>,9
+707,KrtUV7psYkHABTyf2AvFZC,"[-7, 9, -10, 24, -11, -7, 15, -18, -12, 19, -5, -11, 24, 12]",<class 'list'>,<class 'int'>,14
+708,P5o6FWT7DtLgAmdozuzHEW,"[-18, -21, 17, -29, 21, 29, -16]",<class 'list'>,<class 'int'>,7
+709,Q5KkwqQXWGaLh2mCWwNJw2,"[-19, 0, 20, -11, 0]",<class 'list'>,<class 'int'>,5
+710,WZRnNcoijkbwYuY4QSGPRq,"[15, 18, -3, 19, 13, 3, 17, -14, -5, -16, 18, -4, -7, 22]",<class 'list'>,<class 'int'>,14
+711,8Kzynn864EaCC4h2KuXQqD,"[-22, 3, -26, -6, -12, 12, 19, -6, -1, 11, 6, -4]",<class 'list'>,<class 'int'>,12
+712,7oRjLJB6CKQejYuhToZdzd,"[0, 5, 11, -6, -12]",<class 'list'>,<class 'int'>,5
+713,hagy9Tk4QCxTvpmk77Sjcx,"[-19, 0, -9, -1, -15, 7, 12, -16, -12, 11, -14]",<class 'list'>,<class 'int'>,11
+714,oRhupfpbMLo88R8Le6tSTd,"[27, 28, -8, -27, 9, 6]",<class 'list'>,<class 'int'>,6
+715,NP89BQaPfWhLUSLjBvcQxa,"[-1, 13, 11]",<class 'list'>,<class 'int'>,3
+716,49unq5PgpCgSkJdzjgPyYe,"[12, 15, -29, -28, -23, -23, 1, 8, 9]",<class 'list'>,<class 'int'>,9
+717,fpPhiK2CdFwqEM9kyx4xmD,"[11, 14, -14, -12]",<class 'list'>,<class 'int'>,4
+718,ReGGPhTNWkWirjVK2DiKgp,"[-29, 26, -18, -17, -15, 25, 4, 14, -19, -5]",<class 'list'>,<class 'int'>,10
+719,gXGpzcsgHc7o7rhoChpkHR,"[9, -14]",<class 'list'>,<class 'int'>,2
+720,ZocF2JvxMmjYLFRPD9Y2oL,[-15],<class 'list'>,<class 'int'>,1
+721,BwwS5RLsJvgCUNx3bBG4Pf,"[-21, -18, 8, 24, -9, 18, -6, -6, -2]",<class 'list'>,<class 'int'>,9
+722,ZBoWGQNrEsENPYRRV4Zbd6,"[22, -20, -2, -6, 1, -15, -3, 22, 1, -13, -2, -13, 2, -18]",<class 'list'>,<class 'int'>,14
+723,agnocQJJfps6WmoCTisG6f,"[29, -17, 26, -3, -10, -12, 10]",<class 'list'>,<class 'int'>,7
+724,TocPbYEAkMH2t4aVZpDRZH,"[-21, -19, -2, 7, 1]",<class 'list'>,<class 'int'>,5
+725,JqzLYCQSMpPkcxgsk3sY6V,"[-4, 10, -14]",<class 'list'>,<class 'int'>,3
+726,6aT7baPCeEYPU2QSkBEUQa,"[-17, -12, -13, 18, -11, -4, -12]",<class 'list'>,<class 'int'>,7
+727,WmqJt9vFDpgR8cZkP224c7,"[-16, 4, 26, -22, 4, -25, -19]",<class 'list'>,<class 'int'>,7
+728,UybLXgK6QdWY6p44izU88d,"[17, 17, 20, 2, 0, 7, 24, 24, -20, 16, -19]",<class 'list'>,<class 'int'>,11
+729,Qr8ev3TKH6Y5xEoHZFMevY,"[-2, 13]",<class 'list'>,<class 'int'>,2
+730,DizYhHHnHSGJap3QKnEScP,"[3, 27, -6, 19, 7, 10, 27, -6, 11, -7, -12, 21]",<class 'list'>,<class 'int'>,12
+731,jxKqVGBUP4V2QtgHkmSapV,"[-22, -33, -14, -15, -9, 3, 14]",<class 'list'>,<class 'int'>,7
+732,AH4dR6G3ZYqzwrsMH4U43r,"[13, 5, 14, 7, -8, -14, -15, -20, -16, -5, 3, -1]",<class 'list'>,<class 'int'>,12
+733,bgBu5oQT6XN6PFJCzSopXi,"[-1, 4, 1, 19, -16, -28, -11]",<class 'list'>,<class 'int'>,7
+734,kcfQsfrnm9KQASddSKPv5e,"[1, 18, -16, 12, -27]",<class 'list'>,<class 'int'>,5
+735,c2dW6mZgrf35phedf2fuSz,"[-28, -23, 8]",<class 'list'>,<class 'int'>,3
+736,4dCgbLtYouz29LzjKRS648,"[-22, -15, -29, -19, 30, -10, 21, 17]",<class 'list'>,<class 'int'>,8
+737,TsK7gndK7YbAN8oHFqqCXD,"[-2, -17, -6, -20, 16, 1, 5, 17, 9, 11, -9, 24, -25, -23]",<class 'list'>,<class 'int'>,14
+738,BJtZ4ncsnNBRuLdVvRJNdQ,"[9, 11, 1, 16, 7, -16, -11]",<class 'list'>,<class 'int'>,7
+739,XxqVRHifWbbXtdQmR5iNED,"[-1, -14, -10, -22, 6, -7]",<class 'list'>,<class 'int'>,6
+740,k6XigGfe9GgGdtYyejwhwy,"[12, 1, 13, -20, 19, -6]",<class 'list'>,<class 'int'>,6
+741,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+742,QTFWZF4e9ZGmHkye6ye2RH,"[18, -21, -15, 7, -29, 7, -27, -15, -5, -20, -7, 12]",<class 'list'>,<class 'int'>,12
+743,ML6HEfJhQFdp3z82JbryPm,"[12, -14, 26, 24]",<class 'list'>,<class 'int'>,4
+744,ChzAgijN4eDQjLor74JZh5,"[16, 7, -12, 1, -4, 8, 17, 14, -11, -8, -14]",<class 'list'>,<class 'int'>,11
+745,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+746,9exgFkMsHRSRAajrwki7Ti,"[5, 10, 5, -10, -20, 4, -14, 23]",<class 'list'>,<class 'int'>,8
+747,WiS8no2fdXqo3six38SZVU,"[13, 16, -11]",<class 'list'>,<class 'int'>,3
+748,CHbNrnGrqDrbBhcEFvbR6A,"[-18, 19, 16, -2, 21, 19, -1, -9, 22, 10, 8]",<class 'list'>,<class 'int'>,11
+749,jEs292bBuR5MDibLNzcGAd,"[14, -5, -15, 2, -13, -19, 15, -5, -1, -5, 1, 19, -26, 19]",<class 'list'>,<class 'int'>,14
+750,dcJEe5iNTdLzmYgxWbhKpC,"[-11, 17, 14, -15, -22]",<class 'list'>,<class 'int'>,5
+751,Lfxu5VD5XjzJiMBmKCd23o,"[11, -7, -22, -10, -19, 0, -2]",<class 'list'>,<class 'int'>,7
+752,Fefssu5BpAeBt9PPhw8dhi,"[-6, 14, -8, 13, -17, -2, -8, 17, -18, 13, -4, 15]",<class 'list'>,<class 'int'>,12
+753,jNYT5VFVrZh6rDZyJGc8bd,"[3, -4, 13, 23, 0, 1]",<class 'list'>,<class 'int'>,6
+754,kwxG8iMUMStD7zZbeftaAz,"[-4, 4, 4, -16, -13, -11, -19, 13]",<class 'list'>,<class 'int'>,8
+755,nsBQV5oDitz72PfBWWNTFZ,"[-25, -10, 8, -2, -20]",<class 'list'>,<class 'int'>,5
+756,fHNHTewMctcF34CSQL378t,"[15, -27, -20, -20, -19, -14, -18, -5, -19, 8]",<class 'list'>,<class 'int'>,10
+757,JWYYoG95PeXwbCefsBgEEw,"[-4, 11, 6]",<class 'list'>,<class 'int'>,3
+758,jmUNnfzoYbHEzTeDkCvy5v,"[23, 24, -7]",<class 'list'>,<class 'int'>,3
+759,CDmw8QPcY6CuBFhkbaQPTX,"[15, 3, 11, -2, 10, 3, -6]",<class 'list'>,<class 'int'>,7
+760,2a55HJdMQkDMKNwNfvij4M,"[-4, 7, 0, 22, 10, 24, -10, 24, -15, -12, -5, 14, 13]",<class 'list'>,<class 'int'>,13
+761,jZ45pW8qy4gpbXJFdnKoYS,"[-29, 20, 8]",<class 'list'>,<class 'int'>,3
+762,jMx3kR52asbQtFNuUq5ghN,"[-20, -7, -24, 7, -23]",<class 'list'>,<class 'int'>,5
+763,k8nh55cvFyEU75ZKh3ePyA,"[1, -23, 7, -13, -12, -18, 15, -19, 0, 6, -6, -19]",<class 'list'>,<class 'int'>,12
+764,NykK4UibrFHFgyDSMjwMTX,"[5, -32, 8, -16, -21, 4, -3, 10, -19, 19, -19]",<class 'list'>,<class 'int'>,11
+765,LD3doLRNNJ2tB7FjjZqfod,"[-4, -25, 5, 13, 2, 23, 16, -18, -21, 18, -26]",<class 'list'>,<class 'int'>,11
+766,Dabj6sPjSMFaWCAJpHNixw,"[-20, -9, -12, 15]",<class 'list'>,<class 'int'>,4
+767,VrqbvbvgELhz9iFVmPJeBR,"[6, -6, 0, -12, -13, 10, 9, 4, 14, -2, -12, 9]",<class 'list'>,<class 'int'>,12
+768,SNtUf5U5wGAMZBFUTJi3wd,"[12, -7]",<class 'list'>,<class 'int'>,2
+769,hY3WddqMnaznBjWAK4o9xK,"[5, -1, -11, -33, -19, -9, -33, -7]",<class 'list'>,<class 'int'>,8
+770,TXk7xAwLJpxaDcurwBMqvh,[11],<class 'list'>,<class 'int'>,1
+771,dNApxsanouB2ZXcCk64Bzn,"[-5, -13, 16, 18, -20, 15, -5, -19, -7, 17, 12]",<class 'list'>,<class 'int'>,11
+772,Si4GnfVubPtnXm3vQcs3qC,"[-13, -20]",<class 'list'>,<class 'int'>,2
+773,DQvuhWRMrrZh3QymDnvfyY,[-24],<class 'list'>,<class 'int'>,1
+774,3nmHtEChnS3NnpCE5uZucw,"[20, 9, 22, -18, -19, 10, 1, 15]",<class 'list'>,<class 'int'>,8
+775,erexCaCQBFrp3LoHDCX24m,"[0, 2, 14, 27]",<class 'list'>,<class 'int'>,4
+776,TSbkwCPPkvXYJxBoj7BsrF,"[18, -29, -18, 1, -28, -15, -31, -29, -16, 10, -25, -17]",<class 'list'>,<class 'int'>,12
+777,6BnQtDuq3oewTq68bXtdam,"[28, 22, -9, 14, 1]",<class 'list'>,<class 'int'>,5
+778,LwbUCaUctU3ESdNVycHDeT,"[-15, -11, -1, -4, -4, -15, 7, -3]",<class 'list'>,<class 'int'>,8
+779,9puuFNfJdFDWXu7Yijay2U,"[-15, 22, -5, 8, 4, -15, -8, 26, 26, 11, 33, 3, 19, 12]",<class 'list'>,<class 'int'>,14
+780,ne8ttxbmJ2AVYWRdjXBSEP,"[27, -10, -5, 21, 30]",<class 'list'>,<class 'int'>,5
+781,UebhBvgaKXiknRze627o6C,"[6, 15, 9, -6, -14, -14, -2, -15, -15, 11, -4, 9, 3]",<class 'list'>,<class 'int'>,13
+782,GpZ7JzxCeX6cNW6ELfLsT3,"[12, 0, -20, 17, -21, 5, 14, -22, 5, -11, 11, 5, 4]",<class 'list'>,<class 'int'>,13
+783,dx9wFefSwaggMZqUgFchZA,[15],<class 'list'>,<class 'int'>,1
+784,g4DEuh5RF8VATZkStvtHag,"[9, -24, 13, 14, -19, -16]",<class 'list'>,<class 'int'>,6
+785,BayhsiJ34fFJ5UTSzSbC2D,"[-19, -9, -18, -16, -21, 15, -10, 25, -24, -24, 13, -1, 13]",<class 'list'>,<class 'int'>,13
+786,TCc8MqB7rtR3nu53huBwL2,"[-7, -5, -5, 10, -19, -16, -19]",<class 'list'>,<class 'int'>,7
+787,BYrEtQohHAmdrmn24o4CWG,"[-4, -9, 6, 4, 4, 16, 11, 22, -23, -6, -5, 19]",<class 'list'>,<class 'int'>,12
+788,WgS8FRyVJXeqo8tdM84oWY,"[-14, -26, -8, -19, -9, 1, -25, -25, 12, -3, 6, 5, -16, 16]",<class 'list'>,<class 'int'>,14
+789,ZJ7SwqEdY5Uea7LSU7a7xP,"[-11, 12, -8, -18, -5, 5, 25, -18, -14, 1, -17, 1]",<class 'list'>,<class 'int'>,12
+790,hgGhcRYDTCMQ4Qbu7nzRhw,"[-24, -4, -9, 0, -20, -31, -29]",<class 'list'>,<class 'int'>,7
+791,WecrtNJmnG5MMzDjFau6pk,"[0, -23, -1, -24, -15, -12, 13, -27, -3, -6, -26, 4, -25]",<class 'list'>,<class 'int'>,13
+792,CZ37Re3pu8W6FutVGBHFbt,"[-15, 9, 23, -3]",<class 'list'>,<class 'int'>,4
+793,CKn8ELvgGSexmhbDnP5enz,"[-14, 6, -27, -14, -9, -28, -13, -29]",<class 'list'>,<class 'int'>,8
+794,VcQegDPGFBQugUqfwaDGyi,"[10, -20, -22]",<class 'list'>,<class 'int'>,3
+795,9bow6LC8dtEAqmxNpqc9rV,"[-17, 14, -13, -2, -15, -2, -10, 3, -7, -6, 12]",<class 'list'>,<class 'int'>,11
+796,73uGiwvJia5xBv7aQ2GFbn,"[7, 0, -14, 21, 15, 6, -12]",<class 'list'>,<class 'int'>,7
+797,XGK7NvEz9ww8P2CiAgntt7,"[10, -4]",<class 'list'>,<class 'int'>,2
+798,4T3kULWqTuctokhEYQCd8U,"[-27, -19, 3]",<class 'list'>,<class 'int'>,3
+799,W8P8My5YF3MiAVqNBNDLod,"[2, 14, -13, -4, -17, -10, 8, 8, -2, 9, 23, 13, 19, 22]",<class 'list'>,<class 'int'>,14
+800,DSQqhfz6YPMugXU6bbLZJz,"[23, -5, 20, 8, -6, -6, -5, 15, 18, 3, 10, 26, -25, 14]",<class 'list'>,<class 'int'>,14
+801,7wbCxz4PGA9CAKMif4deMP,[4],<class 'list'>,<class 'int'>,1
+802,4DsqJTSDCfhgFXKmbSBuFS,"[22, -12, -8, -4, -4, 2, 22, -2, -1, 27, 3]",<class 'list'>,<class 'int'>,11
+803,iQwxKsf4D7rUDVFKxDaMTc,"[-2, -1, -14, -21, -6, 14, -17]",<class 'list'>,<class 'int'>,7
+804,TVh9H4bnh3gVsddZfeiVVA,"[-12, -4, -19, -17, 3, 12]",<class 'list'>,<class 'int'>,6
+805,bXERmHMPp3vCQFgkPtVs6M,"[8, -21, -20, 1, -24]",<class 'list'>,<class 'int'>,5
+806,KAJVS3VtrVnmdSZ4zXUprX,"[0, -28, -7, -26, -21, -12, 9, 13, 13, 18, -26]",<class 'list'>,<class 'int'>,11
+807,oYFGM8cjeHaX3sZHBCVf3j,"[-25, 1, -13, -18, -14, 19]",<class 'list'>,<class 'int'>,6
+808,kj5Q4MRPHBhJCS3Pc2YpHE,"[-3, -20, 1, 12, 25, 17, 14, 21, 15, -19, -11]",<class 'list'>,<class 'int'>,11
+809,aPdZamWqsr3ACHWHZkP7Ka,"[7, -15, -14, -12, -2, 11, -18, 27, -19, 27, 5, -17]",<class 'list'>,<class 'int'>,12
+810,e6mZZGfFjuUC2xj8uAsTBu,"[17, -27, -21, 23, 10, 1, 23, -16, 22, 20, 13, -1, 24, 6]",<class 'list'>,<class 'int'>,14
+811,dwDrjSwMnY62pBFGh2qLjT,"[19, -18, 25, 26, 0, 13, 22, -23]",<class 'list'>,<class 'int'>,8
+812,9M9mhgiFu5DbgPzp64VYne,"[-8, 7, 22, 11, -5, -5, 28, 31, -26, 18, -18]",<class 'list'>,<class 'int'>,11
+813,btiGz46qbR6PS3PTBQFtcH,"[6, -20, 0]",<class 'list'>,<class 'int'>,3
+814,SH6dpn7uqGdEk5XwUDqYYk,"[13, -32, 15, -15, -13]",<class 'list'>,<class 'int'>,5
+815,BVHKWrt7ZWh3RKFGxiJ6Nv,"[19, -31, -1, 10, -7, -9, -27, 20, -13, -30]",<class 'list'>,<class 'int'>,10
+816,iXwo823CKEmLAagDAzzikL,"[11, 8, -8, -13, 7, -12]",<class 'list'>,<class 'int'>,6
+817,Sr4oxVNQ8xpn3YwCfcbc3V,"[-6, -7]",<class 'list'>,<class 'int'>,2
+818,YFsvbxebCsU6MNRuiECe2f,[-3],<class 'list'>,<class 'int'>,1
+819,Sdoq3KQMUceFYj2wKegGYP,"[0, -10, 18, -16, -27, -1, -14, -9, -22, -26, -11]",<class 'list'>,<class 'int'>,11
+820,72RkBCw58EiEMFwQhuvryb,"[-7, 21, 1, -22, -5, 13, -28, 2, 21]",<class 'list'>,<class 'int'>,9
+821,jVpMvH98yzN8Sd7u3vqRi4,"[-12, -17, 14, -1, -14, -6, -15, 10, -1]",<class 'list'>,<class 'int'>,9
+822,ehT7TnBJZ6qYaVW8UoQVar,"[7, 3, -11, 14, -2, -13, -11, -12, -6, 5]",<class 'list'>,<class 'int'>,10
+823,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+824,A5Yhnzh2o9CPwHenKpuvJf,"[17, 13, -14, -12, 23, 33]",<class 'list'>,<class 'int'>,6
+825,JUScb7g9PgVpMjQyvkfw6N,"[-8, 28, 18, 9, -19, 26, 30, 0, -20, 8, -11, 5, 4, 33]",<class 'list'>,<class 'int'>,14
+826,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+827,2BUwFVKwV9WyknmVgvt3HD,"[17, 4, 16, 19, -17, -14, 8, 28, 13, 17, -1, -15, 18]",<class 'list'>,<class 'int'>,13
+828,j3E8BAx7bDmTQnqJ58qNex,"[-9, -12, 24, 18, -29, 16, 24, -24, -27, -2, -8, 1]",<class 'list'>,<class 'int'>,12
+829,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+830,WcXmH3PbsQAcVeCy3s8MSB,"[-18, 4, 23, 14, 17, 15, -20, 27, 17, 2, -18, -22, 23]",<class 'list'>,<class 'int'>,13
+831,FWHRaxafXJFf7hrThW5Ati,"[-3, 6, 0, -17, -7, -2, 0, -12, -16, -4, 12, -9, 9, -17]",<class 'list'>,<class 'int'>,14
+832,SJdUXkNSYqqvyUjfFaHNkX,"[10, 10, 23, 16, -11, -5, 0, -16, 18, 31, 13, -9, 27]",<class 'list'>,<class 'int'>,13
+833,9DibnYFpRLcK5ZmTARrW5p,"[24, -15, 4, -18, -17, -19, 5, 4, -2, 10, -14]",<class 'list'>,<class 'int'>,11
+834,fS5mtWGyK7Rd7ihqVtzpnc,"[5, -17, 1]",<class 'list'>,<class 'int'>,3
+835,e4uPRdY4dcZagfH9BVCwR5,"[10, -3, -10, -1, 6, -16, 2, -4, 14, -2, 3, -15]",<class 'list'>,<class 'int'>,12
+836,ApKHQq5DioR8p3hJ77ym86,"[1, 25, -2, 25, 2, 11, -9, 13, 31, 6, -14]",<class 'list'>,<class 'int'>,11
+837,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+838,57y8NP9MsXNcFxUPgpceSE,"[7, 27, 9]",<class 'list'>,<class 'int'>,3
+839,nTjSFz3PzYuybeVBKpr2gz,"[-22, 11, 26, -13, -25, 30, -1]",<class 'list'>,<class 'int'>,7
+840,YVNMJ5LSaR8X7RcdaVETgq,"[-16, -21, -22, -1, 5]",<class 'list'>,<class 'int'>,5
+841,kD5dzEwri6rJCUTN54KyUG,"[4, 14, 1, -5, 6, -8, -18]",<class 'list'>,<class 'int'>,7
+842,4VR2NJKx84dC582cz5g3KB,"[11, -27, 10, 11, -16, -15, 8, -10, -5, 8, -5, 9, 12]",<class 'list'>,<class 'int'>,13
+843,26pgnueZzi6YN5SQvXtEeY,"[17, 11, -8, 13, -4, 18, -1, -9, 10, 26, 1]",<class 'list'>,<class 'int'>,11
+844,cGqktXVsBXWSCwiD8bSqtQ,"[13, 16, -8, -5, 2, 1]",<class 'list'>,<class 'int'>,6
+845,AbHaLwm9MSAwfP6HNfLt2f,"[-2, 17, -15, -7, -4, 20, 3, -24, 15, 19, -13, -24, -18, -8]",<class 'list'>,<class 'int'>,14
+846,DdJYvJu2YHBweeK6mYnaSL,"[-3, 30, 17, 24, -21]",<class 'list'>,<class 'int'>,5
+847,bwMGsSmmirL6STFKErzwpD,"[7, 6, 10, 0, -10, 11, 19, -18, 9, 17, 17, -13, 16]",<class 'list'>,<class 'int'>,13
+848,agvi5WHey6AKSDvsGpeCfv,"[11, 18, 9, 15]",<class 'list'>,<class 'int'>,4
+849,KHLAUx7mw37Xjfn23XreSQ,"[-6, -20]",<class 'list'>,<class 'int'>,2
+850,o3x3nQDpGzbw348gUT8maB,"[-19, 14, 12, 0, -13, -17, 23, 16, -16, 15, 19]",<class 'list'>,<class 'int'>,11
+851,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+852,f5LyPMCWGA4doPTkoFCe3x,"[19, 30, -1, 21, 26, -3, -3, 15, 24, -2]",<class 'list'>,<class 'int'>,10
+853,AdhuAZehz3w6UzwjC3Bjyp,"[14, 5, -4, -33, -24, 4, -5, -18, 5, 7]",<class 'list'>,<class 'int'>,10
+854,KzW8sr6UUdyMvbPDe2VNQe,"[-28, -11, -8, 7, -21]",<class 'list'>,<class 'int'>,5
+855,Q6a3ao4pN7NrYmATz796E8,"[8, 19, 5]",<class 'list'>,<class 'int'>,3
+856,BDjJh9fT4Yrfa95Bp8wreq,"[-27, -13, -12, -25, -24, 1]",<class 'list'>,<class 'int'>,6
+857,U2DPpMREb5VguYcPiL2QLx,"[8, -20, -29, -2]",<class 'list'>,<class 'int'>,4
+858,f3EeyjTosUDa8AxzqghU4V,"[1, 11, 7, -11, 8, -22, -14, -23]",<class 'list'>,<class 'int'>,8
+859,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+860,HiRzYYey6qV898NLxd7siZ,"[-15, -12]",<class 'list'>,<class 'int'>,2
+861,7SyAYufumSnbTQ4v7KnJEf,"[22, -25]",<class 'list'>,<class 'int'>,2
+862,jNMNTzZrDK4cMZRPFemC2R,"[3, -21, -18, 20]",<class 'list'>,<class 'int'>,4
+863,erBsH4emUdY3rXKZY7KnH3,"[6, 2, -15, -13, 18, -10, 15, -10, 22, -21, -20]",<class 'list'>,<class 'int'>,11
+864,cN48FsM3U2PNbvoB8rgSVu,"[-14, -14, -18]",<class 'list'>,<class 'int'>,3
+865,DU7KpM49qCpERqeKjy66Kw,"[-10, -8, 14, 6, -14, 17, -6, -2, 8, 20, 15]",<class 'list'>,<class 'int'>,11
+866,BryoriksYtTFEpp2r2JdvX,"[-19, -18, -2, -32]",<class 'list'>,<class 'int'>,4
+867,LRU2m3N3XbqNdXRARZ8pKD,"[14, -2, 11, 18, 23, 14, -9, 27, 22, 9, -2, -13, -22]",<class 'list'>,<class 'int'>,13
+868,CmA49Zza2akqtNMg9u5mdA,"[-2, 12, 20, -14, 14, 10, -14, 22, 17, -10]",<class 'list'>,<class 'int'>,10
+869,YmkRHNLpip9spihXp4rBAH,"[-3, 2, -4]",<class 'list'>,<class 'int'>,3
+870,EwixEgncAwP79KnHubdCU8,"[-10, 19, 18, 14, 11, 18, 12]",<class 'list'>,<class 'int'>,7
+871,3x4QGyvjJ9mHcc8BPZFk8h,"[0, -4, 9, 15, -8, -4, 8]",<class 'list'>,<class 'int'>,7
+872,boUWFKUHkpJ8Df7U387qhQ,"[-12, 15, 16, -19, -2, 16, -7, 10]",<class 'list'>,<class 'int'>,8
+873,CHL6bb2W9zVafruFGf3Uoz,"[20, -9, 4, -2, -14, -18, 17, 17, 20, -4]",<class 'list'>,<class 'int'>,10
+874,i4vMSAkWnUPDpMtVdSgSf4,"[-28, 17, 5, -8, 7, -17, -17, -16, -12, 13, 10, 6, -2]",<class 'list'>,<class 'int'>,13
+875,XvRiMwEUmiPNCiYLzg36iY,"[14, 10, 27, 3]",<class 'list'>,<class 'int'>,4
+876,bEd5Qc5NfaDszia2r3YK8n,"[24, 14, -19, -3, -16, 10, 10]",<class 'list'>,<class 'int'>,7
+877,2mfxxpZ3yLg9dyeJnNL8Lo,"[6, 4, -9, -12, -19, 11, 8, 16]",<class 'list'>,<class 'int'>,8
+878,gpTBTMUygTY2f4fzNrj2es,"[15, -12, 0, 30, -1, 31]",<class 'list'>,<class 'int'>,6
+879,5NzRA2mv49kCjvW42tySxY,"[5, -13, 3, -21, 21, 16, -2, -8, -2]",<class 'list'>,<class 'int'>,9
+880,Aat5VwF5xe2UMj5DSEDAdw,"[-9, 9, 20, -9, -10, -2]",<class 'list'>,<class 'int'>,6
+881,ZS56H25cMyWA4JFjh4BYrf,"[-32, -33, -5, -30, 11, -9, 10, 10, 4, -24, 13]",<class 'list'>,<class 'int'>,11
+882,4onddFCVUrLeYEo5J7UKNT,"[-1, 3, 21, 15, 22, -23, -1, 3]",<class 'list'>,<class 'int'>,8
+883,Sus5ki5ij8Rq6bD5berhcv,[18],<class 'list'>,<class 'int'>,1
+884,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+885,TCHoiLCH65nhQE69Uz2hxQ,"[-16, 8, -10, -4, -19, 20, -7, -15, -17, -6, -15, 16, 6]",<class 'list'>,<class 'int'>,13
+886,VnJgvVeddPiCG5cwqkT4Qy,"[13, -10, 12, -2, -2, 2, -23, -7, 7, 12, -5]",<class 'list'>,<class 'int'>,11
+887,bwgmuMJyfxus2Rwk9ibUbT,"[-7, -22, 8, -9, -4, 17]",<class 'list'>,<class 'int'>,6
+888,eFRFh2erAY3jm7GiaGs7c3,"[16, 24, 8, -21, -9, -18, -26, 23, 19, -3, -7]",<class 'list'>,<class 'int'>,11
+889,Hcq4x6LALrXSyBQAmyxsMo,[29],<class 'list'>,<class 'int'>,1
+890,4Xx3nHq7LBZoC7ASgx4CwE,"[-24, -7, 20]",<class 'list'>,<class 'int'>,3
+891,EsmrB2v5hcheryGfJGADrt,"[-15, -12, -5, -13, -4, -7, 12, -7, 9, 3, -15, 24, 13, 12]",<class 'list'>,<class 'int'>,14
+892,bpz56MAhXhvsRftL3bujBM,"[13, -31, -5, 1, 13, 17, 0, -20]",<class 'list'>,<class 'int'>,8
+893,52xPhWQipwZtsyYd6uhXaV,"[-6, 25]",<class 'list'>,<class 'int'>,2
+894,bNQX8Y4ALcJjX6uDj5ab4p,"[4, 14, -9, -16, -29, -21, -16, -14, 12, -28, 13, 17]",<class 'list'>,<class 'int'>,12
+895,a8kHE7NUK7vU5Y6gw8ZRbr,"[-15, -23, -20, 19, 30, 10, 7, 10]",<class 'list'>,<class 'int'>,8
+896,P2yzPmDgSNCAuP9FzjjiPv,"[21, -1, 8, 2, -7, -14, -12]",<class 'list'>,<class 'int'>,7
+897,dGUezjDUgbWNnHuymCoSqL,"[-1, 7, 5, -14, -3, -25, -8, 0, 15, 14]",<class 'list'>,<class 'int'>,10
+898,mnLoH9GcT4cNPQEWXN8f9w,"[31, 14, 4, 18, 26]",<class 'list'>,<class 'int'>,5
+899,U35z6Th8cNV7KXCUz2KXQ6,"[-21, -4, -10, -10, 8, 11, -23, -11, -6]",<class 'list'>,<class 'int'>,9
+900,KPGmmxC2XFryvHK68ATk4f,"[-12, -22, 14, 7, 27]",<class 'list'>,<class 'int'>,5
+901,bHzpMSvFC4aVkRV4rVP8e7,"[-11, -21, -11]",<class 'list'>,<class 'int'>,3
+902,cNPFJansUiiiqnk75YC9cm,"[-24, -27, 13, -8, -3, 10, 12]",<class 'list'>,<class 'int'>,7
+903,gqFwcmB48WLUzXZAan2jPk,"[5, 9, 5, -17, 0, 12, -23]",<class 'list'>,<class 'int'>,7
+904,5XKvZyRcFD7VRP3B28ZhiH,"[-10, 12, -7, 24, 11, 6, 25, 6, 25, -17, -6, -9, 11]",<class 'list'>,<class 'int'>,13
+905,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+906,cvwWDwdEBSUrZQdn4iwnQ3,"[-1, -17, -15, 6, 16, -9, -19, 12, 5, -19, 16, -10, 16]",<class 'list'>,<class 'int'>,13
+907,8ctY9x5HW6gok3WGK8seSh,"[18, 2, -26, 11, 22]",<class 'list'>,<class 'int'>,5
+908,59mcZJuhVyZpAXwRPvMKmC,"[7, -20, -5]",<class 'list'>,<class 'int'>,3
+909,nqD9b9y6aKqS2Lp9iwkEi9,"[17, 10, 1, 14]",<class 'list'>,<class 'int'>,4
+910,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+911,3pEi5gyk9VmRq88x4Ckoia,"[11, -7, -22, 15, 31, -30, -22, -15, 20, -2, -23, -9]",<class 'list'>,<class 'int'>,12
+912,RdQTuZkVRBmVQYMN6Ay2Ny,"[20, 3, 24, 9, 28, 3, -1, 24, 29, 18]",<class 'list'>,<class 'int'>,10
+913,bHUW5oxHfbNTUFHJDSFJ8Q,"[8, 16, 11, -11, 17]",<class 'list'>,<class 'int'>,5
+914,8FPTTpjfdozstTLYSXtBqa,"[0, 30, -3, 19, 3]",<class 'list'>,<class 'int'>,5
+915,awiiJQThixBNjFo8zPiYhD,"[22, -15, -2, 11, -10, 25, -13, 24]",<class 'list'>,<class 'int'>,8
+916,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+917,BuEBUycF2ART4UwYrdHVWy,"[-15, -14, 8, 3, 8, -3, 7, 7, -19, 1]",<class 'list'>,<class 'int'>,10
+918,2W8Pk7dWgFHXeFiYDHcQdP,"[10, 7]",<class 'list'>,<class 'int'>,2
+919,9dLZw7trAicRAXgKgPFYKe,"[9, -21, 5, 13]",<class 'list'>,<class 'int'>,4
+920,HJvmtaVAGcVhsxXGWzaosa,"[-1, 14, 7, -13, 20, -4, -9]",<class 'list'>,<class 'int'>,7
+921,DQvuhWRMrrZh3QymDnvfyY,[-24],<class 'list'>,<class 'int'>,1
+922,FTE3SBayS6eNzNoxYrbsqQ,"[13, -8, 7, 2, -7, -13]",<class 'list'>,<class 'int'>,6
+923,5FMBrFRHKKmGUGLgtMiwK2,"[5, 8, -4, -7]",<class 'list'>,<class 'int'>,4
+924,Z545PnwY7zkmh5CXTMuZtV,"[4, -6, 22, -12, 6, -13, -6, -8, 4, 17, -2, 17]",<class 'list'>,<class 'int'>,12
+925,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+926,YKmWGofcXNiyc7nrqoHz4c,"[12, 19, -5, 22, 4, 18, 1, -12, 8, -9, 11, 21, -8, 14]",<class 'list'>,<class 'int'>,14
+927,FEB9mK5sPXsy9NGa8V7BdA,[-2],<class 'list'>,<class 'int'>,1
+928,Ek2oe7kXuApbNdrzDsEmkm,"[12, -9, 3, -13, 7, 4, 9, -13, 15]",<class 'list'>,<class 'int'>,9
+929,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+930,oLCDyEKdHWw964NVwAFLiC,"[-6, 17]",<class 'list'>,<class 'int'>,2
+931,Ts7XMbZPg9NEjn2c3jmh3q,"[-19, -30, 2, -24, -26, 12, -20, 9, 10, -15, -2, -17]",<class 'list'>,<class 'int'>,12
+932,SiuAueaUbrqvyGmDWzWbNT,"[0, -13, -19, -9, 27, 19, 20, -23, -16, 2, 9, 16]",<class 'list'>,<class 'int'>,12
+933,B2p3pLkGH64gJX2qbUtQtj,"[1, 15, 24, 10, 21, 24, -2, -21, -31]",<class 'list'>,<class 'int'>,9
+934,GxwQQKmCxDA53J6pSKrNGr,"[-8, 2, -3, -23]",<class 'list'>,<class 'int'>,4
+935,UKQ3v5sviRQzisW9YY8CG4,"[-8, -3, 18, 13, 4, -16, 17, -14, -9, 17, 11, -17, -8]",<class 'list'>,<class 'int'>,13
+936,6wahoZj4FHKPNQwPrBdEQh,"[-10, 10, 6, 1, 13, -14, -12, -13, -1, 15, 18, 3, 17]",<class 'list'>,<class 'int'>,13
+937,SBMCGzWPwiS6GiZCzFUdE8,"[4, 2]",<class 'list'>,<class 'int'>,2
+938,JK2LYLKMFjmMdA27wUuKzF,"[13, -4, -18, 18, -23]",<class 'list'>,<class 'int'>,5
+939,aatkPEw8ykgxG6SS8bfQcf,"[-7, 27, -6]",<class 'list'>,<class 'int'>,3
+940,6m7jrtUhcavtazc9VY6Zcu,"[28, 4, 14, -6, -17]",<class 'list'>,<class 'int'>,5
+941,9VKB8W43LmDwt2i6CUUSqh,"[-20, -2, -10, 10, -5, 5, -19, -8, -15, 0, 33, 28, 8, 13]",<class 'list'>,<class 'int'>,14
+942,cLxvC5VTF26pw6G9MQnghd,"[-11, -12, -8, -29]",<class 'list'>,<class 'int'>,4
+943,K6J9t6BzhRW8YWdqS3fF4s,"[25, 15, 23, 10, 11, -16, 20, 18, 5, -9]",<class 'list'>,<class 'int'>,10
+944,ScVExMfaJeHt9j9AUWCNBa,"[16, 23, -7, -4, -14, 8, 3, -20, 2, -21]",<class 'list'>,<class 'int'>,10
+945,SXMeRZatwCDSCc8Rea3YvH,"[12, -25, -20, -13]",<class 'list'>,<class 'int'>,4
+946,RKgAka8nmx5yVMvrjWABqt,"[10, 2, 18, -29, 1, 8, 17, 3, -32]",<class 'list'>,<class 'int'>,9
+947,5MpJNUgGx6qsJiBVMZjKZe,"[-6, -13]",<class 'list'>,<class 'int'>,2
+948,J7uZ4NdcFaJS7YLN4k3Zj5,"[13, -13]",<class 'list'>,<class 'int'>,2
+949,beA5Vw4nyuLJqdqf4ECeip,"[19, -21, -10]",<class 'list'>,<class 'int'>,3
+950,fFjdtdETA6F3sANr4DpVTw,"[3, 14, -25, 8, -27, 3, -7, -26, -3, -1, -20, 1, 9, -19]",<class 'list'>,<class 'int'>,14
+951,fSiK46adWiyZnXrCFn7whs,"[-24, 24, -24, 9, -20, -2, -18, -4]",<class 'list'>,<class 'int'>,8
+952,Mekr2T73C7pYPokadVM7WY,"[12, -12, 14, 6, 0, -12, 4]",<class 'list'>,<class 'int'>,7
+953,Zb7QCYP9fgvRkEiqnKK2aS,"[23, -6, 20, -2, 23, 13, 2, -5, 16, 10, 3, 16, 19, -2]",<class 'list'>,<class 'int'>,14
+954,EtoSVGdufnxgnieDaYMtDr,"[4, 3, -22, -17, -16, -16, -11, 15, 14]",<class 'list'>,<class 'int'>,9
+955,24wXBDNybpB9ghWr2SaX8K,[2],<class 'list'>,<class 'int'>,1
+956,ArMhKkzKHN6opRTy3aGzYt,"[-11, -22, 7]",<class 'list'>,<class 'int'>,3
+957,JvDUUwtB7AaszjexwxwLfv,"[-15, -19, -18, -27, -20, -14, 8, -26, 14, -8, -27, 13]",<class 'list'>,<class 'int'>,12
+958,gwd3DV5fT8KiAEoaAT29Se,"[18, -23, -5, -1, 16, 12]",<class 'list'>,<class 'int'>,6
+959,TMrLnUZeCCAoX2jRkW8CSA,[-31],<class 'list'>,<class 'int'>,1
+960,FA3CXqW27vdyGFvaUq5zPZ,"[-12, -11, -11]",<class 'list'>,<class 'int'>,3
+961,e3BxFQTFTwQkFaHir8Ed8e,"[13, -22, -12]",<class 'list'>,<class 'int'>,3
+962,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+963,9oW7TgQPcVyUQ6iNoFsZwe,"[10, 29, -6, -14, 24, 4, 0]",<class 'list'>,<class 'int'>,7
+964,Gw7HD2tgXrGab9ncJj6Hte,"[-18, 28, 18, 31, -12]",<class 'list'>,<class 'int'>,5
+965,Shv6hREFMKe36AX5bc4aTb,"[-5, -3, 3, 10]",<class 'list'>,<class 'int'>,4
+966,CWXUTxEXXkzXy3YVGtGkRR,"[-15, -16, -18, -20]",<class 'list'>,<class 'int'>,4
+967,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+968,doYEBBXYd42vd8sh6PERUs,"[14, 10, 24, 4, 11, 7, 9, -3, -11, 12, 9, 10, 12]",<class 'list'>,<class 'int'>,13
+969,YwP5vbAiZ6xLejkyYFMTsf,"[1, 24, 8, 8, -2, 21, 1, -12, 0, -12, 28, 19, -3]",<class 'list'>,<class 'int'>,13
+970,3KFgXQidKFg2XZgVbdSW98,"[-22, 23, -6, 9, 25, 23, -25, 23, -11, -10, 1, 7]",<class 'list'>,<class 'int'>,12
+971,X26AJEek3Z3yZ8kRPmGkLP,"[-3, -5, 10]",<class 'list'>,<class 'int'>,3
+972,DHUgfwye5APd8iT33roySg,"[17, -5, 10, -15, 31, -7, 2, -16, 20, -16, 20]",<class 'list'>,<class 'int'>,11
+973,EGQxFiaTUYsQHVvpePgBhm,"[-6, 8]",<class 'list'>,<class 'int'>,2
+974,WftfhRZEqS6wbcrEi2LRQz,"[-9, -15, -4, -4, 6, -10, 20, -4, 8, -14, 19]",<class 'list'>,<class 'int'>,11
+975,24wXBDNybpB9ghWr2SaX8K,[2],<class 'list'>,<class 'int'>,1
+976,7atTXAPLALxyPjGEw4M4qu,"[7, -23, 5, -10, 21, 2, -26, 8, -24, 15, -22]",<class 'list'>,<class 'int'>,11
+977,9VLjrfizkHMfK9YZLNqDXF,"[10, 11, 21, 14]",<class 'list'>,<class 'int'>,4
+978,h9hfeASpPGFUsfn9zqusFZ,"[-1, -16, 21, 25, 0, -9, 11, 1, -8, 22, -6, 22, -14, 12]",<class 'list'>,<class 'int'>,14
+979,KrxqCfZ29iC6CNEVwTT4iH,"[20, -7]",<class 'list'>,<class 'int'>,2
+980,F4g22rvftqPAB3QT84vZTT,"[26, 32, 26, 10, 21, -5, 9, 12, 6, -19, -3, 24, 8]",<class 'list'>,<class 'int'>,13
+981,YmS8wFyWZSZDyuz463UGvp,"[3, -25, -20, -6, 3, 6]",<class 'list'>,<class 'int'>,6
+982,XdhWa8jzBH7XyxyGtXVaWP,"[-12, 8, 3, -13, 4, 16, 25, 21, 12, 19]",<class 'list'>,<class 'int'>,10
+983,fuemXgvFYAN5V8MqBQaByS,"[2, 30, 10, -17, 8, 9, 6, -1, 12, 0, 0, 5, -19, -20]",<class 'list'>,<class 'int'>,14
+984,ViNRy6uBZuFpB9yPvXgAKJ,"[-28, 32, 21, -1, -24, -17, 18, -12, -14, 29]",<class 'list'>,<class 'int'>,10
+985,FzVV93qPKXqnAxhFJr47Tm,"[-6, 8, 6, -6, 16, 2, 23, 6, 11]",<class 'list'>,<class 'int'>,9
+986,eTajxWnRe55MoDzyZrDFtJ,"[9, -17, -23, 7, -13, 15, 3, 7, -19, -18, -26, -20, -13]",<class 'list'>,<class 'int'>,13
+987,VaTdvZyuWSMXUoVjRDs2MP,"[-34, -20, -16, -17, 0]",<class 'list'>,<class 'int'>,5
+988,N5Jk6c4zARcR5TLSSMkuCx,"[14, -16, -28, -25, 14, -17]",<class 'list'>,<class 'int'>,6
+989,ALDs4WZE2bXkqVFZapa5G9,"[-15, -18, -23, -3]",<class 'list'>,<class 'int'>,4
+990,NPz62fNgXTyg9TTuyUoDK6,"[-23, -4]",<class 'list'>,<class 'int'>,2
+991,eFDZKVbE6Y426RZEcszKkQ,"[11, 10, 23, -17, -3, -22, 16, 12, 15, -28, 19]",<class 'list'>,<class 'int'>,11
+992,ZB3cqxMsQYnrtfHXovdVuL,"[29, 15, -8, -2, -16, 2, 14]",<class 'list'>,<class 'int'>,7
+993,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+994,UVE2aGr9uqomF9hBPd7bPy,"[-5, -22, 19, 1, 10, -9]",<class 'list'>,<class 'int'>,6
+995,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+996,egchW3SjrERgg7PWVJR7HH,"[2, 4, -12, -11, -21, -18, 9, -14, -17, -22]",<class 'list'>,<class 'int'>,10
+997,QJXaZVEHPzGiCJkcYZsN45,"[-17, 21, 14, 9, -24, -1, 7, 3, 18, 19]",<class 'list'>,<class 'int'>,10
+998,R5UNs2pkkp8jWt4fPdzDsh,"[27, -12, -11, 16, 2, 2, 2, 28, -14, 32, -17, 17]",<class 'list'>,<class 'int'>,12
+999,aaWBBe23V6JKwBFsriz9nk,"[0, 20, -11, -5, 27, 16, 4, -8, -9, 5, 5, 9, 21]",<class 'list'>,<class 'int'>,13
+1000,MKeAHBueBiJgcaz3xEFHHA,"[-6, -8, -29, 5, 10]",<class 'list'>,<class 'int'>,5
+1001,3TDVJKK3ZvaCLwkESvLUtJ,"[4, 6]",<class 'list'>,<class 'int'>,2
+1002,g8DuEKvHL4ozdmPwnCfTTS,[-1],<class 'list'>,<class 'int'>,1
+1003,kAiGSRRFaodWY7hJc8cKJG,[6],<class 'list'>,<class 'int'>,1
+1004,j3rCaEXj5FCpDgCW7WgVGs,"[-24, -10, 10, 15]",<class 'list'>,<class 'int'>,4
+1005,YqjHH7tBdYqzmZjN7qfcJE,[25],<class 'list'>,<class 'int'>,1
+1006,o4f6pZFdiMQYc2FgFfux2o,"[10, -23, 4]",<class 'list'>,<class 'int'>,3
+1007,MN4sv89UY4Q7JU4ii2CE7r,"[-3, 7, 0, 4, 17, 21, -7, -17, -8, -13, -14, -4, 11]",<class 'list'>,<class 'int'>,13
+1008,XBiFrChQCVeSvyFErNWFz4,"[-11, 3, 22, -13, 23, 13, -13, -7, -27]",<class 'list'>,<class 'int'>,9
+1009,2jzycRzmVTT7Y4YpTg5E4n,"[-6, -3, -4, 7, -6, 24, -13, -15, 19, 20, -12]",<class 'list'>,<class 'int'>,11
+1010,jVgKN3SBKDVuAKXAxPFgxU,"[-15, -7]",<class 'list'>,<class 'int'>,2
+1011,82b8Duxo3omN8QhrEANdpC,"[-11, 15, -11, 0, -23, -3, -18, -9, -15, -22, -29, -8, -17, -30]",<class 'list'>,<class 'int'>,14
+1012,crXX2JU9xrBom2wVmi3Wjr,"[-6, 17, 16, 0, 12, -8, 13, 6, -5]",<class 'list'>,<class 'int'>,9
+1013,W2toZPxV8gG2wVH7WWx45h,"[-28, 13, -1, -6, -20, -22, -26, -30, -20, 25, 25, 1, 28, 29]",<class 'list'>,<class 'int'>,14
+1014,dSrcXwNoMN6HoVL8i24RHv,"[-13, 25, -9, 0, 33, 20]",<class 'list'>,<class 'int'>,6
+1015,7sV7LHLtBuMeFsqzVHh32y,"[9, -23, -4, -2, -15, 5]",<class 'list'>,<class 'int'>,6
+1016,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1017,6cnTmAU8A3uzRyWAeXRgJz,"[5, -17]",<class 'list'>,<class 'int'>,2
+1018,BL8z8hzUVZhU2wKNvxa3Ca,"[3, -2, -17, -9]",<class 'list'>,<class 'int'>,4
+1019,EwHha2rGYSBWeNQo6Dw2kK,"[-23, 3, -15, 18, 4, 5, 8, -10, -23, 17, -21, -9]",<class 'list'>,<class 'int'>,12
+1020,jBthVRDk6c53f3tUdu9HXm,"[-2, -26, -15, -20, -14, 32, -29, -15, -25, 27, 32, -26, 2]",<class 'list'>,<class 'int'>,13
+1021,F3heeXwXzLJrMqn8kNdSdS,"[7, 8, -14, 6, -21, -2, 16]",<class 'list'>,<class 'int'>,7
+1022,mnHMgpXe8JttvqRLiBfAcm,"[1, 8, -15, -2, -3]",<class 'list'>,<class 'int'>,5
+1023,jU6npujRYXB7XiNeLJB2sh,"[-1, -14, 10, 9, -16, -8, 19, -3, -3, -13, -10, -17, -2]",<class 'list'>,<class 'int'>,13
+1024,9paYEdGThYwqyicz8We6Dd,"[4, 13, 11, -17, 4, 16, 2, 9, 23, 23, -4, 2, 12]",<class 'list'>,<class 'int'>,13
+1025,g2BjMSXgZkJuk6baXAsCJ4,"[2, 5, -5, -2, -9, -8, 7, -9, 13]",<class 'list'>,<class 'int'>,9
+1026,PLCXPhRs6pFyzoK5AWt2Zn,"[1, 20, -3, 13, 17, -20, 20, -16, -14]",<class 'list'>,<class 'int'>,9
+1027,FATvyFwTh3bVgr4iapLgMu,"[14, 2, -5, -7, 14, -16, 10, 23, 14, -15, -21]",<class 'list'>,<class 'int'>,11
+1028,LgVibdrBxRrjXDbgymvhko,"[16, -8, 19, -10, -3, 20, -21]",<class 'list'>,<class 'int'>,7
+1029,WUns5sk7UYnAomykRcJtye,"[10, -4, 4, -6, -11, 5, 6, 13, -10]",<class 'list'>,<class 'int'>,9
+1030,RZLVnEnaRfeaPopSx2UHL4,"[6, -1, 4, -1, -9, 9, -10, -15, -4, -5, 8, 4, -13, -13]",<class 'list'>,<class 'int'>,14
+1031,6CTau78VwT2nnFM5mhxVKN,"[4, -6, -1, 4, -13, 9, -8, 7, -7]",<class 'list'>,<class 'int'>,9
+1032,BSCDtysH3KDZuLZDfCZ5Ac,"[10, -23, 8, -5, -11, -3, -3, 14, -14, 10, 7, -14, 16, -16]",<class 'list'>,<class 'int'>,14
+1033,hJ7Z7ijdtNzXwAbkqY3beH,"[9, -15, -13, 5, 3, 21, -4, -6, -19, -10, 9, 3, -15]",<class 'list'>,<class 'int'>,13
+1034,izTt9h8BH5mnPgLZhYgijA,[14],<class 'list'>,<class 'int'>,1
+1035,5joJkMgRRDxEH3Qw8Wo5ww,"[-11, 31, 31, 17, 7, -25, 24]",<class 'list'>,<class 'int'>,7
+1036,45vgtdrXCLkkCeyqabaq5W,"[-6, -18, 15, 3, 1, 13, -18, -24, 15]",<class 'list'>,<class 'int'>,9
+1037,Yce8UPkvZCe63HhmKWWWaS,"[11, -5, -12, -13, 10, -1, 1]",<class 'list'>,<class 'int'>,7
+1038,XhQ7hnsMXBF8ZnFdLS9kxZ,"[-10, -9, 5]",<class 'list'>,<class 'int'>,3
+1039,B2i9y8AbwuVhbwMhrxr7Hs,"[9, 12, 10, 1, 9, 7, -12, -17, -8, -11, 12]",<class 'list'>,<class 'int'>,11
+1040,eQH4ReAvnSeAr6pWmMdeCj,"[8, 12, -7]",<class 'list'>,<class 'int'>,3
+1041,BDv4FbUSRc4p8aDuAGzyDp,"[15, -5, 9, -2, 20, 25, 19, -1, -18, 26, -11]",<class 'list'>,<class 'int'>,11
+1042,Uq7me8LBaRJnBMPffiSXzC,"[-16, 19, -16, -10, 6, 14, 1, 16, 19, 6, -8, -12, -3]",<class 'list'>,<class 'int'>,13
+1043,dGGbW5jNUJzDiaRRGJbFJz,[10],<class 'list'>,<class 'int'>,1
+1044,e7GCG37f6pwr843TQTzoKD,"[-5, 30, 25, -3, 3, 27, 6, 23, -5, 23, -6, -6, 2]",<class 'list'>,<class 'int'>,13
+1045,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+1046,CB34qUfJGWAuGxMXKZKuH4,"[4, 1, -8, 2, -2, 26, -9, -18, 5, 24, -14, 6, -15]",<class 'list'>,<class 'int'>,13
+1047,mBqy6E3HbTUn7uk52QMV8F,"[-9, -19, 26, 24, -4, -17, 17, 8]",<class 'list'>,<class 'int'>,8
+1048,74QzuX6a4zrjnXFzEHA4LZ,"[8, 19, -7, -16, 8, -15, -23, -15, 7, 17]",<class 'list'>,<class 'int'>,10
+1049,HyRVgQPA7fJnr48hcZr7br,"[-19, 12, 13, -8, 8, -1, 3, -10, -20, 9, 0, 8, 13]",<class 'list'>,<class 'int'>,13
+1050,MErs7bvgCfgKVBQaW7rGAG,"[20, -6, -10, 1, 10, -15, 7, -16, -12]",<class 'list'>,<class 'int'>,9
+1051,8VN9CTq3JTNetwi2rjsPPu,"[10, -10, -9, 8, 0, -4, 10, 2]",<class 'list'>,<class 'int'>,8
+1052,84fAphGppEQyqWwJsuN5au,"[-10, -17, 12, -14, 15, -10, 22, -17]",<class 'list'>,<class 'int'>,8
+1053,MFAXiWbJgfPJtPBemdY4tw,"[10, 22, -10, -1, 25, 3, 29]",<class 'list'>,<class 'int'>,7
+1054,CiNAr33yi7zvvRq729mk4k,"[-26, -26, 9, 1, -7, 3, -22, -1, 16, 1, 6]",<class 'list'>,<class 'int'>,11
+1055,D3TQGPBsnSnREcmWb9Ngps,"[-30, -14, -14, 23, 19, 10]",<class 'list'>,<class 'int'>,6
+1056,dN8DZD4nWxxNrfotx9wjGm,"[18, 9, -25, 1, 8]",<class 'list'>,<class 'int'>,5
+1057,NmMPsuGrRsdpuc3HY8JDxa,"[-19, -11, -17, 2, 13, -17, -12, -6, -18, -7]",<class 'list'>,<class 'int'>,10
+1058,jHHNCRfyqPcvKHw6QJ2un5,"[19, -5]",<class 'list'>,<class 'int'>,2
+1059,VgohsJHGQJN9pKKg9PQnMG,"[11, -1, -13, 25, 26, -3, -1, -15, 4, 6, 8, -9]",<class 'list'>,<class 'int'>,12
+1060,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1061,ZhzguzfQBTmpU2X58iYyNv,"[16, -6, 15, 0, -17]",<class 'list'>,<class 'int'>,5
+1062,HkeHmVUUBbhsocDnpRzUWd,"[-29, -4, -25, 0]",<class 'list'>,<class 'int'>,4
+1063,VjxZSGKXWawswnpWgEpE4L,"[7, -14, 11, 14, -27, 19]",<class 'list'>,<class 'int'>,6
+1064,QgLhemMyD9p3fMoQC4KhMq,"[2, -7, 10, -12, -5, -16, -17, -8, 10]",<class 'list'>,<class 'int'>,9
+1065,PrUpJ4wiK6rC9pDHixYWdu,"[-13, -13, -17, -3, 0, -14, 18, 11, 9, 9, -12]",<class 'list'>,<class 'int'>,11
+1066,fg3p2xUQoxTzNpWfkoJ9mJ,[-21],<class 'list'>,<class 'int'>,1
+1067,msic9xWBCoP4ucJZF2d7Jb,"[-30, -30, 12]",<class 'list'>,<class 'int'>,3
+1068,F9fdswy4suBNpbGdS5qHFN,"[0, 4, -18, 8, -6, -23, -13, -18, -9, 9, -11, 9]",<class 'list'>,<class 'int'>,12
+1069,5CHBnP9iMuRz9jd3ktMXja,"[-3, 6, -7, -6, 16, 26, -6, 7, 24, -7, -15, 21]",<class 'list'>,<class 'int'>,12
+1070,DL8zBXH67GrYjNeL3qK55A,"[14, -5, -12, 3, 1, 11, 12, -21, -13]",<class 'list'>,<class 'int'>,9
+1071,B2VyTChkW2hKMpYruJ5VfR,[-25],<class 'list'>,<class 'int'>,1
+1072,TX9FvQBJ7EKoab7DYUwVu4,[9],<class 'list'>,<class 'int'>,1
+1073,DhGJ4vmJFjRk5CTKE7pRUF,"[-29, 21, -3, 21, 6, -10, -29, 25, -16, 16, 25, -10, -10, 12]",<class 'list'>,<class 'int'>,14
+1074,TdrELNdxXbXPsNYEryjUvt,"[1, -22, -28, -33, -14, 2]",<class 'list'>,<class 'int'>,6
+1075,C8BnwZS6NdPwVjx54jZgeB,"[-26, -2]",<class 'list'>,<class 'int'>,2
+1076,SBeDJJa9j6dhuuVKzw4xtD,"[14, 18, -31, -32, -32, -12, -2, -11, 0, 5, 9]",<class 'list'>,<class 'int'>,11
+1077,fLZfRjGse5TVMx3SEcbPNb,"[-7, 0, -14, -15, -23, 12, -20, 13, -25, 0, -15, -27, -25]",<class 'list'>,<class 'int'>,13
+1078,cqiqyckbr3YcW5uWj4fnym,"[-2, -12, 18, 16, 8, -3, -5, -2, 16, 21]",<class 'list'>,<class 'int'>,10
+1079,hQk6owkcczNc75TpBpGcm2,"[-1, -13, 3, -9, -21, -21, -13, -20, -19, -18]",<class 'list'>,<class 'int'>,10
+1080,7vjiRmoAjHF7Wu7s3RaTsD,"[-18, -9, -20, 9, 22, 23, -12, -10, 11, -23, -1, -20, -14]",<class 'list'>,<class 'int'>,13
+1081,Fsg2mCBjgju7pJV2MSmBVW,"[-24, 5]",<class 'list'>,<class 'int'>,2
+1082,bsTjdjtDWeMa6ZXgV2hrpE,"[-6, -9, 1, 13, -14, -5, 3, -4]",<class 'list'>,<class 'int'>,8
+1083,GQHAf9fRfCwwWFChepoQE5,"[-4, 9]",<class 'list'>,<class 'int'>,2
+1084,5xCeVPs5LciDy9eDZVQ8BT,"[-14, -8]",<class 'list'>,<class 'int'>,2
+1085,cgsYbCQH9kG2QrKNqkkyJw,"[22, 12, 13, 6, 8, -7, 2, 15, 13, 22, -13, 1]",<class 'list'>,<class 'int'>,12
+1086,GhkkrALSXrewcVLDNWxecP,"[-3, -29, -21]",<class 'list'>,<class 'int'>,3
+1087,3veohP5Pb3Pua2qxHcP3DM,"[16, -6]",<class 'list'>,<class 'int'>,2
+1088,gvWW4PG3GixbzpW5ZjcgPS,"[15, -17, -18, -19, 5, 14, 4, -21, -20]",<class 'list'>,<class 'int'>,9
+1089,ds6ESFm3cByJGVfRZtHGAQ,"[-2, -7, -17, -21, -19, -1]",<class 'list'>,<class 'int'>,6
+1090,ameCjAA5JhkktWbe5hjWgP,"[-3, -30, 11, 11]",<class 'list'>,<class 'int'>,4
+1091,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1092,jE9ebmFcG3WFsvQ3rHBgJf,"[18, -11, 10, -14, -1, 3, 17, -1, -12, 22, -22, 5, 10]",<class 'list'>,<class 'int'>,13
+1093,6jgdoiAa32PXy5mxkcZBLS,"[-23, -2, -20, -17, -15, -26, -23, 27, 5]",<class 'list'>,<class 'int'>,9
+1094,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1095,TX9FvQBJ7EKoab7DYUwVu4,[9],<class 'list'>,<class 'int'>,1
+1096,7g8HpciS8c9BnxFvzFawQR,[-17],<class 'list'>,<class 'int'>,1
+1097,VeKSHitcruyxhFYGmnz9q7,"[9, -1, -18]",<class 'list'>,<class 'int'>,3
+1098,mEfj49rZx2PudkpdvejZCA,"[14, 5]",<class 'list'>,<class 'int'>,2
+1099,Hx9K6nomDm5voHVwrFckJT,"[10, -31, -7, 11, 2, 7, 15, -33, 3]",<class 'list'>,<class 'int'>,9
+1100,YCfLpsLAeeXAtpzJR7Ckg2,"[-30, -20, -8, -10, 13, -3]",<class 'list'>,<class 'int'>,6
+1101,RRc6967qH72M2FpEoVAoiW,"[10, 11, 20]",<class 'list'>,<class 'int'>,3
+1102,SEoZbHQZBuptfKoYKJEbgw,"[19, -1, 12, 17, -14, 23, -2, 4, -12, 3]",<class 'list'>,<class 'int'>,10
+1103,4FCNvXrf4AK7oJGRpvBrAD,"[-21, -7, 12]",<class 'list'>,<class 'int'>,3
+1104,6JHG5SmracyGEeeGEH7nJo,"[22, 21, -4, -33, -13, -2, -3, -23, -31]",<class 'list'>,<class 'int'>,9
+1105,hUJfxwQf5W5fdwgmrDfxRg,"[-10, -1, -7, 13, -11, -6, 5, -17, 14, 13, 7, -14]",<class 'list'>,<class 'int'>,12
+1106,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1107,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1108,cyMqgY8DBdkgdktESEzP82,"[-9, 26, 20, -16, -13, 13, 20, -11, 0, 17, 7]",<class 'list'>,<class 'int'>,11
+1109,R8GVtzHXX25kcUPp4FBKnc,"[16, -4, 24, -17, -19, -10, -15]",<class 'list'>,<class 'int'>,7
+1110,Az8M63Q8wDAs2WnVKqyodW,"[0, -13, -21, -17, -5]",<class 'list'>,<class 'int'>,5
+1111,ToqfVcw66J6mNJZavzfLmS,"[7, 7, 6, -21, 14, -10, -9, 10, -9]",<class 'list'>,<class 'int'>,9
+1112,4ktFxauJ4qmCPSusthemir,"[6, -3, -7, 18, 10]",<class 'list'>,<class 'int'>,5
+1113,j4kdUsvNjXpXPajovedq2E,"[12, 24, -26, 19, -9, 24, -12, 9, -21]",<class 'list'>,<class 'int'>,9
+1114,gGSxu5nr78eH5688y3HPW3,"[12, -9]",<class 'list'>,<class 'int'>,2
+1115,byzdKWsTD4i5375CRZbJDk,"[17, 6, -10, -3, -14, -6, -4, 16, 7, 3, -12, -15, 19]",<class 'list'>,<class 'int'>,13
+1116,RU2VDrmHAv2VYBqE35i4Nw,"[15, 11, -10, -6, -12, 30, 12, -15]",<class 'list'>,<class 'int'>,8
+1117,YqjHH7tBdYqzmZjN7qfcJE,[25],<class 'list'>,<class 'int'>,1
+1118,BJmQj9xzfv8kpzFut4uVHV,"[-5, -25, 5, 22, 12, -25, 2, -16, 1, -14, -10]",<class 'list'>,<class 'int'>,11
+1119,nXhqCdVfChGtHcdz9xKWsC,"[23, 26, 5, 31, 24, 32, 26, -11, 25, -20, 22]",<class 'list'>,<class 'int'>,11
+1120,BfdBYNQ7NQPDFNC6wZYozd,"[25, -11, 13, 9, 18, 30, -27, -12, 4, 6, 14]",<class 'list'>,<class 'int'>,11
+1121,3xjz7Mos5P8v525RQKMqV6,"[12, 0, -21, 18, -9, 25, 7, 22, 8, 17, -9]",<class 'list'>,<class 'int'>,11
+1122,fQgv6CfJa8ir58uJDGNwNQ,"[9, 4, 7, -17, -1, -3, -33, -4, 8]",<class 'list'>,<class 'int'>,9
+1123,oREMbcEWg8KAWV34RMM4ng,"[3, -6, 10, -15, -5]",<class 'list'>,<class 'int'>,5
+1124,a7VBi4VvnPtghQctxP2tVD,"[-8, 3, -6, 21, -14, 11, 18]",<class 'list'>,<class 'int'>,7
+1125,mSVNoeX35KwTJoRmwvpMMK,"[0, -26, -7, -8, -16, -15, -8, -24, 10, -19]",<class 'list'>,<class 'int'>,10
+1126,WxvKfhaV7kiKkUsXZbtMMk,"[8, -4, -31]",<class 'list'>,<class 'int'>,3
+1127,cPcY9zcznQtXRrUdUUZRZ7,"[14, -19, 8, -4, 0, -10]",<class 'list'>,<class 'int'>,6
+1128,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1129,ewTceEN7eYSnhSmMsVUGQq,"[-34, 22, -9, 4, 20, -29, -18, -25, -2, -19]",<class 'list'>,<class 'int'>,10
+1130,nzHk6E7E5tysnHJg6hdRAy,"[9, 3, -18, -8, 30, 4, -5, -3, 14]",<class 'list'>,<class 'int'>,9
+1131,mjaTsUHAdL4VxfRGyNYF6m,"[26, 22, 9, 23, 1, -9, -17, -25, -1, -1, -10]",<class 'list'>,<class 'int'>,11
+1132,7AT7oMwLB26PAq9KV2B2LJ,"[5, -19, -10, -2, -16, 22, 28]",<class 'list'>,<class 'int'>,7
+1133,SfAZ3mxZYUfoSTjDQX2xhd,"[-29, 10, -3, 7]",<class 'list'>,<class 'int'>,4
+1134,niXmaZf3rHMBpADeEQZZvF,"[-24, -7, -12, 15, -22, 3, 10, -6, 5, -20, -18, -24, 12, 8]",<class 'list'>,<class 'int'>,14
+1135,SDr5pggYJnGTwwroPQRyHJ,"[-5, -9]",<class 'list'>,<class 'int'>,2
+1136,Ku2kSa7wBbRQbhQcFetzMH,"[6, 6, -16, -15, -8, -13, 3, -8, 11, 4]",<class 'list'>,<class 'int'>,10
+1137,TnPjjdFqXdYdBsGhn48dZa,"[-19, -23, 22, 22, 1, 23, 22, 0, -29, 25, 3, -1, 19, 23]",<class 'list'>,<class 'int'>,14
+1138,3edfsks9QeGvvgUtV5rV6B,"[2, 25, 25]",<class 'list'>,<class 'int'>,3
+1139,ho5X7b723txr2oq4fcjakx,[-16],<class 'list'>,<class 'int'>,1
+1140,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1141,WPsttWYdMzpVgZJnmFueqb,"[-11, -12, 3, -16, 13, -8, 5]",<class 'list'>,<class 'int'>,7
+1142,CyeKfiRTW7tCr5XtGfC7Ky,"[-13, 1, 17, 12, -8, -16, -6, -6, 11, 19, 19, 10, -16]",<class 'list'>,<class 'int'>,13
+1143,STWQ92DphwQKQtBu6kEjHT,"[-33, -6, -4, 2, -21, 3, -28, -11, -4, -13, -18, -3]",<class 'list'>,<class 'int'>,12
+1144,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1145,j3CiXDbMwqznDJhxmPGyfX,"[20, 5, 17, 25, 7, -10, 10, 0, 21, -4]",<class 'list'>,<class 'int'>,10
+1146,EhE85UPYHV98TKjgDj4WEJ,"[-15, -31, -31, -16, 6, -25, 16, -28, 4, 17]",<class 'list'>,<class 'int'>,10
+1147,RJdMoUKUU5NuBHBjbCRZsU,"[8, 19, -18, 4, -14, 7, -11, 17, -19, 0, 9, -12, -8]",<class 'list'>,<class 'int'>,13
+1148,SmHt9QQtivEDBJz3mFpLi9,"[-3, -4, 3]",<class 'list'>,<class 'int'>,3
+1149,Ze7LEGQt8XvBYQtEhe2eZ2,"[-23, 13, 10, -14, 11, 12, 15, -14, -16, -24, -25]",<class 'list'>,<class 'int'>,11
+1150,WNuCqnkWERTBqSRhZrGBUF,[-11],<class 'list'>,<class 'int'>,1
+1151,9xJ9oNnBbnG4mnvuYA9s3Q,"[12, 2, -7, 2, -28, -23]",<class 'list'>,<class 'int'>,6
+1152,MALNz6zJwFFGHkLNCXdsLV,"[-15, 10, -22, 25, 23, 22, -21, 9, 20, 6]",<class 'list'>,<class 'int'>,10
+1153,EQ5nidjYtTnjodLdcwUBNS,"[-14, 6]",<class 'list'>,<class 'int'>,2
+1154,LrRhqF8FEhiRA3Rgp97eJX,"[-14, -1, 9, -22, -8, 6, 17, -1, 19, 24]",<class 'list'>,<class 'int'>,10
+1155,C7S8SVqp6LyYZhASkEsxJb,"[-1, -5, -4, 12, -21, 13, 21, 3, 13, -24, -6]",<class 'list'>,<class 'int'>,11
+1156,mE9CuTrxp6p8jDXcnjHyg9,"[16, -16, -16, 6, 15]",<class 'list'>,<class 'int'>,5
+1157,WJi2j5teFPKpxf8fM28AzV,"[11, 0, -9, -11, 10, -3, -17, -25, -3, 10, 14, -12, -2, -8]",<class 'list'>,<class 'int'>,14
+1158,aEEC2pxFGG4EDVEqUDH4Hy,"[6, -17, 19, 23, 4, -2, 14, 3, 13, 3]",<class 'list'>,<class 'int'>,10
+1159,nEoyXKuhRzDtCbjtw2f92a,"[17, -29, 9]",<class 'list'>,<class 'int'>,3
+1160,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1161,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1162,ibpn6Bzeq5MKR4m7Ke9Mhh,"[4, -24, -21, 6, -6, -16, -15, 4, -2, 15, 7]",<class 'list'>,<class 'int'>,11
+1163,fwqconU6vKnwaAtLepdizE,"[-11, -6, 13, -11, 7, -3, -7, -5, 6, -10, -14]",<class 'list'>,<class 'int'>,11
+1164,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1165,EEJXNw9okru2zcyhE2pxRd,"[17, -32, -13, 5, 9, 15, -16, -14]",<class 'list'>,<class 'int'>,8
+1166,bqfTVwnqZGJH2B73ZKpAYC,"[8, -3]",<class 'list'>,<class 'int'>,2
+1167,5BsoDFfbXM9KG8VNifKH9U,"[-17, -24, 7]",<class 'list'>,<class 'int'>,3
+1168,jnRPxyxW5VYKaHxPZLY74H,"[-6, -19, -9, 18]",<class 'list'>,<class 'int'>,4
+1169,UdNpnTFVEGgKZD3earJGR3,"[-2, 12, -8, -2, 14, -3, 9, -14, 22, 9, 0, -12, 5, 3]",<class 'list'>,<class 'int'>,14
+1170,f6Ug7frHqnjLxdQ6BqNiGs,"[-15, 2, -3, 2, -7, -22, -11, -17]",<class 'list'>,<class 'int'>,8
+1171,dvmkGshUngUNCDDUR8EcuG,"[4, 19, 24]",<class 'list'>,<class 'int'>,3
+1172,g9a2kcD77R4Cb5GmTxCohn,"[8, 20, -2, 17, -15, 3, 1]",<class 'list'>,<class 'int'>,7
+1173,K4SeXPvN45QZ2VXpojhKQE,"[12, -7, 2, -2, 12, -3, -15]",<class 'list'>,<class 'int'>,7
+1174,L8YjKcXTDnyqUX6zrXFd3F,"[-6, -6, 3, 8, 13, 18]",<class 'list'>,<class 'int'>,6
+1175,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1176,PTaUgNuHhXiVLzdpaBMyYG,"[9, 9, -10]",<class 'list'>,<class 'int'>,3
+1177,ZqGUwxUms467rjB6A4evRy,"[-29, 7, 12, 20, 19]",<class 'list'>,<class 'int'>,5
+1178,TzTQRQGeX9sGmutTWbVUgx,"[7, -11]",<class 'list'>,<class 'int'>,2
+1179,PrTkB2y6rsDevVtwLNo2FU,"[-14, -16, 12, 9, 7, -7, -11, 1, 16, 0, -1]",<class 'list'>,<class 'int'>,11
+1180,A3SknJFhoSqvjC7mFU8Vxh,"[-5, -10, -2, -13, 22, -19, -5]",<class 'list'>,<class 'int'>,7
+1181,PMwXZqekh2zCMjVn559u5P,"[0, -18, -15, -24, -14, -9, 4, 23, 15, -15]",<class 'list'>,<class 'int'>,10
+1182,HUiwivUPcbtP7q6cNqgzxD,"[-4, 7, 13, 5, 11]",<class 'list'>,<class 'int'>,5
+1183,ZndTm5PWmg65r3c3fETffe,"[-15, -3, -2, 13, 3, -24, 15, 7, -19, -9, 5, -14, 8]",<class 'list'>,<class 'int'>,13
+1184,NdnJLQ3vFnKf2PEFjppJEY,"[-1, -10, -22, -4, -8, -8, -7, -16, 17, -16, 8, -22]",<class 'list'>,<class 'int'>,12
+1185,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1186,EmsNS5227o3gRwMemWr73Z,"[-7, 5, 9, 20, 19, 21, -13, 11, 21, -4]",<class 'list'>,<class 'int'>,10
+1187,oL4jt3n9MVn79NnnCBBm6i,"[-1, 11, -9, 3, 7, -6, 15, -10, 8]",<class 'list'>,<class 'int'>,9
+1188,UfhriE2DV3LF7Hepo5bWTf,"[-6, 23]",<class 'list'>,<class 'int'>,2
+1189,Hm2JHVbwcbiGGFMWk5oUEL,"[-10, 7, -14, -6, -1]",<class 'list'>,<class 'int'>,5
+1190,k6zhqH33pY8NxZWWzAB7dV,"[-18, 22, 16, 28, 10, 19, -17]",<class 'list'>,<class 'int'>,7
+1191,ga9PFNELqLUT2NrqojLudm,"[-17, 1, -19, 9, -14, 11, 5, -13]",<class 'list'>,<class 'int'>,8
+1192,hXtt2XpudHAmE6deR98cvd,"[-19, -25, 7, -6, -11, 15, -11, -14, -30, -13, -1, 18, -27]",<class 'list'>,<class 'int'>,13
+1193,fjUxZ4bwffER9sK9bet8XM,"[2, 21]",<class 'list'>,<class 'int'>,2
+1194,hbWxjs3Tdfo6XQZjFnxQxJ,"[-1, 18, 21, 7, 6, -3, -23]",<class 'list'>,<class 'int'>,7
+1195,NiXjMchRwctFEsZSi9riz2,"[6, 1, -7, -34, 6, -26, 13, 14, 20, 16, 7, -13]",<class 'list'>,<class 'int'>,12
+1196,7ChwtetXFNAmatJVgpirTL,"[9, 11, 4, 4, 8, -20, 8, 0, 12]",<class 'list'>,<class 'int'>,9
+1197,8jpf5jmchiExthmbxRTwtr,"[-16, 0, 24, -22, -15, -12, 5, -22, 24, -2, -19, -8, 0]",<class 'list'>,<class 'int'>,13
+1198,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1199,N9gA5NPwK7jaY6xgfeWx9g,"[2, -19, -9, -13]",<class 'list'>,<class 'int'>,4
+1200,FEB9mK5sPXsy9NGa8V7BdA,[-2],<class 'list'>,<class 'int'>,1
+1201,4yhv6TQAHiamUoQHi98nJ9,"[-24, -23, -13, 19, 17, -18, 20, 11, 19]",<class 'list'>,<class 'int'>,9
+1202,kEcEygL7b4YJzQygjNGDTH,"[19, -17, 22, -6, -9, -20, 10, 1, 19, -13, -15, 22, 22, 8]",<class 'list'>,<class 'int'>,14
+1203,EcNgEyxX3zoFdYWDigfeJY,"[13, -3, 15, 12, 8, 0, 11, 0]",<class 'list'>,<class 'int'>,8
+1204,gcGoNrMRWWcpS35YTGzgPn,"[7, 14, -5, 2, 3, -9]",<class 'list'>,<class 'int'>,6
+1205,8mbBduvV4ZHKyy3Pr9wYi4,"[24, 8, -6, -7, -8, -10, -11, 13, 3]",<class 'list'>,<class 'int'>,9
+1206,W8R2GcxcHvvxAZgLQ2Bavr,"[16, 2, 21, -23, 9, -11, -16, -23, -9, 16, -15, -4, -6, 16]",<class 'list'>,<class 'int'>,14
+1207,3Svzc6dHr5oSt486Lr23bD,"[6, -14, -10, -8]",<class 'list'>,<class 'int'>,4
+1208,NhDL9fTLeWZX8gZ9jkZEJ2,"[-14, 7, -16, -10, -34, -3, -3]",<class 'list'>,<class 'int'>,7
+1209,VzwS39GQ8F7vAvAZPXkUNL,"[6, -12, -13, 1, 20]",<class 'list'>,<class 'int'>,5
+1210,aTrdf4kPu7NCuhShzKJsuq,"[-11, -11, 19, -15, 13, 23, -16, 25, 8]",<class 'list'>,<class 'int'>,9
+1211,BXQD8hDauBrkzigHxRV2AD,"[6, 6, 12, -22, -5, -1, 1]",<class 'list'>,<class 'int'>,7
+1212,JeD2ZyW2mvXWc8tz4pE4iV,"[-9, -20, -20, -14, 16, 11, 10, 8]",<class 'list'>,<class 'int'>,8
+1213,kCWQ3tYpMAvGA9n8AhLv76,"[23, -2, -17, -1, -18, -13, 21, -26, 14, 16]",<class 'list'>,<class 'int'>,10
+1214,dHEyJN9yTksf9Huyq4KQBc,"[-12, -13, 7, -6, -9, 13]",<class 'list'>,<class 'int'>,6
+1215,B6Jn6k9atGXZPMQFNxSRYL,"[-18, -29, -15, 11, -14, -21, 15, 6, 9, -19, 1, -23]",<class 'list'>,<class 'int'>,12
+1216,9Rv5MFA9CiHg3jhLmXZqoe,"[2, -29, -19, 6, 14, -11, -2, -10, 14, -22]",<class 'list'>,<class 'int'>,10
+1217,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1218,mMJqyycLbnCPUBKgwkYU6X,"[-16, -15, 16, -8, -9, 32, 22, 33, 29, 5, 4, 5, 23, -14]",<class 'list'>,<class 'int'>,14
+1219,bDr6JHKmHcHe43H25pNHGr,"[15, 1, -23, -26, -27, -7, -17, -32, -26, -20, 8, -5]",<class 'list'>,<class 'int'>,12
+1220,DfkjRjWhCSyRK2H7FsJwfC,"[15, -5, 9, 11]",<class 'list'>,<class 'int'>,4
+1221,UGrpTVJCuRDjDdz52bkgjN,"[-4, 7, 1, 8, 11, 16]",<class 'list'>,<class 'int'>,6
+1222,JnvuTTNDEqYWQzgBMt9EK6,[21],<class 'list'>,<class 'int'>,1
+1223,KoRfhpFnfzqiZTV6f9babv,"[-14, 6, -16, 14, 4, 17, 24, -2, -20, -28, -4, -13]",<class 'list'>,<class 'int'>,12
+1224,oAS4QttPNMPTg3qhNmw2Qa,"[31, -9, -11, 26]",<class 'list'>,<class 'int'>,4
+1225,g6ymCYysnwiaDtcGKEwnTc,"[-18, 12, 0, 14, 5, -7, 7, -11, 7, 17, -19]",<class 'list'>,<class 'int'>,11
+1226,c2UMc3LDQXTh7cukAkcHRy,[3],<class 'list'>,<class 'int'>,1
+1227,JJe7Mk4944fWGA7K4gT9mA,"[12, 8, -20, 16, 6, -23, -3, -1, 2, 6, 8, -2]",<class 'list'>,<class 'int'>,12
+1228,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1229,N7znJTDsYx6F3UVaMeckrS,"[-16, -13, 0, 5, -13, -2, 22, -6]",<class 'list'>,<class 'int'>,8
+1230,9MCVNriBCf6hbnWDYxi8v6,"[-9, 8, -8, 9]",<class 'list'>,<class 'int'>,4
+1231,KqVHxNN8V7Bd4vnZeEG8bQ,"[6, -8, 9, -9, 8]",<class 'list'>,<class 'int'>,5
+1232,nmu3kMECP8sJ43f3qF6GFZ,"[1, -6, -6, -14, 7]",<class 'list'>,<class 'int'>,5
+1233,96SHxmXpX9FgH5cMedfd8N,"[19, 0, 27, -3, 8]",<class 'list'>,<class 'int'>,5
+1234,439M7dAyQr8tKMrpr4G3Hi,"[14, -5, 26, -8, 9, 15, 25, 8]",<class 'list'>,<class 'int'>,8
+1235,KuVH45zPk9kxuyvP3A66Yp,"[4, 30, -3, -12, 30, 22, 22, -16, -1, 8, 5]",<class 'list'>,<class 'int'>,11
+1236,2ksgC2vwn5KZKKk48PsNZ4,"[10, -13, 14, -3, -14, 4, -6]",<class 'list'>,<class 'int'>,7
+1237,kwSLbcZGfHRiLaLE82F72h,"[-25, 11, 5, -6, 11, 8, -12, -20, 11, 7, -27, 13, -29, -5]",<class 'list'>,<class 'int'>,14
+1238,MpNtvWVFEsBm65NyRhM9mM,"[4, 11, 8, -15, -7, -14, 16, -12, 31, 17, 2, 20]",<class 'list'>,<class 'int'>,12
+1239,2iwYHtoamAjHQb8NyKXwsw,"[8, 6, 7, 9, -16, 15, -9, -1, -22, -4, 3, -9, 22, 4]",<class 'list'>,<class 'int'>,14
+1240,iTtN9ZFxSGqpgDNtt56nQe,"[-26, 5, -25, -4, 16]",<class 'list'>,<class 'int'>,5
+1241,gVWruAbtizNeM9emuNjwLf,"[6, -9, 9, 9, 8, 7]",<class 'list'>,<class 'int'>,6
+1242,K5sjhKNXvDRwFD5fiCTrza,"[24, -32, -33, 12, -12, 15, -28]",<class 'list'>,<class 'int'>,7
+1243,gfLgoM5xwuvrSdb8n3JshR,"[5, -15, -22, 0]",<class 'list'>,<class 'int'>,4
+1244,ZH25aBcCz98qBSK5Km5GUB,"[5, -5, 27, 9, 15, 17, 22, 6, -4, 5, 23, -10, 25]",<class 'list'>,<class 'int'>,13
+1245,dvv9nyB5wd7g3LYVmPG8Kq,"[12, 6, -12, 11, -30, 25, -25, -27, -31, -6, -4, -32, 12]",<class 'list'>,<class 'int'>,13
+1246,3JqfN4TGWmfrHpfnZaLXyJ,"[18, 5]",<class 'list'>,<class 'int'>,2
+1247,XtSqB7MSZTfyqoVGtfTBL7,"[-10, 16, 3, -3, -7, -2, 25, -16, -9, 22]",<class 'list'>,<class 'int'>,10
+1248,bD6MLp36LnR3vLZtwUxcdQ,"[-4, 0]",<class 'list'>,<class 'int'>,2
+1249,JikU2zvyPMhsriRLmsDfum,"[21, 16, 6, -8, -16, -26, -17]",<class 'list'>,<class 'int'>,7
+1250,jijuxST8o4hvftFtNSsLaA,"[4, -3]",<class 'list'>,<class 'int'>,2
+1251,eUx3D5wWUwGuW4ZGoUAeU4,"[-22, -3, -21]",<class 'list'>,<class 'int'>,3
+1252,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1253,4HJeiQEV6oHKxVLhFMJv7B,"[1, -18, -18, -10, -3, -1, -11, -20, -16, 12, -20, 11, -17, 0]",<class 'list'>,<class 'int'>,14
+1254,B7hFeZU4HhATqiBv32mCBr,"[-14, -11, 5, -11, 12, -12, -7, -6, 12, -13]",<class 'list'>,<class 'int'>,10
+1255,iLbTkaVpNSt4v96oWcwsZ8,"[-1, -13, -29, -7, 8, 8, -21]",<class 'list'>,<class 'int'>,7
+1256,eLJHXfWZCsxMyqT8sw7jmq,"[-30, 10, 7, -28, -30]",<class 'list'>,<class 'int'>,5
+1257,crsuPYpsKsLQaoQpWy9Df4,"[21, -4, -14, 21, 9, -10, -2, -15, 9, 11, -4]",<class 'list'>,<class 'int'>,11
+1258,cAiWuxoTEYPFHGN35gxBg2,"[-11, 18, -5, 9, -16, 3, -5, 5, -5, -14]",<class 'list'>,<class 'int'>,10
+1259,Gt8tkEBQ4YyabGikjpGohr,"[-11, -3, -3, -7, 16]",<class 'list'>,<class 'int'>,5
+1260,YBF6TP4HJKxougMrkgG6vH,"[5, -9, -17, -9, 6, -4, 23, -2, -2, -19]",<class 'list'>,<class 'int'>,10
+1261,J6hjdTySuHAbffE4UhHvLd,"[-17, 20, 3]",<class 'list'>,<class 'int'>,3
+1262,9JKocVTsH8BqceCNXqNxbh,"[14, 8, -16, 13]",<class 'list'>,<class 'int'>,4
+1263,9rHKSpntBV779roE3TvsQ4,"[0, -1, -18, -4, -6, 16, -16, 10, 8, -3, -16, 0, 9]",<class 'list'>,<class 'int'>,13
+1264,b9j6rU5JnMb4z6YLyQErXs,"[12, -32, 19, -19, -5]",<class 'list'>,<class 'int'>,5
+1265,PAazc6q45asMLyS7QMvGhC,"[10, 18, 8, 25, 11, -6, 26, 20, -23, 20, -11]",<class 'list'>,<class 'int'>,11
+1266,Qe428aDrDVZamfFz7nXRKB,"[-5, -12, 20, -9, -1, -6, 3]",<class 'list'>,<class 'int'>,7
+1267,BKdLerLSpat8eAVFZq6ukg,"[-17, -14, -10, -18, -17, 30, 10, 24, -2, 1, 11, -10, -19]",<class 'list'>,<class 'int'>,13
+1268,MVoiSS3VVT8ou5Pgr3WFBT,"[16, 9, -9, -21, -6, 3]",<class 'list'>,<class 'int'>,6
+1269,ho5X7b723txr2oq4fcjakx,[-16],<class 'list'>,<class 'int'>,1
+1270,5Z5bEuHou66eAp2HfbAkWg,"[4, 3, -15, -5]",<class 'list'>,<class 'int'>,4
+1271,o3Bg5mC6XHxJiQvVfBtwPc,"[21, -13, 14, 12, -11, 4, -8, 19, -15, 5, -1]",<class 'list'>,<class 'int'>,11
+1272,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1273,TL8km4ARKhbUk95pVtdPbS,"[9, -22, 12, 11, -22, -13, 8, -15, -4, -15, 2, -5]",<class 'list'>,<class 'int'>,12
+1274,CbAniZN85zDG4rce5Uxxm6,"[-23, 3, 1, 11, -19, -17, 11, -10, -25]",<class 'list'>,<class 'int'>,9
+1275,jnCmiojj2iqLcTnK4pXV26,"[-3, 22, 27, 30, 4, -18, 30, 26, -18]",<class 'list'>,<class 'int'>,9
+1276,9GTtErzSQw3o8f9RmBDWsX,[-27],<class 'list'>,<class 'int'>,1
+1277,B7Ewu4mLRYYGp7HENwBBu7,"[-7, 22, 7, 14, 1, -15]",<class 'list'>,<class 'int'>,6
+1278,JnN2SGe2VH9WeAsAXjfCGk,"[-15, -3, 0, -23, -21, -21, -14, 14, 19, -7, -4]",<class 'list'>,<class 'int'>,11
+1279,gVyk3pqaAiBVNvNHrQTm8t,"[-5, 5, -12, 0, -28, -13, 31, 15, 15]",<class 'list'>,<class 'int'>,9
+1280,jMDJy3AfQB8R96C8JtnNhc,"[-23, -17, 4, 17, -18, -22, -18, 5, -21, 20, -24, -12]",<class 'list'>,<class 'int'>,12
+1281,MRc7SEZbiHevTxTBNHJYCk,"[-15, 16, -12, 6, -21, -3, 20, 3, -4, -18, 9, -15]",<class 'list'>,<class 'int'>,12
+1282,PMNtWqAhKDdQMUrKHvs9F9,"[15, -1, -5, 6, 16]",<class 'list'>,<class 'int'>,5
+1283,YFsvbxebCsU6MNRuiECe2f,[-3],<class 'list'>,<class 'int'>,1
+1284,insCxbmDkFpYmm96FdCtuZ,"[-6, -9, 4, 16, 11, -5]",<class 'list'>,<class 'int'>,6
+1285,RzZziXYzmjUF7bpKaNvGJk,"[6, 8, -10, -24, -14, 15, -10, -18, -6]",<class 'list'>,<class 'int'>,9
+1286,5QgaHK6X4gt6sBFZwFx3pq,"[32, 19, -16, 22, 2, -8]",<class 'list'>,<class 'int'>,6
+1287,Qpzry24y5igro6Qe3RLtMW,"[-5, 14, 2, -17, -1, 12, 0, 9]",<class 'list'>,<class 'int'>,8
+1288,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1289,HYWWGyvY7ZAfcpFtK3w9dn,"[-25, 1, 5, -2, -5]",<class 'list'>,<class 'int'>,5
+1290,bwqHTmyFLd4fQxrRWyNR4c,"[9, 5, -13, 22, -10, -4]",<class 'list'>,<class 'int'>,6
+1291,BHVnfvALw7ZofbzQAwpqpC,"[-4, -6, 8, -5, 16, 20, -3, 12, -17, 19, -11]",<class 'list'>,<class 'int'>,11
+1292,aBzUJkQkag9Jw7hUduCmK2,"[-10, -9, -23, -28, 10, 13, 11, 9, -30, -4, -30, -1, -11, -7]",<class 'list'>,<class 'int'>,14
+1293,TyRofk3m4iQH3Vt286B97U,"[-21, -27, -20, -20, -22, 10, -5, 0, 0, -13, 7, -10, -3]",<class 'list'>,<class 'int'>,13
+1294,PFy8C2xzGNv4fc54SaXbBM,"[-26, -2, -30, -3, -6, -6, -3, -21]",<class 'list'>,<class 'int'>,8
+1295,N8MpwFwkPKWW479rhnX7Tr,"[-21, 6, -17, -20, 1, 6, -19, -7, 14]",<class 'list'>,<class 'int'>,9
+1296,kZZ8u6sqe2VLE8L8JQxqK5,"[-28, -27, 17, -21, -21, -29, -16, -19, 9, 8, 16]",<class 'list'>,<class 'int'>,11
+1297,QVhCRExu4hzDQMiJALXZV7,"[-7, -9, -30, 7, -25, 20, 12]",<class 'list'>,<class 'int'>,7
+1298,MGWAirsU73rVEueX4toATQ,"[21, -8, 32, -2, 26, 9]",<class 'list'>,<class 'int'>,6
+1299,iL5rkSfYxroxQqFnmBTYgG,"[8, 18, -19, -13, -7, 13, 1, 22, 10, 12, -3]",<class 'list'>,<class 'int'>,11
+1300,Y2qzyUArLCBm5CGedS3a9J,"[7, 28, 9, -7, 7, 21]",<class 'list'>,<class 'int'>,6
+1301,QSpbVsgTqEcA6jtvoBjh94,"[19, -3, 13, -2, 8, 11, 20, 11, 5, -12]",<class 'list'>,<class 'int'>,10
+1302,8dD8ccLo5j5dywx2qSdzfB,"[-19, 25, 20, -12, 8, 27, 8, 19, 17]",<class 'list'>,<class 'int'>,9
+1303,2HgUVfHcZsQhgohGFj68Ra,"[1, -17, 6, -7, -18, 13, 0, -13, -12, -3]",<class 'list'>,<class 'int'>,10
+1304,P5fQKDgVjvtJwuQ8qdN3Hk,"[31, 5, 3, -1, 22, 27, 2, 8]",<class 'list'>,<class 'int'>,8
+1305,9vBe5VWYvD76PciKG7FPwk,"[-9, -18, 1, 3, 18, -17, 2]",<class 'list'>,<class 'int'>,7
+1306,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1307,b7sQExwCosHNhvaZPyT6Rc,"[27, 13, 6, 19, -6, 24, 3, -10, -8, 29, -11]",<class 'list'>,<class 'int'>,11
+1308,DbBkPRAXs8dZRdhVnGEBS4,"[-19, -14, 1, -5]",<class 'list'>,<class 'int'>,4
+1309,Y8zACzhrHby5DaEfuaHCkf,"[3, -11, -11, 14, 14, 6, -10, -5, -5, 17, 14, 15]",<class 'list'>,<class 'int'>,12
+1310,6uxrkqPNQnQFmK77BJcQoG,"[17, -5, 1, 1, 9]",<class 'list'>,<class 'int'>,5
+1311,MwCS5oMMwuDHs2sh737ejf,"[-17, -1, 7, 14]",<class 'list'>,<class 'int'>,4
+1312,fCh75JZox7JHPGHDaRdHAA,"[-28, -15, -25, -14, -16]",<class 'list'>,<class 'int'>,5
+1313,YFcHE3BCviHsyj3AxADKX5,"[32, -18, -19, -7]",<class 'list'>,<class 'int'>,4
+1314,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1315,iMFQKj3ADiFuvHAAvWX8vP,"[6, 4, 1, -7, 20, 2, 13, 6]",<class 'list'>,<class 'int'>,8
+1316,Bziz4NcukeHsyh4xfTojXE,"[12, 10, -15, -10, 4, 5, -3, -16, 0, 22, 12, 24, 16, 27]",<class 'list'>,<class 'int'>,14
+1317,J7v84mDf6SXBF4K3oT6ZoP,"[0, 9, -22, -18, 12, 16, -13, 8, 13, 13]",<class 'list'>,<class 'int'>,10
+1318,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1319,4J8z6LzGwSCwH5cMH8YBZU,"[1, 2, 0, 14]",<class 'list'>,<class 'int'>,4
+1320,auNdMisq4J9No2aYdf5tir,"[18, 9, -15, 18, 14, 17]",<class 'list'>,<class 'int'>,6
+1321,HwxumH6R3j32BcUSqThaNL,"[-6, -6, 7, -11, -25, 9, 0, 0]",<class 'list'>,<class 'int'>,8
+1322,5WLTcbcd3L38rV4p4RWWhs,"[-22, 8, 15, -23, 8, 25, -27, -15, -12]",<class 'list'>,<class 'int'>,9
+1323,fzquFFWjTu48YmHKsJZs99,"[-6, 1, -23, 18, -3, 27, 17, 10, -2, 24, -17, -23, -10]",<class 'list'>,<class 'int'>,13
+1324,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1325,gqYfHzdtUyJMKxBbwS4tn7,"[-8, 20, -5, -14, 1, 18, -8, 13, 6, 13, -14, -1]",<class 'list'>,<class 'int'>,12
+1326,JuF3anAEa8D3LAXM56z6PL,"[20, 0, -24, 12, 9, -9, 3]",<class 'list'>,<class 'int'>,7
+1327,NtkHALS5h7EEiaMeJm5t3h,"[2, 7, 24, 0, 21, 11]",<class 'list'>,<class 'int'>,6
+1328,XcEmnvV7Gz3xcqDvvFokVt,"[8, -7, 25]",<class 'list'>,<class 'int'>,3
+1329,7RQmc6SraXgCZjmbeXTNdV,"[0, -30, 12, -1, -33, 8, -2, -23, -13, -9, 13, -17]",<class 'list'>,<class 'int'>,12
+1330,7pTYWcGiT4LtR5Di8fsfzr,"[10, -7, 18, 6, 1, 25, 12, 11, 3, 20, 10, 10, 11, 22]",<class 'list'>,<class 'int'>,14
+1331,CxBovb7VQ3bhtkuGxjLTrG,"[-8, 26, 5, -1, -18, 10, 15, -14, -6, 9, -2]",<class 'list'>,<class 'int'>,11
+1332,Uz3LbviTx99BTq2zLWwLFd,"[-9, -10, -4, 18, 17, 13, 7, 10, 8, 21, 9, -3, -15, 21]",<class 'list'>,<class 'int'>,14
+1333,UE7DAGUxmGtNhupChjYdSi,"[13, -1, -7, 10, 7, 4, 5, 9, 0, 10, -13, -16, -13, -1]",<class 'list'>,<class 'int'>,14
+1334,95TzZkcLocpDbKw6F598y4,[-14],<class 'list'>,<class 'int'>,1
+1335,EoYra8Xykn76Fnd9XsjBJz,"[13, -3, -5, 14, -16, -5, -4]",<class 'list'>,<class 'int'>,7
+1336,4vaauomSKBd6nt7ePaDQan,"[-2, -2, -1, 8, -15, 19, -4, -14, 1, -9, 15, 3, -4, 3]",<class 'list'>,<class 'int'>,14
+1337,JV4LJWwu4a7dBbpyiErPyw,"[24, -3, 23, 24]",<class 'list'>,<class 'int'>,4
+1338,bD88LszqoB3gZp9ArwSW3J,"[6, -3, -11, 18, 21, 24, 3]",<class 'list'>,<class 'int'>,7
+1339,gGQX2cwYMJhDEeBSCAwV3f,"[23, 20]",<class 'list'>,<class 'int'>,2
+1340,Qof8nabLZQdQiEowTsmwgp,"[-21, -26, 17, 8, -27, 19, -24, 13, 15, 16, 11, 14, -29, 18]",<class 'list'>,<class 'int'>,14
+1341,ay86KiAJaDuboT2rKdnWo6,"[-11, 4, 9, 1]",<class 'list'>,<class 'int'>,4
+1342,iz8cWUUFgKgxm2pZNCUbg8,"[15, -7, 18]",<class 'list'>,<class 'int'>,3
+1343,8nTKA5XBpF88Cxoe6YmicC,"[-2, -21, -11, 13]",<class 'list'>,<class 'int'>,4
+1344,cxUYHJH68LB3MuD37D8LhZ,"[0, -4, -6, 5, 22, 0, 14, 23, 17]",<class 'list'>,<class 'int'>,9
+1345,hCu4zCsUxQ43LieTCw5mSA,"[-17, -9, -18, 2, -6, 1, 22, -16, 16, 5, 15, -6, 1]",<class 'list'>,<class 'int'>,13
+1346,UNQbtdniGuDZdjBjKodeDm,"[5, 18, 0, 2, -23, 16, 14]",<class 'list'>,<class 'int'>,7
+1347,fg3p2xUQoxTzNpWfkoJ9mJ,[-21],<class 'list'>,<class 'int'>,1
+1348,9hksR7qYTPS8ieVFJZwtJ9,"[-10, -2, -3, -25, 16, -26, -26, -23, 20, -17, 9, -8, -23, -24]",<class 'list'>,<class 'int'>,14
+1349,cFzoWzBWDdRnaJnagyotSz,"[20, 4, -9, 11, -7, 3, -12, 13, 9, -30, -16, -19, -19, -26]",<class 'list'>,<class 'int'>,14
+1350,ZV9jUQ7qiPCUGix4hgtLYm,"[0, -13, 4, 3, 19, 22]",<class 'list'>,<class 'int'>,6
+1351,YxUyvJD8F67smq9moH4nRw,"[8, -14, 33, -21, -5, -13]",<class 'list'>,<class 'int'>,6
+1352,ZNzfaCk5vgRGxgEJVesXBX,"[11, -16, 3, 20, -12, 1]",<class 'list'>,<class 'int'>,6
+1353,2oYHm3LmSY9ryh9NRRpmCu,"[-11, 21, -11, -11]",<class 'list'>,<class 'int'>,4
+1354,Ma6cbwm3fUQVXsnCp7ddK8,"[-17, 12, -6, 14, 7, -30]",<class 'list'>,<class 'int'>,6
+1355,WL97YqXqd4GEVwkzJEwZsv,"[-12, -10, 3, -7, 25, 25, -16, -4, 30, 25, -3, -6, -31, -32]",<class 'list'>,<class 'int'>,14
+1356,aV69Cinc9XGKSNqvdWSvas,"[1, 11, 20, 14, -24, 16, 5, 21, 17, -20, 9, 22]",<class 'list'>,<class 'int'>,12
+1357,Phj62e4TbMj3nN6F3DKECH,"[-20, 14, 22, 18, 21]",<class 'list'>,<class 'int'>,5
+1358,fs7GjNScURcyMQVv35XGzt,"[14, -7, -9, -6, -2, 7, -6, -2, 9]",<class 'list'>,<class 'int'>,9
+1359,W3ZmPVjmUcyGsx7EDHMgAm,"[7, 26, 17, 3, 6]",<class 'list'>,<class 'int'>,5
+1360,eTWCDVBy7A7MEzrT2U7bCb,"[-25, 3, -12, 4, 0, -10, -1, 14]",<class 'list'>,<class 'int'>,8
+1361,8kjZnJPtStx3qQ3FXhr9dC,"[-8, -3, -24, 9, 2, -10, -3, -21, -20]",<class 'list'>,<class 'int'>,9
+1362,8fdzsc9gDjip3zwDDgwLFb,"[14, 19, -14]",<class 'list'>,<class 'int'>,3
+1363,boFqLPdFgmKeDTqJeRFmEP,"[-20, -13, -22, 0, -11, 6, -21, 16, 1, -27, 7, -15, -14, -3]",<class 'list'>,<class 'int'>,14
+1364,YDNgxQfbTtVk6WYvRkWMkX,"[-8, 13, 21, 18, -17, 1, 6, 24, 3, 18, 0, -11]",<class 'list'>,<class 'int'>,12
+1365,PWHXNcw6zkiMy54ysTVDUB,"[11, 3, 14, -5, 15, 17, 22, -1, 12, 5, -7, -13]",<class 'list'>,<class 'int'>,12
+1366,9CGgEQng8dWErvxaeyTiKP,[-6],<class 'list'>,<class 'int'>,1
+1367,DsiPnXw77KKShH5KHCPUwN,"[3, 13, -19, -22, -14, -24, -12, 2, -12]",<class 'list'>,<class 'int'>,9
+1368,9YfxDHZRbAo9ZAkobeR8xg,"[2, 8, 15, 29, -6, -2, -8, 28, -17, -11, 8]",<class 'list'>,<class 'int'>,11
+1369,ifbe7E2UskKqgHvyQeA2w5,"[11, -4, 1, 12, 12, 22, 5, 16, 15, 14, 5]",<class 'list'>,<class 'int'>,11
+1370,YbBi8XYwpRGRJ3UzPVdNXW,"[-2, -3, -14]",<class 'list'>,<class 'int'>,3
+1371,gd6ynjXDNEWDif4L9uHShb,"[-8, -8, 10, 4, 2, -14, 18, 7, -22, -1, 1, 14]",<class 'list'>,<class 'int'>,12
+1372,9GTtErzSQw3o8f9RmBDWsX,[-27],<class 'list'>,<class 'int'>,1
+1373,nPfauSRPeac9iYPjuSftSP,[-5],<class 'list'>,<class 'int'>,1
+1374,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1375,hToqCPgUxZAgAtwMF6zSKx,"[-11, -23, 18, 3, -9, -4, -1, -5, -3]",<class 'list'>,<class 'int'>,9
+1376,Kjjo5NCsybEmdt5zh4VhP3,"[-17, -12, -3, -20, -3, 4, -7, -13, -6]",<class 'list'>,<class 'int'>,9
+1377,iDSjp8SRGxg4GoJE5MfGi4,"[4, 12, 2, 3, -8, 15, -18, -13, -10, -4, 14]",<class 'list'>,<class 'int'>,11
+1378,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1379,LLUtCrAEzyvXHSnwvELJJM,"[7, 20, -15, -2, 19, -7]",<class 'list'>,<class 'int'>,6
+1380,Sus5ki5ij8Rq6bD5berhcv,[18],<class 'list'>,<class 'int'>,1
+1381,FE82trtUHW5iSdzc2qEu6V,"[-12, 3, 18]",<class 'list'>,<class 'int'>,3
+1382,oBFBFmmwrxMvDqCwQnYEBv,"[-15, 0, 23, -1, -14, -12, 0, 26, 1, -10, -10, -1, 20]",<class 'list'>,<class 'int'>,13
+1383,655PNQNS5rpJ4Ds7FGwrfm,"[-17, -8]",<class 'list'>,<class 'int'>,2
+1384,KSJhhVCbuCahwwLcXzYi4t,"[22, -18, 22, 16, 15, -5, -7, 21, 27]",<class 'list'>,<class 'int'>,9
+1385,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1386,6YjoftS6XoU36KSRpQz3h7,"[-19, -1]",<class 'list'>,<class 'int'>,2
+1387,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1388,2mcCYEa5KTYspiZDbozfmM,"[-14, -6, 18, 11, -15, 2, -7]",<class 'list'>,<class 'int'>,7
+1389,TvpFMGygdc5YCtDtEmM5zx,"[-24, 8, -32, -25]",<class 'list'>,<class 'int'>,4
+1390,dmGe5eER6Gw7TQjrQHg8qn,"[24, -11, 19, -7, -11, -3, -1, -3, -5, -1, 24, -8]",<class 'list'>,<class 'int'>,12
+1391,mgZCewjJPmzdBRStDt2qa3,"[-8, 0]",<class 'list'>,<class 'int'>,2
+1392,ENwqbAd8htjVrkWhX63YJ2,"[27, 9]",<class 'list'>,<class 'int'>,2
+1393,2ugaxtTbGykUDExHUTRDz7,"[14, -6, 26, 2, -15, 9, -7]",<class 'list'>,<class 'int'>,7
+1394,kKgXvc5PxMtuppeSYPvYu5,"[-22, 9, -33, -30, -23, -21, -34]",<class 'list'>,<class 'int'>,7
+1395,Z9f7cRuHcuQ9aAbePhEj3Z,"[-17, 14, -2]",<class 'list'>,<class 'int'>,3
+1396,BvAS9AgDNcfEe9fGsiUc3g,"[2, 18, -8, 23, 8, -4]",<class 'list'>,<class 'int'>,6
+1397,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1398,boRqgLWtn9NePyyqcnh7j9,"[-1, -14, 20, -5, 20, 17, -1, 18, -2, 8, -3, 18, 27, 18]",<class 'list'>,<class 'int'>,14
+1399,jZJZaYMr9akcZ6PcP9GAGK,"[6, -3, 20, 17, 18, 19, -20, -14]",<class 'list'>,<class 'int'>,8
+1400,6RD9wfB8DUSNQotqY4rhcc,"[-22, -11]",<class 'list'>,<class 'int'>,2
+1401,fkpAA8orcA6T8TASRmtQMg,"[-6, 6, 0, -7, -5, -10, -15, -15, 17, -16, 14]",<class 'list'>,<class 'int'>,11
+1402,8tTuDgTFda4iyjyqgTDm4j,"[-9, 8, 2, -9, -6, 6, -24, -5, -11, -10, -13]",<class 'list'>,<class 'int'>,11
+1403,jkn7XoYRN9L5pkPKhXiGyo,"[13, 1, 17, -7, 0, 23, -10, -2, -13, -16]",<class 'list'>,<class 'int'>,10
+1404,nFoLbXUTt8qcaUde9cCgNL,"[16, -1, 10, 0, 9, -14, -7, 4, 2, 9, 15]",<class 'list'>,<class 'int'>,11
+1405,5kfT4WndrFQhgJagsZFrAM,"[7, 5, -27, -27, 19]",<class 'list'>,<class 'int'>,5
+1406,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+1407,BJb2TJfuVubtXsy7ztZnKK,"[0, -13, -11, 15, 24, -19, 30, -14, -1, -14, 0, -8, -22]",<class 'list'>,<class 'int'>,13
+1408,h7R4Yzh8Ve2EXad46i3yZK,"[2, 2, -6, 1, 2, 7, -10, -7, 4, 9, -15]",<class 'list'>,<class 'int'>,11
+1409,jrWu8X7m5z6QCFib5htjEw,[20],<class 'list'>,<class 'int'>,1
+1410,YpQJkXH6jry9eZHzQubNUZ,"[-13, 17, -27, -32, 33, -32, 8, 6, 23, 9, 12]",<class 'list'>,<class 'int'>,11
+1411,75uzw9J4Cp2KaqJ8yiXfTN,"[-2, -15, -23, -9, -11, -14, -12, -7]",<class 'list'>,<class 'int'>,8
+1412,XkLfNKdxCiDpSN5utVvdR3,"[8, 14, 12, -8, 2, -6, 1, 3, 18, 12, 16, -15]",<class 'list'>,<class 'int'>,12
+1413,7AyNhyyrD3GprtDGLfeTQ9,"[-18, -22, -31, -25, -23, -27, 19, 18, 3, 4, -4, 21, 8, 23]",<class 'list'>,<class 'int'>,14
+1414,ndQ4GBZ7e2ScNTnqqSTT6J,"[0, -20, 22, 9, -20, -29, 23, -12, -14, 16, 10]",<class 'list'>,<class 'int'>,11
+1415,8FRL7Yz2RUpsDzktbcXAAm,"[-5, -25, 24, 3]",<class 'list'>,<class 'int'>,4
+1416,J3aDj22TSpJMez444BJow3,"[6, -9, 4, 8, 17, 17, -7, 9]",<class 'list'>,<class 'int'>,8
+1417,hQH4xY3o5pVqzwQEn6cBSU,"[15, -8, -11, -17, 7]",<class 'list'>,<class 'int'>,5
+1418,YvZ7KWc3KbCDqBfbCNTY5P,"[-5, 9, 5, -3, 13, -9, 6, 10, 9, -17, -10, -4, -5, -14]",<class 'list'>,<class 'int'>,14
+1419,6A2zBztU5vT3Ubi3AjgoEa,"[19, 1, -8, -22, 19, -3, -10, 5, 13, 4, -4]",<class 'list'>,<class 'int'>,11
+1420,AHohqvV5GdeaTjJBHaBKrp,"[-10, -26, -13, 11, -6, -26, -18, 9, 3, -8, -23, -13, 18]",<class 'list'>,<class 'int'>,13
+1421,Ft2gaiFfgeZaf9bs8Rymc7,"[-30, 13, 8, 15, 26, -18, 19, 16, -2, -21, 18]",<class 'list'>,<class 'int'>,11
+1422,XDiEukTjYMr9aMdnGZistQ,"[-14, -5, -3, 10, 7, 11, 3]",<class 'list'>,<class 'int'>,7
+1423,JnvuTTNDEqYWQzgBMt9EK6,[21],<class 'list'>,<class 'int'>,1
+1424,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1425,fYpGXwJu3HK2CcfQRrf8Jd,"[12, -16, 9, 10, -7]",<class 'list'>,<class 'int'>,5
+1426,ngYTp5bBQQc8wSuE8izf9J,"[-24, -21, 1, -1, -24, 6, 13, 4]",<class 'list'>,<class 'int'>,8
+1427,krPcaTRko4f4xk7J6JFtkT,"[22, 26, 18, 10, -11, -17, -17]",<class 'list'>,<class 'int'>,7
+1428,AyJGy8wHPhG8T76RiEc5h2,"[-6, -3, -15, -5, 3, -19]",<class 'list'>,<class 'int'>,6
+1429,oNbJrDybZZmSx6stLVLdtM,"[14, 8, 12, -16, 4, -14, -1, -9, -17]",<class 'list'>,<class 'int'>,9
+1430,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1431,dW7s9KWaCP8gLVkZGUouUM,"[22, 6, 6, 3, 20, 7, -10, -2, -6, -10, 5, -7, 5]",<class 'list'>,<class 'int'>,13
+1432,a7TSChLnQcykLTDvxMig42,"[10, -18, -10, 15, 10, 9, -3, -9, -1]",<class 'list'>,<class 'int'>,9
+1433,M6HviLT5vM7vvUCEWerK8Q,"[-17, -1, 14, -15, -9, -3, -7, 3, -8, -1, -10, -9, -9, -16]",<class 'list'>,<class 'int'>,14
+1434,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1435,MoSxUwg5gZoL8BUftXTNCr,"[10, 27, -27, -24, 25, -8, 0]",<class 'list'>,<class 'int'>,7
+1436,YtxmvopQZ4x2dWJihKLMWx,"[-10, 8, 9, -16, -21, -16, -2, 13, 12, 26, -1, 9, 28, -23]",<class 'list'>,<class 'int'>,14
+1437,oKW9G6vQ8opVTEbYdofg5Y,"[15, -25]",<class 'list'>,<class 'int'>,2
+1438,9mKhQpnHCkPDkkcNWDNzM4,"[-15, 24, 5, 7]",<class 'list'>,<class 'int'>,4
+1439,RqN4LvvS7aQZMYJJPGyMgL,"[0, -18, 2, 12, 24, 4]",<class 'list'>,<class 'int'>,6
+1440,LGGZAsiekASvDxHZzqakE7,"[27, -1, -17, -9, -26, 23, -11, 18, 10, -8]",<class 'list'>,<class 'int'>,10
+1441,7Cg4kcuHLSR3DUgwwM7r5z,"[-24, -23, 0, 13, -23, -28, -17, -13, -5, 12]",<class 'list'>,<class 'int'>,10
+1442,6EwgQ3AAdSWBR2hu6oYTfK,"[27, -13, -10, 0, 18, -11]",<class 'list'>,<class 'int'>,6
+1443,JMmyeoksBW5YQcKjLhTSy9,"[-9, -4, 3, -22, -22, -3, -7, -7, -13, 1, -9, 17]",<class 'list'>,<class 'int'>,12
+1444,ahHvZoEJU53Nvo7vR8JpDc,"[-27, -18, -25, -26, 7, 23, -16, -22, -10, -16, 25, -20]",<class 'list'>,<class 'int'>,12
+1445,NTtmCTNwbtnefNpnQ8xEEW,"[12, 19, 0, -21, -11, -30, -4, 18]",<class 'list'>,<class 'int'>,8
+1446,JzUxn4ZtzZtWsY9xMKYfdN,"[16, -6, -2]",<class 'list'>,<class 'int'>,3
+1447,UCWzqzRbpXsvGdKs3LdLnc,"[-5, -14, 15, 9, 12, -24, 15, -29]",<class 'list'>,<class 'int'>,8
+1448,6Cz6uczXyEKdBbhUMBBrdz,"[9, 1, -2, -2, -7, -9, 9, -14, -12, 5]",<class 'list'>,<class 'int'>,10
+1449,StLb2NTD5x7Vp2WdMNAiCk,"[-6, -22, 27, 7, -6]",<class 'list'>,<class 'int'>,5
+1450,FQTPgH2dudXe2wTxrR35VY,"[4, 26, 19, -24, -17, -27, -20, 6]",<class 'list'>,<class 'int'>,8
+1451,JNXuTe48cFWvNKJibN4hgh,"[2, 7, 6, -9, -9, 15, -9, -10, 23, 2, 4, -6]",<class 'list'>,<class 'int'>,12
+1452,V92vFXY2nRTwH8Qx3CASZw,"[-23, -25, -23, -6, 4, 18, 21, 2, 24, -19, 18, -12, 20, 24]",<class 'list'>,<class 'int'>,14
+1453,HmsmKTAZLVFnBBk7eDAcL3,"[4, -19, -19, -20, -11, 22, -2, 0]",<class 'list'>,<class 'int'>,8
+1454,dJsgUDZPt3HWCyoRsYzgWs,"[-2, 8, -24, 22, -13]",<class 'list'>,<class 'int'>,5
+1455,UaGwzfMqMDMkutLc5KewZw,"[-9, 21, -22, -2, 11, 5, -15, 7, 12]",<class 'list'>,<class 'int'>,9
+1456,8smo959HquReAjrS54PvY3,"[18, -4, -9, -20, -4, -25, 19, -19, -22, 12, 9, -10, 0, -5]",<class 'list'>,<class 'int'>,14
+1457,SB2LWK5xvsdVpk3dhUYhST,"[7, 14, -13, -22, -25, -3, -13, 4, 10, 3]",<class 'list'>,<class 'int'>,10
+1458,Ld27pEPQAtvj9nQgu7R9ZF,"[-2, -12, -27, 2, 15, -20, 2]",<class 'list'>,<class 'int'>,7
+1459,6e2v4LHqyRUyHaRPxbYe2Q,"[-8, -10, 9, 1, 12, -15]",<class 'list'>,<class 'int'>,6
+1460,34aTPqdDdwH8XeqFKruPcu,"[-24, -18, 24, 23, 28, 2, -15, -16, -21, -29, 12, -19]",<class 'list'>,<class 'int'>,12
+1461,9iH9W9EU3DqSWRV2YBZehb,"[-2, -24, -26, -19, -3, -17, 3]",<class 'list'>,<class 'int'>,7
+1462,3fS4QYQG8iBN5eDMyoiCie,"[7, -25, -20, 3, 0]",<class 'list'>,<class 'int'>,5
+1463,2WGmyJAoFMPdJJqXocHBhd,"[-17, 27, 23, 5, 25, 16, 4, 18, 20, -7, 1, 3, 15, 23]",<class 'list'>,<class 'int'>,14
+1464,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1465,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1466,oUzqbVWdYa8MZJPNatZhLU,"[10, -6, -13, -16]",<class 'list'>,<class 'int'>,4
+1467,CMRPrmhwTMZX7Ltu6gHjdN,"[-23, 17, 15, -22]",<class 'list'>,<class 'int'>,4
+1468,FuskzbnXr66yLf88Un7A4F,"[-15, -21, -13, 25, 13, 20, 25, -14, -13, -26]",<class 'list'>,<class 'int'>,10
+1469,8Fsw8tmbmDYz6AEpfFEvYm,"[-15, 1, -8, -15, -2, -10]",<class 'list'>,<class 'int'>,6
+1470,fBQJbaSjJs8qHgXGSA9mnH,[-18],<class 'list'>,<class 'int'>,1
+1471,WghpaP5ctqvr7Q8DRtJcQj,"[-20, 2, 13, -24, 15, 17, -14, -8, 15]",<class 'list'>,<class 'int'>,9
+1472,PaaBQsXfHSChF959sjeM78,"[29, 1, -13, 23]",<class 'list'>,<class 'int'>,4
+1473,2oqBZtkqDDRS9g7WqLpv8x,"[-18, 7, 6, -4, -2, -18]",<class 'list'>,<class 'int'>,6
+1474,Kxmtr8nZMe3LkbFE6dLoBb,"[13, 23, -7, -24, 21, -16, -6, 24, 13, 15, -27, -6, -27, 8]",<class 'list'>,<class 'int'>,14
+1475,T7efcMtfLawMk3oc7QnmD2,"[23, 3, 28, 20, 7, 6]",<class 'list'>,<class 'int'>,6
+1476,f8FDDif5ChzzTEmTUy6ZpB,"[-2, 0, -15, -22, 14, -15, -8, 2, 16, -12, 7, 0, -24]",<class 'list'>,<class 'int'>,13
+1477,LRUUnAJjoAT7w4E7z7n8ts,"[-3, -10, 6, 2]",<class 'list'>,<class 'int'>,4
+1478,NBfesVgrJs5WHxRfKw2YB8,"[-5, -7, 15, 15, 17, -20, -2, -10, 11, 20, 23, 0]",<class 'list'>,<class 'int'>,12
+1479,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1480,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1481,JEi8qKdEYQchd2npetcemk,"[-29, 1, 3, 2, -17, -10, 4, -12, -24, 15, -14]",<class 'list'>,<class 'int'>,11
+1482,HWUKxNSz76Y4a6GCfutk2w,"[13, 10, 12]",<class 'list'>,<class 'int'>,3
+1483,cmKWnS8xNS2YqmDEmvyQmu,"[-16, 20, -19, -16]",<class 'list'>,<class 'int'>,4
+1484,V4ezUkwmPrCijJYxiaKfo6,"[11, -17, 17, -4, -11, -3]",<class 'list'>,<class 'int'>,6
+1485,jfQTBPy3SwbLRJjL6p4ovU,"[19, 17, -12, 7, 20, 19, -7, 3, -15, 22, 12, -9, -15]",<class 'list'>,<class 'int'>,13
+1486,HMjeJJpyZMwhjfLuJM3y8q,"[10, 12, -3, -11, 4, -6, -8, 9, -9, -17]",<class 'list'>,<class 'int'>,10
+1487,LqoZNFrNHAXSwHXeZJU559,"[13, 17, -13, 12, -16, 3, 13]",<class 'list'>,<class 'int'>,7
+1488,NXtdYf8BrNowGYPvRpMZqR,"[-13, -5, 1, -17, -20, -8, 5, -8, -8, 12, -1, 0, -16]",<class 'list'>,<class 'int'>,13
+1489,HygFztaZzFmhzeymSwyZN9,"[-1, 1, -10, -27, -19, -22]",<class 'list'>,<class 'int'>,6
+1490,YGvHQWagBpoBHfC7eArKHM,"[-15, 16, 20, -23, 15, -18, -23, -4]",<class 'list'>,<class 'int'>,8
+1491,7UH9FpuYxPtSJr4YYsUfFi,"[12, -9, -12, -8, 14, -1, 11]",<class 'list'>,<class 'int'>,7
+1492,Hp9rb9dhabieArQgoTmEB7,"[-13, 0, -2, 1, 19, 3, -20, 1, 20, -22, -9, -19, -19]",<class 'list'>,<class 'int'>,13
+1493,WTo5jnTvTZshctXeBffo5v,"[0, -6, -5, -8, 1, -11, 10, 22]",<class 'list'>,<class 'int'>,8
+1494,24xf36XYz39ebqNDEZMGtC,"[-23, -23, -14, -27, 22, -22, -7, -13, -15, 30, -3, 1]",<class 'list'>,<class 'int'>,12
+1495,MyyPA3VmbBic8pvcb9TNJm,"[20, 2, 4, 3, -9, 23]",<class 'list'>,<class 'int'>,6
+1496,dtpaZAksbffrXGGXjUPFH6,"[-10, -1, -18, 2, 8, -8, -4, -7, -15, -17, -17, 5, 3]",<class 'list'>,<class 'int'>,13
+1497,JFBqPhqi3iTHbNNm9gvmqi,"[-32, -19, 14, -23, -33, 20, -15, 1, 2, 2, -8]",<class 'list'>,<class 'int'>,11
+1498,gsH8TG5qQbMM5LDBapnHGr,"[2, -9, -28, -21, 3, -17, -10, -29, -13, -20, 10]",<class 'list'>,<class 'int'>,11
+1499,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1500,E3dzTvLvHGdUuETGHKL7UR,"[23, -26, 21, -23, 6, 20, -7]",<class 'list'>,<class 'int'>,7
+1501,7g8HpciS8c9BnxFvzFawQR,[-17],<class 'list'>,<class 'int'>,1
+1502,BqmZz2uaXXzDoKCWSc3Mhz,"[-10, -6, -16, -15, -17, 7, 15, 8, 9, 12, -5]",<class 'list'>,<class 'int'>,11
+1503,gb96qPijsfzXJNGc3C6qyJ,"[-6, 2, 9, -3, 22, 3]",<class 'list'>,<class 'int'>,6
+1504,Bv6vWyErZjFEm6xQ4KG27t,"[-19, -11, 24, 1, -15, -19]",<class 'list'>,<class 'int'>,6
+1505,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1506,mr4unikiCpRtSchNbDk4mh,"[15, -4]",<class 'list'>,<class 'int'>,2
+1507,XhQk9PJxPGCNqfdqHnBFwp,"[-2, 0, -2, 4, 5, 1, -20, -16, -22, -17]",<class 'list'>,<class 'int'>,10
+1508,hojy7Cjb7DZCTSiJDEERJd,"[-11, -4, -27, -10, -10, 10, 13, 9, 18, 5, 11]",<class 'list'>,<class 'int'>,11
+1509,E7yNpGXXHgySeGvhVtRwRA,"[-14, 26, 28, 5, 6, 8, -18, 8, 17, -19, -17, 13, 4]",<class 'list'>,<class 'int'>,13
+1510,fTFYvhr7FKBt2RktLnCueD,"[12, -1, 11, 3, 21, 3, 16, 25, 18, 17, -10, 10, 4, 19]",<class 'list'>,<class 'int'>,14
+1511,g2CkfwowXSwukxxVs3h9nu,"[15, 2, -24, -24, -9, 0, 18, 21, 21, -12]",<class 'list'>,<class 'int'>,10
+1512,CrqKiY58YYmccVxNQd89WW,"[7, -6, -13, -8, -10, -10, 6, -23, 10, 2, 20, 5]",<class 'list'>,<class 'int'>,12
+1513,9vHgwTpGsY7PAc9EAkCRrP,"[-1, 16, -14, 22, -4]",<class 'list'>,<class 'int'>,5
+1514,EtuTujamHcsuV28k3mK3Ub,"[-17, 3, 12, -4, -10, -18]",<class 'list'>,<class 'int'>,6
+1515,7xT4jrDfgqhh8tSoSNXbnQ,"[22, 4, 2, 9]",<class 'list'>,<class 'int'>,4
+1516,7Kc6uxHdS3psS9YpbTadsk,"[13, -15, -18, -21, 17, 17, 29, 1]",<class 'list'>,<class 'int'>,8
+1517,gndtRyDkPmAfag7jgxts4T,"[-9, -27]",<class 'list'>,<class 'int'>,2
+1518,8GVJhouHzc6jAjGjBAhcrb,"[-15, -6, 13, -4, -2, 7, -5, 5, 3, -9, 13, 5, 4, 1]",<class 'list'>,<class 'int'>,14
+1519,gzWEjn3jzXm8QTuiPYBiKv,"[7, -8, -7]",<class 'list'>,<class 'int'>,3
+1520,kvQwxDGfsLLm8RaFWbQ6bA,"[-12, -25, 13, -23, -23, -15, 2, 3, 32]",<class 'list'>,<class 'int'>,9
+1521,WHtTdCdgQj6Hc8bamwQwBw,"[-5, 1, -21, 5, 14, 4, 18, -16, -17, -8, 13, -5, 8]",<class 'list'>,<class 'int'>,13
+1522,M2xbZvZd2MP2xCpEkKPSUC,"[6, 10, -9, 13, -26, -21, 7, -11, -17, -14, 1, -13, -24, -23]",<class 'list'>,<class 'int'>,14
+1523,P9MxP8kzTrmGe8qwT3CXyw,"[-21, 1, -20, -13]",<class 'list'>,<class 'int'>,4
+1524,2dW4qK6tThQ8H8bnVMY7YH,"[-17, -8, -5, -16, -13, 3, 7, 4, -23, -20]",<class 'list'>,<class 'int'>,10
+1525,JGje9gYe8iC4NtpPPBJDBM,"[-25, 2, -15, -16, -3, 11, 7, 5, 8, -4, -28, -28, -1]",<class 'list'>,<class 'int'>,13
+1526,cxHPxCNMsRKx66uehBVp6U,"[-7, 2, 10, 4, 7, -13, 9]",<class 'list'>,<class 'int'>,7
+1527,YgJ8SkYQ7qbsuqxVzPuT7i,"[22, -13, 1, 0, -5, 5, 3, -9, 8]",<class 'list'>,<class 'int'>,9
+1528,ibi8kvHBPMtiLxVJPqQt2t,"[-23, -11, -12, 9, -23, -21, 14, 5, -25, -4, 2, -14]",<class 'list'>,<class 'int'>,12
+1529,DXmzazQeKmSg5XRkopDVyh,"[8, 3, -23, 1, -14, -22, -24, -25, -14, 1, -9, 20, 13, -6]",<class 'list'>,<class 'int'>,14
+1530,mcJ8Pq2JhFE3LZuiAAgoDn,"[-3, -20, 18, 5, 16, 16, 7, -16, -4, 18, -3, 12]",<class 'list'>,<class 'int'>,12
+1531,Nm86Ldy6ypLnLox2NhCWmf,[5],<class 'list'>,<class 'int'>,1
+1532,LaE6Fas88F9iYMKxzXXemX,"[-10, 27, -8, 1, 2, 15, -8, -9, 4]",<class 'list'>,<class 'int'>,9
+1533,W8yWecPpTGDJLrxSyVwNDG,"[10, 14, -2, 13, -19, -17, 13, 10, -4, 13, -27, -17]",<class 'list'>,<class 'int'>,12
+1534,HyvZb3c4c9vogrTcdvvimX,"[4, 18, 24, 24, 20, 14]",<class 'list'>,<class 'int'>,6
+1535,hHu83fXhHoY4gHXbtWEnjq,"[18, 10, -13, -30, 29, -14, -1, -5, -11]",<class 'list'>,<class 'int'>,9
+1536,7pL2yK3wCcFCqTRdhTY73r,"[23, -16, -11, -16, 20, 28, -5, 12, -7, -8, -15]",<class 'list'>,<class 'int'>,11
+1537,RJw5nH5j8hzNpcJgktKDH6,"[18, -26, -28, -26, -16, -16, 20, 25, 10, 7, 29, -11, -2, 7]",<class 'list'>,<class 'int'>,14
+1538,EeweUs9BKHGdmGLamtNBz4,"[23, -34, 21, 29, 29]",<class 'list'>,<class 'int'>,5
+1539,XqdAjWTnsisWGrDVvZaHyo,"[9, -1, 11, -7, 19, -15, -11, -17]",<class 'list'>,<class 'int'>,8
+1540,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1541,PQVnRiBCvLK4Hq7ykKQoWj,"[20, 31, -1, -17, 23, -1, 8, 22, 19, 10]",<class 'list'>,<class 'int'>,10
+1542,gUypEVp7tdKhRf5xZK8yPT,[-7],<class 'list'>,<class 'int'>,1
+1543,SDrGygpmx6igfbhiedzYvJ,"[4, -13, -25, 11, -9, -24, -2, 18, -9, -26, -25, -14, 25, 20]",<class 'list'>,<class 'int'>,14
+1544,2FzpquYJhvx5gkayFoE5VR,"[-11, 4, -30, 13, 15, -27, -27, 10, 17, 26, 14]",<class 'list'>,<class 'int'>,11
+1545,fXQo5HWqqDSA8nrJk6wSzq,"[-32, -7, -30, 22, 9, -6, 8, 13, -18, -17, 17, -12, -31, 22]",<class 'list'>,<class 'int'>,14
+1546,A9djDotqmAJrksGRbSTd5W,"[-30, -23]",<class 'list'>,<class 'int'>,2
+1547,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1548,2nQt8HuNJkrj3mVVpCAmDP,"[4, -9, -23, -24, -19, 22, -17]",<class 'list'>,<class 'int'>,7
+1549,CXMVeu6NiRi9d6eZb75d5q,"[10, -5, 18, -12, 21, -6]",<class 'list'>,<class 'int'>,6
+1550,gQkUzvYtNXVuTvPqrd4JmZ,"[9, 4, 0, -15, 20, -16, -12, -10, -17, -12, -17]",<class 'list'>,<class 'int'>,11
+1551,FHwMGxoJWd33hR5XhC5JAQ,"[-19, -5, 19, -19, 17, -25, 27, 23, 25, 33]",<class 'list'>,<class 'int'>,10
+1552,b95c4QwbFdMsaYsqEkUqNf,"[29, 25, 0, -8]",<class 'list'>,<class 'int'>,4
+1553,Pg9ov8VmoXYBg2kkCHgqR7,"[4, 19, 9, -11, -15, -2, -8, 1, -1, -3]",<class 'list'>,<class 'int'>,10
+1554,2XPNxtfze8Wyc4FpRLJLx9,"[-8, 2, -7, -4, 5, -1, -5, -9, -5, -11]",<class 'list'>,<class 'int'>,10
+1555,Ercs3HchU6dUA5UJePh87A,"[-5, -2]",<class 'list'>,<class 'int'>,2
+1556,nURt5dnDAjJty6aGHR38Gy,"[26, 17, 5, -31, 21, 13, -23, -23]",<class 'list'>,<class 'int'>,8
+1557,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1558,fgL9q75NEtMJaPbPm2Mat4,"[-3, -3, 17, 15, 12, -22, -10, 7, 7, 7, -15, -12, 6]",<class 'list'>,<class 'int'>,13
+1559,erEkEHza6pBf78huyGs8XT,"[19, 10, -14, 13, -17, 11, -21, -18, 21]",<class 'list'>,<class 'int'>,9
+1560,RmFForPsauqo4UTLuSyXou,"[-15, -21, 7, -23, -16, -14, 9, -2, -27, -8, -10, -14]",<class 'list'>,<class 'int'>,12
+1561,Qd3gn77SqFhvJFBJwpJbh9,"[-5, 14, 8, -11, 1, -21, -16]",<class 'list'>,<class 'int'>,7
+1562,fq4ywU8q4cx72U6ccr9uJy,"[-14, 1, -31, -32]",<class 'list'>,<class 'int'>,4
+1563,n5CyUS8Px9bQP9xpP6DREQ,"[-8, -18, -23, -29, -2, -19]",<class 'list'>,<class 'int'>,6
+1564,k7RJdMyt2yeDbENhBxKm2y,"[-18, -1, 0, 9, 23, -2, -6]",<class 'list'>,<class 'int'>,7
+1565,fwU9wWEWDFsM3GTt35PB4y,"[6, -21, -7, -22, 24]",<class 'list'>,<class 'int'>,5
+1566,HDZzD6jgwwxcCJpgdidEqd,"[15, -16, -9, -5, -18, -2, -15, 5, 7, -12, 10, 12, -5, 12]",<class 'list'>,<class 'int'>,14
+1567,db2Rat86YBJ4thqEHEspHi,"[13, 1, -2, 10, 18]",<class 'list'>,<class 'int'>,5
+1568,UKaj4S3wS8zXLeaFuXrSAg,"[-10, 2, 20, -22, 22, 15, 16, 22, 25, 23, 6]",<class 'list'>,<class 'int'>,11
+1569,akXijV6sThyEx4HtRcB6ki,"[-19, -18, -16, -15, -25]",<class 'list'>,<class 'int'>,5
+1570,nbhtN37XVfnSjY4nXFGwkY,"[-1, 18, -4, -5]",<class 'list'>,<class 'int'>,4
+1571,8AMoJpqA2tbK89XxeFJyYA,"[-6, -7, 7, 1, -14, -7, -3, 2, 13, 20, 4, 6, -11]",<class 'list'>,<class 'int'>,13
+1572,PhoTA9GTVdJBcKkcxgtDKi,"[8, -7, -22, -11, 13, 5, -13, 2, 18, 1, -13, 19]",<class 'list'>,<class 'int'>,12
+1573,TYFJ2po3mEczb4jTVoAXvW,"[-4, -8, 11, -6, -16, 7, 3, -16, -4, -16]",<class 'list'>,<class 'int'>,10
+1574,cukrkZjZy73fbhWopK2ynt,"[0, -2, -31, -11, 4, 5]",<class 'list'>,<class 'int'>,6
+1575,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1576,7KWHJcNszNTHxYvw2adXUV,"[-20, -13, -10, -27]",<class 'list'>,<class 'int'>,4
+1577,c9gy2eCoPEkaFx7tqwTGRc,"[26, -17, 17, 25, 15, 17, -15, -8, -2, 1, 22, -4]",<class 'list'>,<class 'int'>,12
+1578,NMLWE7rQ7zJZFbPEmqjuoJ,"[20, -1, -16, -6]",<class 'list'>,<class 'int'>,4
+1579,5JrL3D3ja9qhz294BonXJD,"[25, -16, 32, -2, 0, -14, 2]",<class 'list'>,<class 'int'>,7
+1580,Q6qdRkk7BzAz5vyz7fcXnb,"[-20, 6, -6, -24, 13, 18, -22, 8, -22, -13, -11, 15, -15, -2]",<class 'list'>,<class 'int'>,14
+1581,ihaZKW9EpXCsPzPvbiZXfY,"[-19, 2, -4, -13, -17, -7, 22, -6]",<class 'list'>,<class 'int'>,8
+1582,Q6nU6bu2uUYKg4aTLHwH8H,"[0, -2, -25, 1, -26]",<class 'list'>,<class 'int'>,5
+1583,6oFJEWKwk2PnCLPNvNhYSb,"[-19, 16, -7, -14, -1, -1, -10, 6, -11, -19, 17, -1]",<class 'list'>,<class 'int'>,12
+1584,B2q4pGA7wkpea8i73hRhNp,"[-1, -1, -4, -9, 2, -9, 2, -8, 4, 4]",<class 'list'>,<class 'int'>,10
+1585,KwLZeRWP8UArpaWY3vpxPd,"[1, 13, -6]",<class 'list'>,<class 'int'>,3
+1586,eZV3EQB9ePD59xLarfLkZP,"[8, -15]",<class 'list'>,<class 'int'>,2
+1587,C5Loo4t7s24KkXvW7kYxVh,"[-1, 9, 3, -2, -21, -6, 16]",<class 'list'>,<class 'int'>,7
+1588,PejaHmrYgvxq66mmL5ncVh,[12],<class 'list'>,<class 'int'>,1
+1589,Qak4gs6Y6bn6H2PzChA6ed,"[31, 5, -13, -8, 5, 20, 18, 23]",<class 'list'>,<class 'int'>,8
+1590,k8piDPyN7pZtT9fk3Vqyog,"[-14, 0, -27, 4, -20, 11, -2]",<class 'list'>,<class 'int'>,7
+1591,6jm5mU9ordLJpZ3vsHBfWJ,"[-4, -20, -20, -1, -16, 2, -7, 9, 19, -20, 7, 8]",<class 'list'>,<class 'int'>,12
+1592,Rt66psGRidfdisCMNRPR8U,"[26, -1, -17, -5, -12]",<class 'list'>,<class 'int'>,5
+1593,Jys9oXnoKxwdzT7gtCRvWe,"[11, 18, 11, 11, 17, 22, 15, -7, -3]",<class 'list'>,<class 'int'>,9
+1594,McSAL36W6eFqLiVEjQhA5J,"[0, -13, 14, -15, 1, 13, -24]",<class 'list'>,<class 'int'>,7
+1595,Vqrdv6RnZirWSbqndun7As,"[-11, -13, 26, 5, 2, -24, -26, -23, -9, 2, 6, 23, -25, -34]",<class 'list'>,<class 'int'>,14
+1596,fFmxPChp3mXeYD2yXLj8Nc,"[17, -4, 5, 12, 15, 1, 16, -14, -15, -9]",<class 'list'>,<class 'int'>,10
+1597,Svd6zx3jbpeqn3Z6t5ZtKw,"[0, 17, -2, 0, 0, -1]",<class 'list'>,<class 'int'>,6
+1598,9s44MgBpkNBq4BmN5rPMtR,"[-9, -9, -32, -6, 15, -20, -21]",<class 'list'>,<class 'int'>,7
+1599,jytF2zLNpsVJVq2o5mQhFW,"[-4, -22, -23, 2, -20, 5, 17, 27, -5, -6, -18]",<class 'list'>,<class 'int'>,11
+1600,eUSddJPZhfKqvVinprUFNi,"[-6, -18, 11, 15, -23]",<class 'list'>,<class 'int'>,5
+1601,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1602,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1603,f4qUTmskvVfbnb43xgeNzq,"[8, -5]",<class 'list'>,<class 'int'>,2
+1604,LaL9whkTzcS7Pt5CTtAK8N,"[-3, 6, -29, -26, -30]",<class 'list'>,<class 'int'>,5
+1605,MgYvK3R86jEPMD332yAUG2,"[-17, -13, 22, -8, 9, 13, 22, 0, 31, 18, -7, 25, 19, 0]",<class 'list'>,<class 'int'>,14
+1606,ENAoF6nRkyaEUS9H5dGdMN,"[-4, 8, -12, 11, 12, -8]",<class 'list'>,<class 'int'>,6
+1607,KunRiHuDEGBaMHj9meZcxM,"[14, 11]",<class 'list'>,<class 'int'>,2
+1608,WNLXBM23AYB5mGHTRT6e7o,"[2, 6, -1, -12, -10]",<class 'list'>,<class 'int'>,5
+1609,GBmknML7nB6K8HYa7xLaZp,"[-6, -22, -16]",<class 'list'>,<class 'int'>,3
+1610,NtLWqdKELScMeitCWdMVsK,"[-23, 25]",<class 'list'>,<class 'int'>,2
+1611,5j8HUmpPc3vfnr7WS6SiUg,"[2, 3, 6, 2, 18, -10, 19, 19, 16, 15]",<class 'list'>,<class 'int'>,10
+1612,PikyqRwiFSgepbK3fdMJU5,"[17, -27, -29, -15, 1, 3, 10, 8, 6, 2]",<class 'list'>,<class 'int'>,10
+1613,ACxNNayMTv77v8EFAbaUmK,"[-32, -22, 19, -9, 7, -23]",<class 'list'>,<class 'int'>,6
+1614,d9QHnMbc8GWHu3zuot6q4p,"[-17, 13, 22, -19, -11, -25, 10]",<class 'list'>,<class 'int'>,7
+1615,A9o5vxVnXmRjF2VqrZHeSB,"[4, 6, 22, -1, 3, -12, -7, 10, 7, 9, 28, 20, 15, 14]",<class 'list'>,<class 'int'>,14
+1616,iAWM9CBn5NqqS5XTQMW656,"[24, 11, -12, -26, 10, -6, -11, 19, -18, 13, 28, 23, 19]",<class 'list'>,<class 'int'>,13
+1617,XuyVjqVdjGWfW5ja5xxeeR,"[-1, 11, -1, -3, 18, 0, 10, -4, 16, 5, 18, 2, 14, 2]",<class 'list'>,<class 'int'>,14
+1618,isMiNJgyArvAGKg7vqJDQm,"[-13, -11, -17, 5, 13]",<class 'list'>,<class 'int'>,5
+1619,c4AZ2sTVszDZFyiRpJvbAL,"[15, -18]",<class 'list'>,<class 'int'>,2
+1620,CAsCvX3ZLCqjP3AreeM4iV,"[0, -17, -2, 9, -15, 13, 4, 2, 12, 5, -9]",<class 'list'>,<class 'int'>,11
+1621,RLks9fBFMybrySZY3sCUCS,"[-16, -18, 5, -13, 28, 26, 8, -4, 18, -23, -11, -33, -15, 31]",<class 'list'>,<class 'int'>,14
+1622,DtpdpLUvaunPYboyDKXzg3,"[18, -14, -1, -15, -27, -12, -17, -5, 8, -3, -5, 8, -19]",<class 'list'>,<class 'int'>,13
+1623,3JWmyYiDRFqGMb6zRV9dwU,"[6, -9, 0, -9, -10, 2, 1, -19, 13, 24]",<class 'list'>,<class 'int'>,10
+1624,TXk7xAwLJpxaDcurwBMqvh,[11],<class 'list'>,<class 'int'>,1
+1625,9f3swYf37V6TNmybWUw6TH,"[-10, 12]",<class 'list'>,<class 'int'>,2
+1626,StPgDkUN3FYSaFmFL2rjyp,"[-25, 11, 17, 5, 14, 8, 8, 21, -25, 27, 3]",<class 'list'>,<class 'int'>,11
+1627,bgnVCSfSXKr5ZfNbUunind,"[-2, -16, -15, -10]",<class 'list'>,<class 'int'>,4
+1628,HLCFbKM9hMV7HqSU8vuap4,"[13, -23, 10, 6, 1, -18]",<class 'list'>,<class 'int'>,6
+1629,atA8vxUvo9XVqwz3QgypNi,"[-7, -13, -2, -16, -2, 2, 7, 7, 9, -2]",<class 'list'>,<class 'int'>,10
+1630,A4KjYuV3G6VZW5MPG9mbRJ,"[-9, -18]",<class 'list'>,<class 'int'>,2
+1631,2TMg5EESVyqgwGMqaJ2oRr,"[18, -27, 0, -11, 12, -23, 7, -24, 7, -17, -29, -7]",<class 'list'>,<class 'int'>,12
+1632,ExaF5oXUTW28gQPTDNXQtC,"[13, 16, 21, 15, 25, -9, -27, -33, 1, 6, -1, 22, -5]",<class 'list'>,<class 'int'>,13
+1633,3nkHbS9aFP2QrpMLHHbZ7x,"[9, 1, -3, -10, -3, -1, 6, 4, 8, 18]",<class 'list'>,<class 'int'>,10
+1634,NQGPwLpAqhA3TF3mL3kA9D,"[-9, -7, 0, -18, 10, 1, 4]",<class 'list'>,<class 'int'>,7
+1635,jYW8GYNxgSuKMdA7AAZFhS,"[2, -1, -5, 1, 22, -6, -13, -9, -1, 9]",<class 'list'>,<class 'int'>,10
+1636,VgiCmMei2J6LYVWmt7QgDm,"[13, 12, -7]",<class 'list'>,<class 'int'>,3
+1637,JYzEcxpzMaVdwo7CMd8CLj,"[-20, -2, -17, 24, 4, 11, -32, -13]",<class 'list'>,<class 'int'>,8
+1638,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1639,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1640,k3U95jEGfaLRwtfmAg2UXs,"[0, 14, 8, 17, -16, -8]",<class 'list'>,<class 'int'>,6
+1641,B8y2LfMWEqAB6exT22Bzfp,"[17, 13, -6, 20, -5, 4, 17, 5, -29, -27, -13]",<class 'list'>,<class 'int'>,11
+1642,YUU3ktyEea3x9jatu5MP26,"[-10, 22, -4]",<class 'list'>,<class 'int'>,3
+1643,8EqM97wK9Bg2GBGAnfYUV8,"[-13, 4, -17, -15, -9, -13]",<class 'list'>,<class 'int'>,6
+1644,PS9dYLYNCcQsetSg3itRcE,"[-24, -18, -22, -31, -19, -20, -30, -9, -23, -20, 15, 13, -12, 12]",<class 'list'>,<class 'int'>,14
+1645,eRotEtUkq8BB2bhnR69YHX,"[-7, 22, -5, 20, -14, 26, 23, 6, 18, 15]",<class 'list'>,<class 'int'>,10
+1646,T37NfD2CkMxuaVBdgtZaZk,"[-1, 21, 6, 1, 10, 17, -3, 16, -11, 18, 29, 1, 30]",<class 'list'>,<class 'int'>,13
+1647,b5TsXpFXEes4m9MfYVBYyv,"[-2, 10, -25, 8, 22]",<class 'list'>,<class 'int'>,5
+1648,3j56qYb35V3Rx3GbhZvDXs,"[-5, -1, 12]",<class 'list'>,<class 'int'>,3
+1649,mdN88Qq8Yp93pUTfYoLcM7,"[-19, 6, -8, -14, -13, 25, 27, 4, -17, 28]",<class 'list'>,<class 'int'>,10
+1650,DQbcgT337KdvoG59cgT8KP,"[-13, -20, 20, -32, 26, 28, 28, -33, -5]",<class 'list'>,<class 'int'>,9
+1651,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1652,fAvUT3TokoLxLbiJGavZKt,"[15, 16, 16, -8]",<class 'list'>,<class 'int'>,4
+1653,Efr862E3j2ogHHZTmXCCsh,"[-10, -11, -23, 21, 6, -10, -6, 14, -17, -1, -23, -25, 3]",<class 'list'>,<class 'int'>,13
+1654,NBFzDBNyMkPqFrcvWV3Tuo,"[-3, -3, 2, 16, 1, 3, -15]",<class 'list'>,<class 'int'>,7
+1655,SLv7mNrqmYNyKAMKkTyZ3C,"[2, -11, 11, 12, -4, 13, -26, -5, -10, -9]",<class 'list'>,<class 'int'>,10
+1656,hYBwR8TxFuXiQXqhydpfVT,"[14, -9, -22, -20, 7, -9, 14, 3, -1, 5, -27]",<class 'list'>,<class 'int'>,11
+1657,EStMRL9ywNYjebMepK8Dvt,[8],<class 'list'>,<class 'int'>,1
+1658,gxeUyBjtXdTAvKumu55cmx,"[-21, -23, 1, -7, -5, -16]",<class 'list'>,<class 'int'>,6
+1659,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1660,DtBAAhKCtc7fKBJ3RKEJYT,"[-6, 13, 5, -18, 20, -5, -2, 10, 4, -10]",<class 'list'>,<class 'int'>,10
+1661,WYeyEB9naWjSGRLvGvHvFm,"[-6, 18, -4, -7, 0]",<class 'list'>,<class 'int'>,5
+1662,Bwm9etxCbUgc6DqJ29PuEo,"[-22, -26, -11, -21, -14, -10, 1, -7, -3, 15]",<class 'list'>,<class 'int'>,10
+1663,WQMwem3PmqfJesLiU7mtBW,"[4, 1, 2, 12, 21, 4, 1, 17]",<class 'list'>,<class 'int'>,8
+1664,4HbsQeAn2bCqzDwh6c7uHW,"[-5, -7, -8, 16, 16]",<class 'list'>,<class 'int'>,5
+1665,DXB8iiT3rPGE8do57Jh953,"[5, -14, 0, -1, 17, -13, -5, -14, 6]",<class 'list'>,<class 'int'>,9
+1666,dUyrGxA3ZzXbpGJTMppVzU,"[-21, -16, 15, 16, 8, 16]",<class 'list'>,<class 'int'>,6
+1667,GCMucDMJtjHwnwhYKT25X4,"[18, -5, 13, 12, 9, -11]",<class 'list'>,<class 'int'>,6
+1668,DBv9f6hRk9kL3tEEF8WSsL,"[-6, -9, 3, -7]",<class 'list'>,<class 'int'>,4
+1669,7bbg2yWmeKSBC9RcKD9JAc,[-29],<class 'list'>,<class 'int'>,1
+1670,PMC3BH7TmxbSLovGxFD8d7,"[-10, -5, 19, -9, -4, -19, -6, 1, 23, -4, -2, -19]",<class 'list'>,<class 'int'>,12
+1671,Z6NMUeDosBBWcegmdE6GL5,"[-3, -25, -3, 9, -6, -10, 15, 14, 8, 15, -5]",<class 'list'>,<class 'int'>,11
+1672,JqYYbbGDzeyUqouSHsVWED,"[5, -1, 21, 12, -4, 19, 18, -2, 2, 3, 23]",<class 'list'>,<class 'int'>,11
+1673,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1674,JdhSL9KotnspGNnPseA7ji,"[10, 11, -3, -14, -14, -12, -2, 0, 1]",<class 'list'>,<class 'int'>,9
+1675,f7dJ8pA5gNUXydPpivS7Jz,"[9, 2, 6, -5, 2, -3, -3, -13, 12]",<class 'list'>,<class 'int'>,9
+1676,AzvuAAYgB9yrrqqE5cYyWV,"[-5, 11, -17, -12, -4, 11, 12]",<class 'list'>,<class 'int'>,7
+1677,HNoLiEUWtKMmJB7nAjE6DJ,"[-14, -18, 13, -17, 1]",<class 'list'>,<class 'int'>,5
+1678,CTaLhVFsPUccjJDfqLjz3o,"[8, 8, -24, -8, 15, -3, -11, -16, -3, -18]",<class 'list'>,<class 'int'>,10
+1679,aJmQ6Ut38uYYWrt74kXV6r,"[-20, -7]",<class 'list'>,<class 'int'>,2
+1680,iF9HpEsaNAwytPjsYgZBqR,"[-13, 19, -3, -3]",<class 'list'>,<class 'int'>,4
+1681,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1682,2CVVcJmhUSv3e3FbeMZC2N,"[-4, 6, 6]",<class 'list'>,<class 'int'>,3
+1683,LoYiNnQwDN9H6C6KuRryeE,"[-13, 10, 23, 19, -2, 5, 0, 18, -1, -5, -7, 21, 20, 4]",<class 'list'>,<class 'int'>,14
+1684,6f6D454NKKCFAziV3xaptT,"[-10, -8, 7, 7, 4, 3, 19, 23]",<class 'list'>,<class 'int'>,8
+1685,cVaKoz9NAjzUQtmB3Bw8YX,"[11, 13, 8]",<class 'list'>,<class 'int'>,3
+1686,7RimHqMGdVKTidae3dP5A5,"[7, -11, 12, -21, 3]",<class 'list'>,<class 'int'>,5
+1687,9mUDtWkuB6TdEc3Z8kjTd3,"[-17, -8, -1, 13, -11, -7, -6, -16, 6]",<class 'list'>,<class 'int'>,9
+1688,jVfx3Joz6nQb5gn5Woyji9,"[-14, -6]",<class 'list'>,<class 'int'>,2
+1689,ZTAZTY8WVZ4WYoXEN53K3d,"[-15, 20, -10, 28, 2, 30, 11, 10]",<class 'list'>,<class 'int'>,8
+1690,NEWn6GwEbDxTzc3x7LYWL9,"[-23, -2, -14, -24, 19, -10, -21, 9, -15, -22]",<class 'list'>,<class 'int'>,10
+1691,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1692,QYJezjXXCFokL9V5j8eB6s,"[17, 8, 9, -7, 10, -19, 5]",<class 'list'>,<class 'int'>,7
+1693,5GZ8a5qFoL22nah8SLJPzo,"[-11, 0, -9, -8, 7, 7, -8, 3, 9, -8, 4, -3, 4]",<class 'list'>,<class 'int'>,13
+1694,2PPgABGM3PVcjtqcVtUQtH,"[-1, -3, 16, 3, 8, -16, 3, 10, -5, 0, -6, 9, 2, 25]",<class 'list'>,<class 'int'>,14
+1695,SyDzcjSfwJ25RbbeeegwpY,"[-24, 12, -16, 14, -9]",<class 'list'>,<class 'int'>,5
+1696,VpTME5Dg6YKtte5ebHnYZK,"[-4, 14, -19, -18, -28, 20, -5, -2, 13, -23, -24, 17, 17, 14]",<class 'list'>,<class 'int'>,14
+1697,SqWcTJ4Y5d8qUrhBLjqqpS,"[-11, 0, 7, 18, -22, 2, 9, -8, -17, 16, 12, -5, 13, 10]",<class 'list'>,<class 'int'>,14
+1698,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1699,hJ3zpttrSZWFxhstEPXEN5,"[8, 21]",<class 'list'>,<class 'int'>,2
+1700,E3KcVzEkWywCyiCkbNvJwU,"[4, 13]",<class 'list'>,<class 'int'>,2
+1701,4CPDQ8nSzaHhsV8ucqmEvD,"[-17, -14, 12, 16, 9, -1]",<class 'list'>,<class 'int'>,6
+1702,mVe7eYTKL9h3xny3nScs6Q,"[1, -8, -11]",<class 'list'>,<class 'int'>,3
+1703,StUbzbamn77HXpBgMc4SAf,"[-9, -20, 18, -4]",<class 'list'>,<class 'int'>,4
+1704,HmNh6a5CvxsjrkQBhE893T,"[-6, 7, -3, -7, 21, 4, 12]",<class 'list'>,<class 'int'>,7
+1705,TNAtaw2tVBAorjnvw6jV3u,"[-19, 15, -15, 32, 9, -19, -12, -13, 20]",<class 'list'>,<class 'int'>,9
+1706,F4APrM3RRv3mLfqiMGSR9U,"[-5, -18, 1, -13, 1, 12, -14, 31, 27, 4]",<class 'list'>,<class 'int'>,10
+1707,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1708,KbPJNtTMfLRdHpN4BkSBcv,"[-22, 10, -15, -14, -13, -11, -9]",<class 'list'>,<class 'int'>,7
+1709,ZQ3udXnx2fDCVvwRXpDJJB,"[-13, -4, -27, 3, -25, -20, -23, 2, 14, 3]",<class 'list'>,<class 'int'>,10
+1710,CNFPTV8FdXKGSNMjWPtoWp,[],<class 'list'>,None,0
+1711,3dh4MPMY87CffngTkGmxBB,"[-7, -15, -16, -19, 8, 11, 8, 9, 11, -2, -11, -14, 13]",<class 'list'>,<class 'int'>,13
+1712,TXk7xAwLJpxaDcurwBMqvh,[11],<class 'list'>,<class 'int'>,1
+1713,QPqZKF7G9fDt7iugMJZcGu,"[-6, -1, 0, 2, -16]",<class 'list'>,<class 'int'>,5
+1714,ZpL4Qj3iUZjksDvY4GhD5s,"[-25, 29, 7, 6, 26, 19, 2, 11, 15, -4, -13, -21, -19]",<class 'list'>,<class 'int'>,13
+1715,34PeC92wprTFPkNkdEQ37m,"[19, 23, -5, 16, -1, 12, -15, -22, 4, 3, -12, 22]",<class 'list'>,<class 'int'>,12
+1716,6Yk6keFayiTzLVmvGrn4wu,"[-6, -3, 7, 1]",<class 'list'>,<class 'int'>,4
+1717,mxXKid3wYy9tmH4aCs6jAg,"[22, -3, 13, 13, 3, -11, -22, 17]",<class 'list'>,<class 'int'>,8
+1718,FrhhJe6QbjstbJyy4FwjCP,"[-18, -2, 3, -4, -15, 16, 19]",<class 'list'>,<class 'int'>,7
+1719,N4cCjw2Ly3oxaS2xaY42fx,"[27, 12, 1, -4, 20, 12]",<class 'list'>,<class 'int'>,6
+1720,LRDw2ATZZu4PQH2z5xhasV,"[5, -4, -10, 10, -14, 9, 9, 0, 3, -5, 5, -2]",<class 'list'>,<class 'int'>,12
+1721,fkvjr94wjguQV4NPHF8NEF,"[-10, 5, 6, -7, 1, 8]",<class 'list'>,<class 'int'>,6
+1722,iToHJW6ekZm9LduT4E4vPz,"[-3, 1, -13, -9, -9, -11, 21, -1, 24, -2, 2, 25, -3, 22]",<class 'list'>,<class 'int'>,14
+1723,3ecyfVdgWKmKT4AV6dXWZL,"[-17, 10, 12, -21, -18, 13, -17, -15, -3]",<class 'list'>,<class 'int'>,9
+1724,C2p6XmhqV2pHVGpQnStHW4,"[-9, 22, 5, -24, 29, 14, -13, 0, -18, -2, -21, 2, 24, -6]",<class 'list'>,<class 'int'>,14
+1725,iiYqgBZLRXjzgjQbjYXnJT,"[-7, 4, -11, -3]",<class 'list'>,<class 'int'>,4
+1726,fPG5oDHYp3adHuz43mge4J,"[16, -13, 4]",<class 'list'>,<class 'int'>,3
+1727,a7gk8MoGvdt42dapd2es3M,"[2, 17, 9, -23, -6, 14, -30, -20, 13]",<class 'list'>,<class 'int'>,9
+1728,furS6m2ojdoQ5ychFQseX7,"[-5, -8, 23, 18, -13, -1, -20, -24, -29, -22, -3, -31, -3, 15]",<class 'list'>,<class 'int'>,14
+1729,DMJDyt4hXvXYZkxNdmQ9UT,"[28, 20, 4, 0, 26, 22, 14, -14, 13]",<class 'list'>,<class 'int'>,9
+1730,HeTMXnUVLSmFoQNUmhDJoR,"[-10, -7, 4, 20, -15, 11, 16, -3, 1, 26]",<class 'list'>,<class 'int'>,10
+1731,UdWtua2VtR4AaNKG2nQbsS,"[-10, -8, -8, -10]",<class 'list'>,<class 'int'>,4
+1732,ndNaiJMrCnrjbU5gd3BjMr,"[-4, 20, -2]",<class 'list'>,<class 'int'>,3
+1733,ZogUmTJ5AhGqeUi7LRNPcU,"[-17, -12, -7, -4, -17]",<class 'list'>,<class 'int'>,5
+1734,jEStGdKukz4Cxccor5fEyQ,"[14, 17, 3, 2, 13, -21, 8, -13, 7, -20, -7, -14]",<class 'list'>,<class 'int'>,12
+1735,fZdV3RPkHyQcXR5fcppEfy,"[-6, 28, 8, 13, 18, 30, 2, 4, 10, -2, -7, 8]",<class 'list'>,<class 'int'>,12
+1736,EeSQryCnptZBfMJDA7WVxj,"[-3, 12, 1, 6, 13, -9, 17, -2, -1]",<class 'list'>,<class 'int'>,9
+1737,CSrxNoPX4PZsXWWY38bjXe,"[-3, -13, 1, -4, -19, -14, -20, 15, -6, 10, 15, -9, -13]",<class 'list'>,<class 'int'>,13
